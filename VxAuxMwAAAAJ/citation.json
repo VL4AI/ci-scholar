@@ -1,0 +1,1043 @@
+{
+  "generated_at": "2026-09-05T09:59:20.925076",
+  "google_scholar": {
+    "status": "success",
+    "total_citations": 21644,
+    "5y_citations": 19305,
+    "total_hindex": 45,
+    "5y_hindex": 40,
+    "total_i10index": 86,
+    "5y_i10index": 78,
+    "cites_per_year": {
+      "2014": 57,
+      "2015": 79,
+      "2016": 94,
+      "2017": 191,
+      "2018": 268,
+      "2019": 491,
+      "2020": 979,
+      "2021": 1782,
+      "2022": 2658,
+      "2023": 3244,
+      "2024": 4020,
+      "2025": 4554,
+      "2026": 3039
+    },
+    "publications": [
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:4xDN1ZYqzskC",
+        "title": "Mini-behavior-gran: Revealing u-shaped effects of instruction granularity on language-guided embodied agents",
+        "year": "2026",
+        "venue": "The Conference on Empirical Methods in Natural Language Processing (EMNLP26), 2026",
+        "citations": 1
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:NyGDZy8z5eUC",
+        "title": "VIEW2SPACE: Studying Multi-View Visual Reasoning from Sparse Observations",
+        "year": "2026",
+        "venue": "European Conference On Computer Vision (ECCV26), 2026",
+        "citations": 3
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:0CzhzZyukY4C",
+        "title": "LOGAussian: Efficient Local Gathering for Online Feed-forward 3DGS",
+        "year": "2026",
+        "venue": "The British Machine Vision Conference (BMVC26), 2026",
+        "citations": 0
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:CB2v5VPnA5kC",
+        "title": "Sample-Efficient Learning from Agent Experience",
+        "year": "2026",
+        "venue": "arXiv preprint arXiv:2607.21051, 2026",
+        "citations": 0
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:owLR8QvbtFgC",
+        "title": "What We Talk About When We Talk About LLM Planning: Evidence for Two Distinct Planning Abilities",
+        "year": "2026",
+        "venue": "arXiv preprint arXiv:2607.11197, 2026",
+        "citations": 0
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:buQ7SEKw-1sC",
+        "title": "PING: A Physics-Informed Neuro-Symbolic Generator for Continuous-Time Planning",
+        "year": "2026",
+        "venue": "International Conference on Automated Planning and Scheduling (ICAPS26) 36 …, 2026",
+        "citations": 0
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:IRz6iEL74y4C",
+        "title": "VQ-VA World: Towards High-Quality Visual Question-Visual Answering",
+        "year": "2026",
+        "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR26), 2026",
+        "citations": 2
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:DUooU5lO8OsC",
+        "title": "An empirical study on how video-LLMs answer video questions",
+        "year": "2026",
+        "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR26), 2026",
+        "citations": 4
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:8xutWZnSdmoC",
+        "title": "DPL: Decoupled Prototype Learning for Enhancing Robustness of Vision-Language Transformers to Missing Modalities",
+        "year": "2026",
+        "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR26), 2026",
+        "citations": 0
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:wMgC3FpKEyYC",
+        "title": "Calibanyview: Beyond single-view camera calibration in the wild",
+        "year": "2026",
+        "venue": "arXiv preprint arXiv:2605.14615, 2026",
+        "citations": 1
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:otzGkya1bYkC",
+        "title": "A Simple State Space Model Excels at Multivariate Time Series Classification",
+        "year": "2026",
+        "venue": "arXiv preprint arXiv:2605.27406, 2026",
+        "citations": 0
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:QD3KBmkZPeQC",
+        "title": "ARIS: Agentic and Relationship Intelligence System for Social Robots",
+        "year": "2026",
+        "venue": "arXiv preprint arXiv:2605.00943, 2026",
+        "citations": 0
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:F9fV5C73w3QC",
+        "title": "MATA: A Trainable Hierarchical Automaton System for Multi-Agent Visual Reasoning",
+        "year": "2026",
+        "venue": "International Conference on Learning Representations (ICLR26), 2026",
+        "citations": 2
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:jL-93Qbq4QoC",
+        "title": "A Probabilistic Framework for Hierarchical Goal Recognition",
+        "year": "2026",
+        "venue": "International Conference on Principles of Knowledge Representation and …, 2026",
+        "citations": 0
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:OP4eGU-M3BUC",
+        "title": "Aeroseg++: Scale-aware and texture-guided open-vocabulary segmentation with sam features for remote sensing images",
+        "year": "2026",
+        "venue": "ACM Transactions on Multimedia Computing, Communications and Applications 22 …, 2026",
+        "citations": 3
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:uDGL6kOW6j0C",
+        "title": "dinov3. seg: Open-Vocabulary Semantic Segmentation with DINOv3",
+        "year": "2026",
+        "venue": "arXiv preprint arXiv:2603.19531, 2026",
+        "citations": 0
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:Ehil0879vHcC",
+        "title": "JRDB-Pose3D: A Multi-person 3D Human Pose and Shape Estimation Dataset for Robotics",
+        "year": "2026",
+        "venue": "arXiv preprint arXiv:2602.03064, 2026",
+        "citations": 0
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:LhH-TYMQEocC",
+        "title": "Neurosymbolic Active Goal Recognition in Partially Observable Environments",
+        "year": "2026",
+        "venue": "International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS26), 2026",
+        "citations": 0
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:sNmaIFBj_lkC",
+        "title": "JRDB-Reasoning: A Difficulty-Graded Benchmark for Visual Reasoning in Robotics",
+        "year": "2026",
+        "venue": "The 40th Annual AAAI Conference on Artificial Intelligence (AAAI26), 2026",
+        "citations": 2
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:_FM0Bhl9EiAC",
+        "title": "ECORE: Energy-Conscious Optimized Routing for Deep Learning Models at the Edge",
+        "year": "2026",
+        "venue": "International Conference on Pervasive Computing and Communications (PerCom26), 2026",
+        "citations": 6
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:86PQX7AUzd4C",
+        "title": "Marginalized Generalized IoU (MGIoU): A Unified Objective Function for Optimizing Any Convex Parametric Shapes",
+        "year": "2026",
+        "venue": "The 40th Annual AAAI Conference on Artificial Intelligence (AAAI26), 2026",
+        "citations": 5
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:yqoGN6RLRZoC",
+        "title": "ASAP-Textured Gaussians: Enhancing Textured Gaussians with Adaptive Sampling and Anisotropic Parameterization",
+        "year": "2025",
+        "venue": "arXiv preprint arXiv:2512.14039, 2025",
+        "citations": 0
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:r_AWSJRzSzQC",
+        "title": "Asset-Driven Sematic Reconstruction of Dynamic Scene with Multi-Human-Object Interactions",
+        "year": "2025",
+        "venue": "arXiv preprint arXiv:2512.00547, 2025",
+        "citations": 0
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:_5tno0g5mFcC",
+        "title": "A Multi-Modal Neuro-Symbolic Approach for Spatial Reasoning-Based Visual Grounding in Robotics",
+        "year": "2025",
+        "venue": "arXiv preprint arXiv:2510.27033, 2025",
+        "citations": 0
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:foquWX3nUaYC",
+        "title": "NAVER: A Neuro-Symbolic Compositional Automaton for Visual Grounding with Explicit Logic Reasoning",
+        "year": "2025",
+        "venue": "IEEE International Conference on Computer Vision (ICCV25), 2025",
+        "citations": 16
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:ClCfbGk0d_YC",
+        "title": "DWIM: Towards Tool-aware Visual Reasoning via Discrepancy-aware Workflow Generation & Instruct-Masking Tuning",
+        "year": "2025",
+        "venue": "IEEE International Conference on Computer Vision (ICCV25), 2025",
+        "citations": 8
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:WZBGuue-350C",
+        "title": "NEUSIS: A Compositional Neuro-Symbolic Framework for Autonomous Perception, Reasoning, and Planning in Complex UAV Search Missions",
+        "year": "2025",
+        "venue": "IEEE Robotics and Automation Letters (RA-L), 2025",
+        "citations": 21
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:6ZxmRoH8BuwC",
+        "title": "Explain before you answer: A survey on compositional visual reasoning",
+        "year": "2025",
+        "venue": "arXiv preprint arXiv:2508.17298, 2025",
+        "citations": 29
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:anf4URPfarAC",
+        "title": "Probabilistic Active Goal Recognition",
+        "year": "2025",
+        "venue": "International Conference on Principles of Knowledge Representation and …, 2025",
+        "citations": 6
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:FAceZFleit8C",
+        "title": "Physics-grounded motion forecasting via equation discovery for trajectory-guided image-to-video generation",
+        "year": "2025",
+        "venue": "arXiv preprint arXiv:2507.06830, 2025",
+        "citations": 3
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:PVjk1bu6vJQC",
+        "title": "Aeroseg: Harnessing sam for open-vocabulary segmentation in remote sensing images",
+        "year": "2025",
+        "venue": "2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition …, 2025",
+        "citations": 21
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:LI9QrySNdTsC",
+        "title": "Drvideo: Document retrieval based long video understanding",
+        "year": "2025",
+        "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR25), 2025",
+        "citations": 99
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:_axFR9aDTf0C",
+        "title": "Deep learning classification integrating embryo images with associated clinical information from ART cycles",
+        "year": "2025",
+        "venue": "Scientific Reports 15 (1), 17585, 2025",
+        "citations": 19
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:5qfkUJPXOUwC",
+        "title": "Acoustic-to-Hyper-Spectral: Hyper-Spectral Image Construction from Frequency Spectrums Through Simulated Annealing (Student Abstract)",
+        "year": "2025",
+        "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 39 (28), 29466 …, 2025",
+        "citations": 0
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:jU7OWUQzBzMC",
+        "title": "Mobile-VideoGPT: Fast and Accurate Model for Mobile Video Understanding",
+        "year": "2025",
+        "venue": "arXiv preprint arXiv:2503.21782, 2025",
+        "citations": 0
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:FPJr55Dyh1AC",
+        "title": "Position: prospective of autonomous driving-multimodal LLMs, world models, embodied intelligence, AI alignment, and mamba",
+        "year": "2025",
+        "venue": "2025 IEEE/CVF Winter Conference on Applications of Computer Vision Workshops …, 2025",
+        "citations": 29
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:ruyezt5ZtCIC",
+        "title": "Hier-slam++: Neuro-symbolic semantic slam with a hierarchically categorical gaussian splatting",
+        "year": "2025",
+        "venue": "arXiv preprint arXiv:2502.14931, 2025",
+        "citations": 13
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:-FonjvnnhkoC",
+        "title": "Hier-SLAM: Scaling-up Semantics in SLAM with a Hierarchically Categorical Gaussian Splatting",
+        "year": "2025",
+        "venue": "IEEE International Conference on Robotics and Automation (ICRA25), 2025",
+        "citations": 25
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:MLfJN-KU85MC",
+        "title": "Social-MAE: Social Masked Autoencoder for Multi-person Motion Representation Learning",
+        "year": "2025",
+        "venue": "IEEE International Conference on Robotics and Automation (ICRA25), 2025",
+        "citations": 4
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:HbR8gkJAVGIC",
+        "title": "Acoustic-to-hyper-spectral: real-time perimeter intrusion detection system monitoring through learnable filters and hyper-spectral image generation from distributed acoustic …",
+        "year": "2025",
+        "venue": "Optics Express 33 (3), 4109-4126, 2025",
+        "citations": 8
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:a3BOlSfXSfwC",
+        "title": "Mobile-videogpt: Fast and accurate video understanding language model",
+        "year": "2025",
+        "venue": "arXiv preprint arXiv:2503.21782, 2025",
+        "citations": 9
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:S16KYo8Pm5AC",
+        "title": "TFS-NeRF: Template-Free NeRF for Semantic 3D Reconstruction of Dynamic Scene",
+        "year": "2024",
+        "venue": "Advances in Neural Information Processing Systems (NeurIPS24), 2024",
+        "citations": 7
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:PoWvk5oyLR8C",
+        "title": "Normal-GS: 3D Gaussian Splatting with Normal-Involved Rendering",
+        "year": "2024",
+        "venue": "Advances in Neural Information Processing Systems (NeurIPS24), 2024",
+        "citations": 32
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:i2xiXl-TujoC",
+        "title": "GyroCopter: Differential Bearing Measuring Trajectory Planner for Tracking and Localizing Radio Frequency Sources",
+        "year": "2024",
+        "venue": "IEEE Robotics and Automation Letters (RA-L), 2024",
+        "citations": 5
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:Dip1O2bNi0gC",
+        "title": "Shape-prior Free Space-time Neural Radiance Field for 4D Semantic Reconstruction of Dynamic Scene from Sparse-View RGB Videos",
+        "year": "2024",
+        "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS24 …, 2024",
+        "citations": 0
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:TIZ-Mc8IlK0C",
+        "title": "HYDRA: A Hyper Agent for Dynamic Compositional Visual Reasoning",
+        "year": "2024",
+        "venue": "European Conference On Computer Vision (ECCV24), 2024",
+        "citations": 39
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:b1wdh0AR-JQC",
+        "title": "DifFUSER: Diffusion Model for Robust Multi-Sensor Fusion in 3D Object Detection and BEV Segmentation",
+        "year": "2024",
+        "venue": "European Conference On Computer Vision (ECCV24), 2024",
+        "citations": 48
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:M7yex6snE4oC",
+        "title": "How well can vision language models see image details?",
+        "year": "2024",
+        "venue": "arXiv preprint arXiv:2408.03940, 2024",
+        "citations": 17
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:KxtntwgDAa4C",
+        "title": "Multi-objective multi-agent planning for discovering and tracking multiple mobile objects",
+        "year": "2024",
+        "venue": "IEEE Transactions on Signal Processing, 2024",
+        "citations": 37
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:tuHXwOkdijsC",
+        "title": "JRDB-Social: A Multifaceted Robotic Dataset for Understanding of Context and Dynamics of Human Interactions Within Social Groups",
+        "year": "2024",
+        "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR24), 2024",
+        "citations": 36
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:gsN89kCJA0AC",
+        "title": "JRDB-PanoTrack: An Open-world Panoptic Segmentation and Tracking Robotic Dataset in Crowded Human Environments",
+        "year": "2024",
+        "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR24), 2024",
+        "citations": 16
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:vDijr-p_gm4C",
+        "title": "Series2Vec: Similarity-based Self-supervised Representation Learning for Time Series Classification",
+        "year": "2024",
+        "venue": "Data Mining and Knowledge Discovery, 2024",
+        "citations": 49
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:URolC5Kub84C",
+        "title": "Improving Visual Perception of a Social Robot for Controlled and In-the-wild Human-robot Interaction",
+        "year": "2024",
+        "venue": "ACM/IEEE International Conference on Human-Robot Interaction (HRI24), 2024",
+        "citations": 3
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:XD-gHx7UXLsC",
+        "title": "ConservationBots: Autonomous Aerial Robot for Fast Robust Wildlife Tracking in Complex Terrains",
+        "year": "2023",
+        "venue": "Journal of Field Robotics, 2023",
+        "citations": 17
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:EkHepimYqZsC",
+        "title": "Reply: Artificial intelligence as a door opener for a new era of human reproduction",
+        "year": "2023",
+        "venue": "Human Reproduction Open 2023 (4), hoad045, 2023",
+        "citations": 6
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:q3oQSFYPqjQC",
+        "title": "Unifying flow, stereo and depth estimation",
+        "year": "2023",
+        "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023",
+        "citations": 484
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:GtLg2Ama23sC",
+        "title": "Learning to Learn and Adapt with Less Labels",
+        "year": "2023",
+        "venue": "",
+        "citations": 0
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:ipzZ9siozwsC",
+        "title": "Jrdb-traj: A dataset and benchmark for trajectory forecasting in crowds",
+        "year": "2023",
+        "venue": "arXiv preprint arXiv:2311.02736, 2023",
+        "citations": 7
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:nrtMV_XWKgEC",
+        "title": "Energy-based Self-Training and Normalization for Unsupervised Domain Adaptation",
+        "year": "2023",
+        "venue": "IEEE/CVF International Conference on Computer Vision (ICCV23), 11653-11662, 2023",
+        "citations": 24
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:t7zJ5fGR-2UC",
+        "title": "Physically Plausible 3D Human-Scene Reconstruction from Monocular RGB Image using an Adversarial Learning Approach",
+        "year": "2023",
+        "venue": "IEEE Robotics and Automation Letters (RA-L), 2023",
+        "citations": 5
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:uc_IGeMz5qoC",
+        "title": "Exploring the utility of artificial intelligence of intrapartum cardiotocography: a systematic review",
+        "year": "2023",
+        "venue": "",
+        "citations": 0
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:kzcrU_BdoSEC",
+        "title": "Real-time Trajectory-based Social Group Detection",
+        "year": "2023",
+        "venue": "International Conference on Intelligent Robots and Systems (IROS23), 2023",
+        "citations": 11
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:HE397vMXCloC",
+        "title": "Tracking Different Ant Species: An Unsupervised Domain Adaptation Framework and a Dataset for Multi-object Tracking",
+        "year": "2023",
+        "venue": "International Joint Conference on Artificial Intelligence (IJCAI23), 2023",
+        "citations": 10
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:9Nmd_mFXekcC",
+        "title": "Embryo selection through artificial intelligence versus embryologists: a systematic review",
+        "year": "2023",
+        "venue": "Human Reproduction Open 2023 (3), hoad031, 2023",
+        "citations": 199
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:BrmTIyaxlBUC",
+        "title": "JRDB-Pose: A Large-scale Dataset for Multi-Person Pose Estimation and Tracking",
+        "year": "2023",
+        "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR23), 2023",
+        "citations": 61
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:uLbwQdceFCQC",
+        "title": "Knowledge Combination to Learn Rotated Detection Without Rotated Annotation",
+        "year": "2023",
+        "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR23), 2023",
+        "citations": 29
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:JQOojiI6XY0C",
+        "title": "ProtoCon: Pseudo-label Refinement via Online Clustering and Prototypical Consistency for Efficient Semi-supervised Learning",
+        "year": "2023",
+        "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR23), 2023",
+        "citations": 49
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:mvPsJ3kp5DgC",
+        "title": "MARLIN: Masked Autoencoder for facial video Representation LearnINg",
+        "year": "2023",
+        "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR23), 2023",
+        "citations": 168
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:olpn-zPbct0C",
+        "title": "Accurate and Real-time 3D Pedestrian Detection Using an Efficient Attentive Pillar Network",
+        "year": "2023",
+        "venue": "IEEE Robotics and Automation Letters (RA-L) 8 (2), 1159-1166, 2023",
+        "citations": 53
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:lmc2jWPfTJgC",
+        "title": "Label-efficient Low-shot Transfer Learning via Self-supervision and Language Semantics",
+        "year": "2023",
+        "venue": "Deep Visual Recognition with Limited Human Supervision, 103, 2023",
+        "citations": 0
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:wbdj-CoPYUoC",
+        "title": "How trustworthy are the existing performance evaluations for basic vision tasks?",
+        "year": "2023",
+        "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023",
+        "citations": 51
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:eflP2zaiRacC",
+        "title": "LAVA: Label-efficient Visual Learning and Adaptation",
+        "year": "2023",
+        "venue": "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV23), 147-156, 2023",
+        "citations": 4
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:3s1wT3WcHBgC",
+        "title": "Looking Beyond Two Frames: End-to-End Multi-Object Tracking Using Spatial and Temporal Transformers",
+        "year": "2022",
+        "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022",
+        "citations": 90
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:V3AGJWp-ZtQC",
+        "title": "Predicting Topological Maps for Visual Navigation in Unexplored Environments",
+        "year": "2022",
+        "venue": "arXiv preprint arXiv:2211.12649, 2022",
+        "citations": 0
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:kRWSkSYxWN8C",
+        "title": "Activermap: Radiance field for active mapping and planning",
+        "year": "2022",
+        "venue": "arXiv preprint arXiv:2211.12656, 2022",
+        "citations": 65
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:08ZZubdj9fEC",
+        "title": "Somoformer: Multi-person pose forecasting with transformers",
+        "year": "2022",
+        "venue": "arXiv preprint arXiv:2208.14023, 2022",
+        "citations": 34
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:p2g8aNsByqUC",
+        "title": "JRDB-Act: A Large-scale Multi-modal Dataset for Spatio-temporal Action, Social Group and Activity Detection",
+        "year": "2022",
+        "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR22), 20983-20992, 2022",
+        "citations": 78
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:b0M2c_1WBrUC",
+        "title": "GMFlow: Learning Optical Flow via Global Matching",
+        "year": "2022",
+        "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR22), 2022",
+        "citations": 801
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:dshw04ExmUIC",
+        "title": "Learning of Global Objective for Network Flow in Multi-Object Tracking",
+        "year": "2022",
+        "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR22), 2022",
+        "citations": 38
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:ns9cj8rnVeAC",
+        "title": "Learn to Predict Sets Using Feed-Forward Neural Networks",
+        "year": "2021",
+        "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 44 …, 2021",
+        "citations": 25
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:_xSYboBqXhAC",
+        "title": "Guided-GAN: Adversarial representation learning for activity recognition with wearables",
+        "year": "2021",
+        "venue": "arXiv preprint arXiv:2110.05732, 2021",
+        "citations": 10
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:yD5IFk8b50cC",
+        "title": "ODAM: Object Detection, Association, and Mapping using Posed RGB Video",
+        "year": "2021",
+        "venue": "IEEE International Conference on Computer Vision (ICCV21), 2021",
+        "citations": 49
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:zA6iFVUQeVQC",
+        "title": "TRiPOD: Human Trajectory and Pose Dynamics Forecasting in the Wild",
+        "year": "2021",
+        "venue": "IEEE International Conference on Computer Vision (ICCV21), 2021",
+        "citations": 96
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:pqnbT2bcN3wC",
+        "title": "Distributed Multi-object Tracking under Limited Field of View Sensors",
+        "year": "2021",
+        "venue": "IEEE Transactions on Signal Processing, 2021",
+        "citations": 75
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:4OULZ7Gr8RgC",
+        "title": "Unsupervised Image Segmentation by Mutual Information Maximization and Adversarial Regularization",
+        "year": "2021",
+        "venue": "IEEE Robotics and Automation Letters (RA-L) & International Conference on …, 2021",
+        "citations": 56
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:HoB7MX3m0LUC",
+        "title": "JRDB: A Dataset and Benchmark of Egocentric Robot Visual Perception of Humans in Built Environments",
+        "year": "2021",
+        "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021",
+        "citations": 270
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:M05iB0D1s5AC",
+        "title": "Probabilistic Tracklet Scoring and Inpainting for Multiple Object Tracking",
+        "year": "2021",
+        "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR21), 2021",
+        "citations": 145
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:lSLTfruPkqcC",
+        "title": "Attend And Discriminate: Beyond the State-of-the-Art for Human Activity Recognition using Wearable Sensors",
+        "year": "2021",
+        "venue": "The Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous …, 2021",
+        "citations": 163
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:g5m5HwL7SMYC",
+        "title": "MO-LTR: Multiple Object Localization, Tracking, and Reconstruction from Monocular RGB Videos",
+        "year": "2021",
+        "venue": "IEEE Robotics and Automation Letters (RA-L) & International Conference on …, 2021",
+        "citations": 34
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:70eg2SAEIzsC",
+        "title": "Towards Deep Clustering of Human Activities from Wearables",
+        "year": "2020",
+        "venue": "The ACM international joint conference on pervasive and ubiquitous computing …, 2020",
+        "citations": 40
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:RYcK_YlVTxYC",
+        "title": "Joint learning of Social Groups, Individuals Action and Sub-group Activities in Videos",
+        "year": "2020",
+        "venue": "European Conference On Computer Vision (ECCV20), 2020",
+        "citations": 126
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:vV6vV6tmYwMC",
+        "title": "Socially and Contextually Aware Human Motion and Pose Forecasting",
+        "year": "2020",
+        "venue": "IEEE Robotics and Automation Letters (RA-L) & International Conference on …, 2020",
+        "citations": 122
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:35N4QoGY0k4C",
+        "title": "LAVAPilot: Lightweight UAV Trajectory Planner with Situational Awareness for Embedded Autonomy to Track and Locate Radio-tags",
+        "year": "2020",
+        "venue": "International Conference on Intelligent Robots and Systems (IROS20), 2020",
+        "citations": 38
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:RGFaLdJalmkC",
+        "title": "JRMOT: A Real-Time 3D Multi-Object Tracker and a New Large-Scale Dataset",
+        "year": "2020",
+        "venue": "International Conference on Intelligent Robots and Systems (IROS20), 2020",
+        "citations": 136
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:JV2RwH3_ST0C",
+        "title": "Meta Learning with Differentiable Closed-form Solver for Fast Video Object Segmentation",
+        "year": "2020",
+        "venue": "International Conference on Intelligent Robots and Systems (IROS20), 2020",
+        "citations": 17
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:BqipwSGYUEgC",
+        "title": "Multi-Objective Multi-Agent Planning for Jointly Discovering and Tracking Mobile Object",
+        "year": "2020",
+        "venue": "Thirty-Forth AAAI Conference on Artificial Intelligence (AAAI20), 2020",
+        "citations": 53
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:J_g5lzvAfSwC",
+        "title": "Mot20: A benchmark for multi object tracking in crowded scenes",
+        "year": "2020",
+        "venue": "arXiv preprint arXiv:2003.09003, 2020",
+        "citations": 1328
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:hMod-77fHWUC",
+        "title": "Approximating the Permanent by Sampling from Adaptive Partitions",
+        "year": "2019",
+        "venue": "Advances in Neural Information Processing Systems (NeurIPS19), 8858-8869, 2019",
+        "citations": 13
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:M3NEmzRMIkIC",
+        "title": "Social-BiGAT: Multimodal Trajectory Forecasting using Bicycle-GAN and Graph Attention Networks",
+        "year": "2019",
+        "venue": "Advances in Neural Information Processing Systems (NeurIPS19), 137--146, 2019",
+        "citations": 1021
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:TQgYirikUcIC",
+        "title": "Online UAV Path Planning for Joint Detection and Tracking of Multiple Radio-tagged Objects",
+        "year": "2019",
+        "venue": "IEEE Transactions on Signal Processing, 2019",
+        "citations": 113
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:bEWYMUwI8FkC",
+        "title": "SparseSense: Human Activity Recognition from Highly Sparse Sensor Data-streams Using Set-based Neural Networks",
+        "year": "2019",
+        "venue": "International Joint Conference on Artificial Intelligence (IJCAI19), 2019",
+        "citations": 31
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:isC4tDSrTZIC",
+        "title": "Model-free tracker for multiple objects using joint appearance and motion inference.",
+        "year": "2019",
+        "venue": "IEEE Transactions on Image Processing, 2019",
+        "citations": 17
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:TFP_iSt0sucC",
+        "title": "CVPR19 tracking and detection challenge: How crowded can it get?",
+        "year": "2019",
+        "venue": "arXiv preprint arXiv:1906.04567, 2019",
+        "citations": 126
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:_Qo2XoVZTnwC",
+        "title": "TrackerBots: Autonomous unmanned aerial vehicle for real‐time localization and tracking of multiple radio‐tagged animals",
+        "year": "2019",
+        "venue": "Journal of Field Robotics 36 (3), 617-635, 2019",
+        "citations": 94
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:4JMBOYKVnBMC",
+        "title": "Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression",
+        "year": "2019",
+        "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR19), 2019",
+        "citations": 9482
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:r0BpntZqJG4C",
+        "title": "Learning pairwise relationship for multi-object detection in crowded scenes",
+        "year": "2019",
+        "venue": "arXiv preprint arXiv:1901.03796, 2019",
+        "citations": 19
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:jgBuDB5drN8C",
+        "title": "Generalized intersection over union: a metric and a loss for bounding box regression. IEEE/CVF conference on computer vision and pattern recognition (CVPR) Published online 2019",
+        "year": "2019",
+        "venue": "",
+        "citations": 80
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:iH-uZ7U-co4C",
+        "title": "TopNet: Structural Point Cloud Decoder",
+        "year": "2019",
+        "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR19), 383-392, 2019",
+        "citations": 757
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:R3hNpaxXUhUC",
+        "title": "SoPhie: An Attentive GAN for Predicting Paths Compliant to Social and Physical Constraints",
+        "year": "2019",
+        "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR19), 2019",
+        "citations": 1538
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:j3f4tGmQtD8C",
+        "title": "Deep Auto-Set: A Deep Auto-Encoder-Set Network for Activity Recognition Using Wearables",
+        "year": "2018",
+        "venue": "EAI International Conference on Mobile and Ubiquitous Systems: Computing …, 2018",
+        "citations": 58
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:e5wmG9Sq2KIC",
+        "title": "Autonomous UAV sensor system for searching and locating VHF radio-tagged wildlife",
+        "year": "2018",
+        "venue": "ACM Conference on Embedded Networked Sensor Systems, 333-334, 2018",
+        "citations": 9
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:HDshCWvjkbEC",
+        "title": "Deep perm-set net: Learn to predict sets with unknown permutation and cardinality using deep neural networks",
+        "year": "2018",
+        "venue": "arXiv preprint arXiv:1805.00613, 2018",
+        "citations": 37
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:mNrWkgRL2YcC",
+        "title": "Trackerbots: Software in the loop study of quad-copter robots for locating radio-tags in a 3D space",
+        "year": "2018",
+        "venue": "Proc. of the ACRA, 2018",
+        "citations": 0
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:VOx2b1Wkg3QC",
+        "title": "Trackerbots: Software in the loop study of quad-copter robots for locating radio-tags in a 3D space",
+        "year": "2018",
+        "venue": "Australasian Conference on Robotics and Automation 2018, 304-313, 2018",
+        "citations": 5
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:qUcmZB5y_30C",
+        "title": "Joint Learning of Set Cardinality and State Distribution",
+        "year": "2018",
+        "venue": "Thirty-Second AAAI Conference on Artificial Intelligence (AAAI18), 2018",
+        "citations": 27
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:dhFuZR0502QC",
+        "title": "Data-driven approximations to NP-hard problems",
+        "year": "2017",
+        "venue": "Thirty-First AAAI Conference on Artificial Intelligence (AAAI17), 2017",
+        "citations": 80
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:mB3voiENLucC",
+        "title": "Multi-object model-free tracking with joint appearance and motion inference",
+        "year": "2017",
+        "venue": "International Conference on Digital Image Computing: Techniques and …, 2017",
+        "citations": 3
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:hC7cP41nSMkC",
+        "title": "DeepSetNet: Predicting Sets With Deep Neural Networks",
+        "year": "2017",
+        "venue": "IEEE International Conference on Computer Vision (ICCV17), 5247-5256, 2017",
+        "citations": 71
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:aqlVkmm33-oC",
+        "title": "Online multi-target tracking using recurrent neural networks",
+        "year": "2017",
+        "venue": "Thirty-First AAAI Conference on Artificial Intelligence (AAAI17), 2017",
+        "citations": 745
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:qxL8FJ1GzNcC",
+        "title": "Joint probabilistic matching using m-best solutions",
+        "year": "2016",
+        "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR16), 136-145, 2016",
+        "citations": 39
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:M3ejUd6NZC8C",
+        "title": "Efficient point process inference for large-scale object detection",
+        "year": "2016",
+        "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR16), 2837-2845, 2016",
+        "citations": 38
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:0EnyYjriUFMC",
+        "title": "Multi-Target Tracking with Time-Varying Clutter Rate and Detection Profile: Application to Time-lapse Cell Microscopy Sequences",
+        "year": "2015",
+        "venue": "IEEE Transactions on Medical Imaging 34 (6), 1336-1348, 2015",
+        "citations": 92
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:NMxIlDl6LWMC",
+        "title": "Joint probabilistic data association revisited",
+        "year": "2015",
+        "venue": "IEEE international conference on computer vision (ICCV15), 3047-3055, 2015",
+        "citations": 484
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:5nxA0vEk-isC",
+        "title": "Bayesian multi-target tracking: application to total internal reflection fluorescence microscopy",
+        "year": "2015",
+        "venue": "",
+        "citations": 0
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:ldfaerwXgEUC",
+        "title": "A framework for generating realistic synthetic sequences of dynamic confocal microscopy images",
+        "year": "2013",
+        "venue": "Proceedings of Medical Image Understanding and Analysis 2013, 107-112, 2013",
+        "citations": 1
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:roLk4NBRz8UC",
+        "title": "A Multiple Model Probability Hypothesis Density Tracker for Time-Lapse Cell Microscopy Sequences",
+        "year": "2013",
+        "venue": "Information Processing in Medical Imaging (IPMI13), 2013",
+        "citations": 23
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:_FxGoFyzp5QC",
+        "title": "A Framework for Generating Realistic Synthetic Sequences of Total Internal Reflection Fluorescence Microscopy Images",
+        "year": "2013",
+        "venue": "International Symposium on Biomedical Imaging (ISBI13), 2013",
+        "citations": 23
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:YFjsv_pBGBYC",
+        "title": "Application of the IMM-JPDA filter to multiple target tracking in total internal reflection fluorescence microscopy images",
+        "year": "2012",
+        "venue": "International Conference on Medical Image Computing and Computer-Assisted …, 2012",
+        "citations": 20
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:ufrVoPGSRksC",
+        "title": "A new approach for spot detection in total internal reflection fluorescence microscopy",
+        "year": "2012",
+        "venue": "IEEE International Symposium on Biomedical Imaging (ISBI12), 860-863, 2012",
+        "citations": 36
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:u5HHmVD_uO8C",
+        "title": "Retinal vessel segmentation using a multi-scale medialness function",
+        "year": "2012",
+        "venue": "Computers in biology and medicine 42 (1), 50-60, 2012",
+        "citations": 68
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:zYLM7Y9cAGgC",
+        "title": "Boundary delineation for hepatic hemangioma in ultrasound images",
+        "year": "2011",
+        "venue": "2011 Annual International Conference of the IEEE Engineering in Medicine and …, 2011",
+        "citations": 6
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:IjCSPb-OGe4C",
+        "title": "Automatic recognition of five types of white blood cells in peripheral blood",
+        "year": "2011",
+        "venue": "Computerized Medical Imaging and Graphics 35 (4), 333-343, 2011",
+        "citations": 536
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:Y0pCki6q_DkC",
+        "title": "Using PCA and LVQ neural network for automatic recognition of five types of white blood cells",
+        "year": "2010",
+        "venue": "2010 Annual International Conference of the IEEE Engineering in Medicine and …, 2010",
+        "citations": 59
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:7PzlFSSx8tAC",
+        "title": "Automatic recognition of five types of white blood cells in peripheral blood",
+        "year": "2010",
+        "venue": "International conference image analysis and recognition, 161-172, 2010",
+        "citations": 0
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:UeHWp8X0CEIC",
+        "title": "Multi-scale approach for retinal vessel segmentation using medialness function",
+        "year": "2010",
+        "venue": "2010 IEEE International Symposium on Biomedical Imaging: From Nano to Macro …, 2010",
+        "citations": 22
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:qjMakFHDy7sC",
+        "title": "Polar run-length features in segmentation of retinal blood vessels",
+        "year": "2009",
+        "venue": "2009 International Conference on Digital Image Processing, 72-75, 2009",
+        "citations": 8
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:d1gkVwhDpl0C",
+        "title": "A new approach to white blood cell nucleus segmentation based on gram-schmidt orthogonalization",
+        "year": "2009",
+        "venue": "2009 International Conference on Digital Image Processing, 107-111, 2009",
+        "citations": 63
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:YsMSGLbcyi4C",
+        "title": "Developing new tool for automatic analysis of IVUS images: From border detection to plaque characterization",
+        "year": "2009",
+        "venue": "Int J CARS 4 (1), S17-S21, 2009",
+        "citations": 0
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:W7OEmFMy1HYC",
+        "title": "Segmentation of nucleus and cytoplasm of white blood cells using Gram-Schmidt orthogonalization and deformable models",
+        "year": "2008",
+        "venue": "2008 9th International Conference on Signal Processing, 801-805, 2008",
+        "citations": 9
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:Tyk-4Ss8FVUC",
+        "title": "Automatic detection of red blood cells in hematological images using polar transformation and run-length matrix",
+        "year": "2008",
+        "venue": "2008 9th International conference on signal processing, 806-809, 2008",
+        "citations": 7
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:u-x6o8ySG0sC",
+        "title": "Fisher linear discriminant based person identification using visual evoked potentials",
+        "year": "2008",
+        "venue": "2008 9th International Conference on Signal Processing, 1677-1680, 2008",
+        "citations": 54
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:9yKSN-GCB0IC",
+        "title": "An enhanced segmentation of blood vessels in retinal images using contourlet",
+        "year": "2008",
+        "venue": "2008 30th Annual International Conference of the IEEE Engineering in …, 2008",
+        "citations": 31
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:eQOLeE2rZwMC",
+        "title": "Context-dependent segmentation of retinal blood vessels using Hidden Markov Models",
+        "year": "2008",
+        "venue": "Computer Society of Iran Computer Conference, 348-355, 2008",
+        "citations": 4
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:9pM33mqn1YgC",
+        "title": "Comparison of an AI Model Against Embryologists; a Prospective Clinical Survey Trial",
+        "year": "",
+        "venue": "Available at SSRN 5319122, 0",
+        "citations": 0
+      }
+    ],
+    "error": null
+  },
+  "web_of_science": {
+    "status": "skipped",
+    "peer_reviews": 0,
+    "error": null
+  }
+}
