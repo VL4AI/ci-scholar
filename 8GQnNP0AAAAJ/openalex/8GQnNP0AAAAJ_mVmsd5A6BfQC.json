@@ -1,0 +1,23 @@
+{
+  "status": "matched",
+  "author_pub_id": "8GQnNP0AAAAJ:mVmsd5A6BfQC",
+  "scholar_title": "Transformer doctor: Diagnosing and treating vision transformers",
+  "fetched_at": "2026-10-19T09:49:11.178418+00:00",
+  "openalex_id": "https://openalex.org/W4415797625",
+  "doi": "https://doi.org/10.52202/079017-1711",
+  "title": "Transformer Doctor: Diagnosing and Treating Vision Transformers",
+  "publication_date": "2024-01-01",
+  "publication_year": 2024,
+  "authors": [
+    "Jiacong Hu",
+    "Hao Chen",
+    "Kejia Chen",
+    "Yang Gao",
+    "Jingwen Ye",
+    "Xingen Wang",
+    "Mingli Song",
+    "Zunlei Feng"
+  ],
+  "venue": "neural information processing systems",
+  "type": "conference-paper"
+}

@@ -1,0 +1,18 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:Dip1O2bNi0gC",
+  "scholar_title": "Shape-prior Free Space-time Neural Radiance Field for 4D Semantic Reconstruction of Dynamic Scene from Sparse-View RGB Videos",
+  "fetched_at": "2026-10-19T12:24:47.792796+00:00",
+  "openalex_id": "https://openalex.org/W4405787017",
+  "doi": "https://doi.org/10.1109/iros58592.2024.10802221",
+  "title": "Shape-prior Free Space-time Neural Radiance Field for 4D Semantic Reconstruction of Dynamic Scene from Sparse-View RGB Videos",
+  "publication_date": "2024-10-14",
+  "publication_year": 2024,
+  "authors": [
+    "Sandika Biswas",
+    "Biplab Banerjee",
+    "Hamid Rezatofighi"
+  ],
+  "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+  "type": "conference-paper"
+}

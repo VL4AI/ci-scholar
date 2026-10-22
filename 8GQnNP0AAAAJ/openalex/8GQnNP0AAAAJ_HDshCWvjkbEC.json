@@ -1,0 +1,22 @@
+{
+  "status": "matched",
+  "author_pub_id": "8GQnNP0AAAAJ:HDshCWvjkbEC",
+  "scholar_title": "StdGEN++: A Comprehensive System for Semantic-Decomposed 3D Character Generation",
+  "fetched_at": "2026-10-19T09:35:07.607813+00:00",
+  "openalex_id": "https://openalex.org/W7123924121",
+  "doi": "https://doi.org/10.1109/tpami.2026.3735703",
+  "title": "StdGEN++: A Comprehensive System for Semantic-Decomposed 3D Character Generation",
+  "publication_date": "2026-01-01",
+  "publication_year": 2026,
+  "authors": [
+    "Yuze He",
+    "Yanning Zhou",
+    "Wang Zhao",
+    "Jingwen Ye",
+    "Zhongkai Wu",
+    "Ran Yi",
+    "Yong‐Jin Liu"
+  ],
+  "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+  "type": "article"
+}

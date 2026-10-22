@@ -1,0 +1,20 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:35N4QoGY0k4C",
+  "scholar_title": "LAVAPilot: Lightweight UAV Trajectory Planner with Situational Awareness for Embedded Autonomy to Track and Locate Radio-tags",
+  "fetched_at": "2026-10-19T12:38:11.145732+00:00",
+  "openalex_id": "https://openalex.org/W3046509787",
+  "doi": "https://doi.org/10.1109/iros45743.2020.9341615",
+  "title": "LAVAPilot: Lightweight UAV Trajectory Planner with Situational Awareness for Embedded Autonomy to Track and Locate Radio-tags",
+  "publication_date": "2020-10-24",
+  "publication_year": 2020,
+  "authors": [
+    "Hoa Van Nguyen",
+    "Fei Chen",
+    "Joshua Chesser",
+    "Hamid Rezatofighi",
+    "Damith Ranasinghe"
+  ],
+  "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+  "type": "conference-paper"
+}

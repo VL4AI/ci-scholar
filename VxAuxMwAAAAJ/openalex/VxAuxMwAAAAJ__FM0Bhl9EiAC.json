@@ -1,0 +1,20 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:_FM0Bhl9EiAC",
+  "scholar_title": "ECORE: Energy-Conscious Optimized Routing for Deep Learning Models at the Edge",
+  "fetched_at": "2026-10-19T09:49:11.178418+00:00",
+  "openalex_id": "https://openalex.org/W4416062053",
+  "doi": "https://doi.org/10.1109/percom67906.2026.11524531",
+  "title": "ECORE: Energy-Conscious Optimized Routing for Deep Learning Models at the Edge",
+  "publication_date": "2026-03-16",
+  "publication_year": 2026,
+  "authors": [
+    "Daghash K. Alqahtani",
+    "Maria Alejandra Rodriguez",
+    "Muhammad Aamir Cheema",
+    "Hamid Rezatofighi",
+    "Adel N. Toosi"
+  ],
+  "venue": "IEEE International Conference on Pervasive Computing and Communications",
+  "type": "conference-paper"
+}

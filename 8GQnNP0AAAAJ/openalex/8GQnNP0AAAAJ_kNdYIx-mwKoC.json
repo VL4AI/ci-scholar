@@ -1,0 +1,19 @@
+{
+  "status": "matched",
+  "author_pub_id": "8GQnNP0AAAAJ:kNdYIx-mwKoC",
+  "scholar_title": "Slimmable dataset condensation",
+  "fetched_at": "2026-10-19T09:49:11.178418+00:00",
+  "openalex_id": "https://openalex.org/W4386057733",
+  "doi": "https://doi.org/10.1109/cvpr52729.2023.00366",
+  "title": "Slimmable Dataset Condensation",
+  "publication_date": "2023-06-01",
+  "publication_year": 2023,
+  "authors": [
+    "Songhua Liu",
+    "Jingwen Ye",
+    "Runpeng Yu",
+    "Xinchao Wang"
+  ],
+  "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings",
+  "type": "conference-paper"
+}

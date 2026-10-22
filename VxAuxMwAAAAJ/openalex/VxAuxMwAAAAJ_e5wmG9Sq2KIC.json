@@ -1,0 +1,20 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:e5wmG9Sq2KIC",
+  "scholar_title": "Autonomous UAV sensor system for searching and locating VHF radio-tagged wildlife",
+  "fetched_at": "2026-10-19T12:38:11.145732+00:00",
+  "openalex_id": "https://openalex.org/W2898168988",
+  "doi": "https://doi.org/10.1145/3274783.3275169",
+  "title": "Autonomous UAV sensor system for searching and locating VHF radio-tagged wildlife",
+  "publication_date": "2018-10-26",
+  "publication_year": 2018,
+  "authors": [
+    "Hoa Van Nguyen",
+    "Michael Chesser",
+    "Fei Chen",
+    "S. Hamid Rezatofighi",
+    "Damith Chinthana Ranasinghe"
+  ],
+  "venue": "ACM Conference on Embedded Networked Sensor Systems (SenSys)",
+  "type": "conference-paper"
+}

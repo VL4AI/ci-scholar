@@ -1,0 +1,20 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:_Qo2XoVZTnwC",
+  "scholar_title": "TrackerBots: Autonomous unmanned aerial vehicle for real‐time localization and tracking of multiple radio‐tagged animals",
+  "fetched_at": "2026-10-19T12:38:11.145732+00:00",
+  "openalex_id": "https://openalex.org/W2906838128",
+  "doi": "https://doi.org/10.1002/rob.21857",
+  "title": "TrackerBots: Autonomous unmanned aerial vehicle for real‐time localization and tracking of multiple radio‐tagged animals",
+  "publication_date": "2019-01-04",
+  "publication_year": 2019,
+  "authors": [
+    "Hoa Van Nguyen",
+    "Michael Chesser",
+    "Lian Pin Koh",
+    "S. Hamid Rezatofighi",
+    "Damith Chinthana Ranasinghe"
+  ],
+  "venue": "Journal of Field Robotics",
+  "type": "article"
+}

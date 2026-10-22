@@ -1,0 +1,18 @@
+{
+  "status": "matched",
+  "author_pub_id": "8GQnNP0AAAAJ:8k81kl-MbHgC",
+  "scholar_title": "Flocking birds of a feather together: Dual-step gan distillation via realer-fake samples",
+  "fetched_at": "2026-10-19T12:11:34.114787+00:00",
+  "openalex_id": "https://openalex.org/W4316659983",
+  "doi": "https://doi.org/10.1109/vcip56404.2022.10008799",
+  "title": "Flocking Birds of a Feather Together: Dual-step GAN Distillation via Realer-Fake Samples",
+  "publication_date": "2022-12-13",
+  "publication_year": 2022,
+  "authors": [
+    "Jingwen Ye",
+    "Zunlei Feng",
+    "Xinchao Wang"
+  ],
+  "venue": "IEEE International Conference on Visual Communications and Image Processing (VCIP)",
+  "type": "conference-paper"
+}

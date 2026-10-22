@@ -1,0 +1,22 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:jE2MZjpN3IcC",
+  "scholar_title": "Feedforward Novel View Synthesis for Heterogeneous Cameras",
+  "fetched_at": "2026-10-19T09:35:07.607813+00:00",
+  "openalex_id": "https://openalex.org/W7220368632",
+  "doi": "https://doi.org/10.48550/arxiv.2610.03522",
+  "title": "Feedforward Novel View Synthesis for Heterogeneous Cameras",
+  "publication_date": "2026-10-02",
+  "publication_year": 2026,
+  "authors": [
+    "Meng Wei",
+    "Cheng Zhang",
+    "Boying Li",
+    "Yihang Chen",
+    "Jianmin Zheng",
+    "Hamid Rezatofighi",
+    "Jianfei Cai"
+  ],
+  "venue": "arXiv (Cornell University)",
+  "type": "preprint"
+}

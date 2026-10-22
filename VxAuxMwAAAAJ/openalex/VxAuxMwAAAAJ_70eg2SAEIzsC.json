@@ -1,0 +1,20 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:70eg2SAEIzsC",
+  "scholar_title": "Towards Deep Clustering of Human Activities from Wearables",
+  "fetched_at": "2026-10-19T12:38:11.145732+00:00",
+  "openalex_id": "https://openalex.org/W3047073692",
+  "doi": "https://doi.org/10.1145/3410531.3414312",
+  "title": "Towards deep clustering of human activities from wearables",
+  "publication_date": "2020-09-04",
+  "publication_year": 2020,
+  "authors": [
+    "Alireza Abedin",
+    "Farbod Motlagh",
+    "Qinfeng Shi",
+    "Hamid Rezatofighi",
+    "Damith Chinthana Ranasinghe"
+  ],
+  "venue": "International Symposium on Wearable Computers",
+  "type": "conference-paper"
+}

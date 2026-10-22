@@ -1,0 +1,20 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:kRWSkSYxWN8C",
+  "scholar_title": "Activermap: Radiance field for active mapping and planning",
+  "fetched_at": "2026-10-19T12:24:47.792796+00:00",
+  "openalex_id": "https://openalex.org/W4309953435",
+  "doi": "https://doi.org/10.48550/arxiv.2211.12656",
+  "title": "ActiveRMAP: Radiance Field for Active Mapping And Planning",
+  "publication_date": "2022-11-23",
+  "publication_year": 2022,
+  "authors": [
+    "Huangying Zhan",
+    "Jiyang Zheng",
+    "Yi Xu",
+    "Ian D. Reid",
+    "Hamid Rezatofighi"
+  ],
+  "venue": "arXiv (Cornell University)",
+  "type": "preprint"
+}

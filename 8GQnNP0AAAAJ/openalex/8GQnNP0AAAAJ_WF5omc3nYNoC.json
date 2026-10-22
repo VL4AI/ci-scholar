@@ -1,0 +1,19 @@
+{
+  "status": "matched",
+  "author_pub_id": "8GQnNP0AAAAJ:WF5omc3nYNoC",
+  "scholar_title": "Spot-adaptive knowledge distillation",
+  "fetched_at": "2026-10-19T12:11:34.114787+00:00",
+  "openalex_id": "https://openalex.org/W4225385394",
+  "doi": "https://doi.org/10.1109/tip.2022.3170728",
+  "title": "Spot-Adaptive Knowledge Distillation",
+  "publication_date": "2022-01-01",
+  "publication_year": 2022,
+  "authors": [
+    "Jie Song",
+    "Ying Chen",
+    "Jingwen Ye",
+    "Mingli Song"
+  ],
+  "venue": "IEEE Transactions on Image Processing",
+  "type": "article"
+}

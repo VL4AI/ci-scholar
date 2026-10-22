@@ -1,0 +1,3019 @@
+{
+  "generated_at": "2026-10-22T13:28:21.832997",
+  "google_scholar": {
+    "status": "success",
+    "total_citations": 22426,
+    "5y_citations": 20063,
+    "total_hindex": 45,
+    "5y_hindex": 41,
+    "total_i10index": 87,
+    "5y_i10index": 79,
+    "cites_per_year": {
+      "2014": 56,
+      "2015": 79,
+      "2016": 94,
+      "2017": 192,
+      "2018": 269,
+      "2019": 491,
+      "2020": 984,
+      "2021": 1798,
+      "2022": 2671,
+      "2023": 3261,
+      "2024": 4033,
+      "2025": 4545,
+      "2026": 3738
+    },
+    "publications": [
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:L1USKYWJimsC",
+        "title": "JRDB-AVR: An Active Visual Reasoning Benchmark for Embodied Agents in Real-World Environments",
+        "year": "2026",
+        "authors": "Z Cai, F Ke, S Huang, MG de la Banda, PJ Stuckey, G Haffari, ...",
+        "venue": "Advances in Neural Information Processing Systems (NeurIPS26), 2026",
+        "citations": 0,
+        "openalex": {
+          "id": "https://openalex.org/W7214740201",
+          "doi": "https://doi.org/10.48550/arxiv.2609.35032",
+          "publication_date": "2026-09-28",
+          "authors": [
+            "Zhixi Cai",
+            "Fucai Ke",
+            "Sukai Huang",
+            "María García de la Banda",
+            "Peter J. Stuckey",
+            "Gholamreza Haffari",
+            "Hamid Rezatofighi"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:jE2MZjpN3IcC",
+        "title": "Feedforward Novel View Synthesis for Heterogeneous Cameras",
+        "year": "2026",
+        "authors": "M Wei, C Zhang, B Li, Y Chen, J Zheng, H Rezatofighi, J Cai",
+        "venue": "Advances in Neural Information Processing Systems (NeurIPS26), 2026",
+        "citations": 0,
+        "openalex": {
+          "id": "https://openalex.org/W7220368632",
+          "doi": "https://doi.org/10.48550/arxiv.2610.03522",
+          "publication_date": "2026-10-02",
+          "authors": [
+            "Meng Wei",
+            "Cheng Zhang",
+            "Boying Li",
+            "Yihang Chen",
+            "Jianmin Zheng",
+            "Hamid Rezatofighi",
+            "Jianfei Cai"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:QD3KBmkZPeQC",
+        "title": "ARIS: Agentic and Relationship Intelligence System for Social Robots",
+        "year": "2026",
+        "authors": "S Datta, F Ke, L Tian, H Rezatofighi",
+        "venue": "Advances in Neural Information Processing Systems Workshop (NeurIPS26-Workshop), 2026",
+        "citations": 0,
+        "openalex": {
+          "id": "https://openalex.org/W7160249988",
+          "doi": "https://doi.org/10.48550/arxiv.2605.00943",
+          "publication_date": "2026-05-01",
+          "authors": [
+            "Stavya Datta",
+            "Fucai Ke",
+            "Leimin Tian",
+            "Hamid Rezatofighi"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:4xDN1ZYqzskC",
+        "title": "Mini-behavior-gran: Revealing u-shaped effects of instruction granularity on language-guided embodied agents",
+        "year": "2026",
+        "authors": "S Huang, C Zhang, F Ke, Z Cai, G Haffari, L Qu, H Rezatofighi",
+        "venue": "The Conference on Empirical Methods in Natural Language Processing (EMNLP26), 2026",
+        "citations": 2,
+        "openalex": {
+          "id": "https://openalex.org/W7155074923",
+          "doi": "https://doi.org/10.48550/arxiv.2604.17019",
+          "publication_date": "2026-04-18",
+          "authors": [
+            "Sukai Huang",
+            "Chenyuan Zhang",
+            "Fucai Ke",
+            "Zhixi Cai",
+            "Gholamreza Haffari",
+            "Lizhen Qu",
+            "Hamid Rezatofighi"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:Dem6FJhTUoYC",
+        "title": "SenseWeather: Multimodal Sensing for Robust Robotic Perception under Extreme Conditions",
+        "year": "2026",
+        "authors": "F Ke, S Huang, J Hao, K Backman, N Rastgoo, G Haffari, H Rezatofighi",
+        "venue": "arXiv preprint arXiv:2610.14082, 2026",
+        "citations": 0,
+        "openalex": {
+          "id": "https://openalex.org/W7221816299",
+          "doi": "https://doi.org/10.48550/arxiv.2610.14082",
+          "publication_date": "2026-10-08",
+          "authors": [
+            "Fucai Ke",
+            "Sukai Huang",
+            "Junyi Hao",
+            "Kal Backman",
+            "Naim Rastgoo",
+            "Gholamreza Haffari",
+            "Hamid Rezatofighi"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:NyGDZy8z5eUC",
+        "title": "VIEW2SPACE: Studying Multi-View Visual Reasoning from Sparse Observations",
+        "year": "2026",
+        "authors": "F Ke, Z Cai, B Li, L Chen, B Lin, W Wang, PD Haghighi, G Haffari, ...",
+        "venue": "European Conference On Computer Vision (ECCV26), 2026",
+        "citations": 8,
+        "openalex": {
+          "id": "https://openalex.org/W7138913573",
+          "doi": "https://doi.org/10.1007/978-3-032-37531-5_29",
+          "publication_date": "2026-01-01",
+          "authors": [
+            "Fucai Ke",
+            "Zhixi Cai",
+            "Boying Li",
+            "Long Chen",
+            "Beibei Lin",
+            "Weiqing Wang",
+            "Pari Delir Haghighi",
+            "Gholamreza Haffari",
+            "Hamid Rezatofighi"
+          ],
+          "venue": "Lecture notes in computer science"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:0CzhzZyukY4C",
+        "title": "LOGAussian: Efficient Local Gathering for Online Feed-forward 3DGS",
+        "year": "2026",
+        "authors": "M Wei, C Zhang, Q Wu, J Zheng, H Rezatofighi, J Cai",
+        "venue": "The British Machine Vision Conference (BMVC26), 2026",
+        "citations": 0,
+        "openalex": null
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:ruyezt5ZtCIC",
+        "title": "Hier-slam++: Neuro-symbolic semantic slam with a hierarchically categorical gaussian splatting",
+        "year": "2026",
+        "authors": "B Li, VC Hao, PJ Stuckey, I Reid, H Rezatofighi",
+        "venue": "Asian Conference on Computer Vision (ACCV26), 2026",
+        "citations": 15,
+        "openalex": null
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:CB2v5VPnA5kC",
+        "title": "Sample-Efficient Learning from Agent Experience",
+        "year": "2026",
+        "authors": "C Gou, H Tu, Y Fang, J Cai, H Rezatofighi",
+        "venue": "arXiv preprint arXiv:2607.21051, 2026",
+        "citations": 2,
+        "openalex": {
+          "id": "https://openalex.org/W7170671824",
+          "doi": "https://doi.org/10.48550/arxiv.2607.21051",
+          "publication_date": "2026-07-23",
+          "authors": [
+            "Chenhui Gou",
+            "Haoqin Tu",
+            "Y D Fang",
+            "Jianfei Cai",
+            "Hamid Rezatofighi"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:owLR8QvbtFgC",
+        "title": "What We Talk About When We Talk About LLM Planning: Evidence for Two Distinct Planning Abilities",
+        "year": "2026",
+        "authors": "S Huang, C Zhang, F Ke, Z Cai, N Rastgoo, G Haffari, H Rezatofighi",
+        "venue": "arXiv preprint arXiv:2607.11197, 2026",
+        "citations": 0,
+        "openalex": {
+          "id": "https://openalex.org/W7168241717",
+          "doi": "https://doi.org/10.48550/arxiv.2607.11197",
+          "publication_date": "2026-07-13",
+          "authors": [
+            "Sukai Huang",
+            "Chenyuan Zhang",
+            "Fucai Ke",
+            "Zhixi Cai",
+            "Mohammad Naim Rastgoo",
+            "Gholamreza Haffari",
+            "Hamid Rezatofighi"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:buQ7SEKw-1sC",
+        "title": "PING: A Physics-Informed Neuro-Symbolic Generator for Continuous-Time Planning",
+        "year": "2026",
+        "authors": "M Jahani-nasab, H Rezatofighi, M Vered, B Say",
+        "venue": "International Conference on Automated Planning and Scheduling (ICAPS26) 36 …, 2026",
+        "citations": 1,
+        "openalex": {
+          "id": "https://openalex.org/W7163904146",
+          "doi": "https://doi.org/10.1609/icaps.v36i1.42820",
+          "publication_date": "2026-06-08",
+          "authors": [
+            "Mahyar Jahani-nasab",
+            "Hamid Rezatofighi",
+            "Mor Vered",
+            "Buser Say"
+          ],
+          "venue": "Proceedings of the International Conference on Automated Planning and Scheduling"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:IRz6iEL74y4C",
+        "title": "VQ-VA World: Towards High-Quality Visual Question-Visual Answering",
+        "year": "2026",
+        "authors": "C Gou, Z Chen, Z Wang, F Li, D Zhu, Z Duan, K Li, C Deng, H Yuan, ...",
+        "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR26), 2026",
+        "citations": 3,
+        "openalex": {
+          "id": "https://openalex.org/W7106857169",
+          "doi": "https://doi.org/10.48550/arxiv.2511.20573",
+          "publication_date": "2025-11-25",
+          "authors": [
+            "Gou, Chenhui",
+            "Chen, Zilong",
+            "Wang, Zeyu",
+            "Feng Li",
+            "Zhu, Deyao",
+            "Duan, Zicheng",
+            "Li, Kunchang",
+            "Deng, Chaorui",
+            "Yuan, Hongyi",
+            "Fan, Haoqi",
+            "Xie, Cihang",
+            "Cai, Jianfei",
+            "Rezatofighi, Hamid"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:DUooU5lO8OsC",
+        "title": "An empirical study on how video-LLMs answer video questions",
+        "year": "2026",
+        "authors": "C Gou, Z Ma, Z Duan, H He, F Chen, A Liu, B Zhuang, J Cai, ...",
+        "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR26), 2026",
+        "citations": 4,
+        "openalex": {
+          "id": "https://openalex.org/W4416050967",
+          "doi": "https://doi.org/10.48550/arxiv.2508.15360",
+          "publication_date": "2025-08-21",
+          "authors": [
+            "Chenhui Gou",
+            "Ma, Ziyu",
+            "Zicheng Duan",
+            "Haoyu He",
+            "Chen, Feng",
+            "Akide Liu",
+            "Bohan Zhuang",
+            "Jianfei Cai",
+            "Hamid Rezatofighi"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:8xutWZnSdmoC",
+        "title": "DPL: Decoupled Prototype Learning for Enhancing Robustness of Vision-Language Transformers to Missing Modalities",
+        "year": "2026",
+        "authors": "J Lu, Y Qi, X Yang, S Niu, F Ke, S Zhou, W Tan, J Lin, W Buntine, ...",
+        "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR26), 2026",
+        "citations": 0,
+        "openalex": {
+          "id": "https://openalex.org/W4416347319",
+          "doi": "https://doi.org/10.48550/arxiv.2505.08283",
+          "publication_date": "2025-05-13",
+          "authors": [
+            "Jueqing Lu",
+            "Qi, Yuanyuan",
+            "Xiaohao Yang",
+            "Shuaicheng Niu",
+            "Fucai Ke",
+            "Shujie Zhou",
+            "Wei Tan",
+            "Jionghao Lin",
+            "Wray Buntine",
+            "Hamid Rezatofighi",
+            "Du, Lan"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:wMgC3FpKEyYC",
+        "title": "Calibanyview: Beyond single-view camera calibration in the wild",
+        "year": "2026",
+        "authors": "B Li, C Zhang, W Chen, G Chen, D Cremers, J Cai, I Reid, H Rezatofighi",
+        "venue": "arXiv preprint arXiv:2605.14615, 2026",
+        "citations": 2,
+        "openalex": {
+          "id": "https://openalex.org/W7161254960",
+          "doi": "https://doi.org/10.48550/arxiv.2605.14615",
+          "publication_date": "2026-05-14",
+          "authors": [
+            "Boying Li",
+            "Cheng Zhang",
+            "Weirong Chen",
+            "Guyuan Chen",
+            "Daniel Cremers",
+            "Jianfei Cai",
+            "Ian David Reid",
+            "Hamid Rezatofighi"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:otzGkya1bYkC",
+        "title": "A Simple State Space Model Excels at Multivariate Time Series Classification",
+        "year": "2026",
+        "authors": "H Saadatmand, GI Webb, H Rezatofighi, M Salehi",
+        "venue": "arXiv preprint arXiv:2605.27406, 2026",
+        "citations": 0,
+        "openalex": {
+          "id": "https://openalex.org/W7162692116",
+          "doi": "https://doi.org/10.48550/arxiv.2605.27406",
+          "publication_date": "2026-05-07",
+          "authors": [
+            "Hassan Saadatmand",
+            "Geoffrey I. Webb",
+            "Hamid Rezatofighi",
+            "Mahsa Salehi"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:F9fV5C73w3QC",
+        "title": "MATA: A Trainable Hierarchical Automaton System for Multi-Agent Visual Reasoning",
+        "year": "2026",
+        "authors": "Z Cai, F Ke, K Leo, S Huang, MG de la Banda, PJ Stuckey, H Rezatofighi",
+        "venue": "International Conference on Learning Representations (ICLR26), 2026",
+        "citations": 3,
+        "openalex": {
+          "id": "https://openalex.org/W7125961535",
+          "doi": "https://doi.org/10.48550/arxiv.2601.19204",
+          "publication_date": "2026-01-27",
+          "authors": [
+            "Zhixi Cai",
+            "Fucai Ke",
+            "Kevin Leo",
+            "Sukai Huang",
+            "María García de la Banda",
+            "Peter J. Stuckey",
+            "Hamid Rezatofighi"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:jL-93Qbq4QoC",
+        "title": "A Probabilistic Framework for Hierarchical Goal Recognition",
+        "year": "2026",
+        "authors": "C Zhang, K Ip, H Rezatofighi, B Say, M Vered",
+        "venue": "International Conference on Principles of Knowledge Representation and …, 2026",
+        "citations": 0,
+        "openalex": {
+          "id": "https://openalex.org/W7169159688",
+          "doi": "https://doi.org/10.24963/kr.2026/65",
+          "publication_date": "2026-07-01",
+          "authors": [
+            "Chenyuan Zhang",
+            "Katherine Ip",
+            "Hamid Rezatofighi",
+            "Buser Say",
+            "Mor Vered"
+          ],
+          "venue": null
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:OP4eGU-M3BUC",
+        "title": "Aeroseg++: Scale-aware and texture-guided open-vocabulary segmentation with sam features for remote sensing images",
+        "year": "2026",
+        "authors": "S Dutta, A Vasim, H Rezatofighi, B Banerjee",
+        "venue": "ACM Transactions on Multimedia Computing, Communications and Applications 22 …, 2026",
+        "citations": 3,
+        "openalex": {
+          "id": "https://openalex.org/W7125918494",
+          "doi": "https://doi.org/10.1145/3787522",
+          "publication_date": "2026-01-28",
+          "authors": [
+            "Saikat Dutta",
+            "Akhil Vasim",
+            "Hamid Rezatofighi",
+            "Biplab Banerjee"
+          ],
+          "venue": "ACM Transactions on Multimedia Computing Communications and Applications"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:uDGL6kOW6j0C",
+        "title": "dinov3. seg: Open-Vocabulary Semantic Segmentation with DINOv3",
+        "year": "2026",
+        "authors": "S Dutta, B Banerjee, H Rezatofighi",
+        "venue": "arXiv preprint arXiv:2603.19531, 2026",
+        "citations": 0,
+        "openalex": {
+          "id": "https://openalex.org/W7140122354",
+          "doi": "https://doi.org/10.48550/arxiv.2603.19531",
+          "publication_date": "2026-03-19",
+          "authors": [
+            "Saikat Dutta",
+            "Biplab Banerjee",
+            "Hamid Rezatofighi"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:Ehil0879vHcC",
+        "title": "JRDB-Pose3D: A Multi-person 3D Human Pose and Shape Estimation Dataset for Robotics",
+        "year": "2026",
+        "authors": "S Biswas, K Izadpanah, H Rezatofighi",
+        "venue": "arXiv preprint arXiv:2602.03064, 2026",
+        "citations": 0,
+        "openalex": {
+          "id": "https://openalex.org/W7127603244",
+          "doi": "https://doi.org/10.48550/arxiv.2602.03064",
+          "publication_date": "2026-02-03",
+          "authors": [
+            "Sandika Biswas",
+            "Kian Izadpanah",
+            "Hamid Rezatofighi"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:LhH-TYMQEocC",
+        "title": "Neurosymbolic Active Goal Recognition in Partially Observable Environments",
+        "year": "2026",
+        "authors": "C Zhang, S Huang, H Rezatofighi, M Vered, B Say",
+        "venue": "International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS26), 2026",
+        "citations": 0,
+        "openalex": {
+          "id": "https://openalex.org/W7162260523",
+          "doi": "https://doi.org/10.65109/ncct4251",
+          "publication_date": "2026-05-24",
+          "authors": [
+            "Chenyuan Zhang",
+            "Sukai Huang",
+            "Hamid Rezatofighi",
+            "Mor Vered",
+            "Buser Say"
+          ],
+          "venue": null
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:sNmaIFBj_lkC",
+        "title": "JRDB-Reasoning: A Difficulty-Graded Benchmark for Visual Reasoning in Robotics",
+        "year": "2026",
+        "authors": "S Jahangard, M Mohammadi, Y Shen, Z Cai, H Rezatofighi",
+        "venue": "The 40th Annual AAAI Conference on Artificial Intelligence (AAAI26), 2026",
+        "citations": 2,
+        "openalex": {
+          "id": "https://openalex.org/W7138233761",
+          "doi": "https://doi.org/10.1609/aaai.v40i7.37443",
+          "publication_date": "2026-03-14",
+          "authors": [
+            "Simindokht Jahangard",
+            "Mehrzad Mohammadi",
+            "Yi Shen",
+            "Zhixi Cai",
+            "Hamid Rezatofighi"
+          ],
+          "venue": "Proceedings of the AAAI Conference on Artificial Intelligence"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:_FM0Bhl9EiAC",
+        "title": "ECORE: Energy-Conscious Optimized Routing for Deep Learning Models at the Edge",
+        "year": "2026",
+        "authors": "DK Alqahtani, MA Rodriguez, MA Cheema, H Rezatofighi, AN Toosi",
+        "venue": "International Conference on Pervasive Computing and Communications (PerCom26), 2026",
+        "citations": 6,
+        "openalex": {
+          "id": "https://openalex.org/W4416062053",
+          "doi": "https://doi.org/10.1109/percom67906.2026.11524531",
+          "publication_date": "2026-03-16",
+          "authors": [
+            "Daghash K. Alqahtani",
+            "Maria Alejandra Rodriguez",
+            "Muhammad Aamir Cheema",
+            "Hamid Rezatofighi",
+            "Adel N. Toosi"
+          ],
+          "venue": "IEEE International Conference on Pervasive Computing and Communications"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:86PQX7AUzd4C",
+        "title": "Marginalized Generalized IoU (MGIoU): A Unified Objective Function for Optimizing Any Convex Parametric Shapes",
+        "year": "2026",
+        "authors": "DT Le, T Pham, J Cai, H Rezatofighi",
+        "venue": "The 40th Annual AAAI Conference on Artificial Intelligence (AAAI26), 2026",
+        "citations": 8,
+        "openalex": {
+          "id": "https://openalex.org/W4415306650",
+          "doi": "https://doi.org/10.48550/arxiv.2504.16443",
+          "publication_date": "2025-04-23",
+          "authors": [
+            "Duy-Tho Le",
+            "Trung Thanh Pham",
+            "Jianfei Cai",
+            "Hamid Rezatofighi"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:yqoGN6RLRZoC",
+        "title": "ASAP-Textured Gaussians: Enhancing Textured Gaussians with Adaptive Sampling and Anisotropic Parameterization",
+        "year": "2025",
+        "authors": "M Wei, C Zhang, J Zheng, H Rezatofighi, J Cai",
+        "venue": "arXiv preprint arXiv:2512.14039, 2025",
+        "citations": 0,
+        "openalex": {
+          "id": "https://openalex.org/W4417466214",
+          "doi": "https://doi.org/10.48550/arxiv.2512.14039",
+          "publication_date": "2025-12-16",
+          "authors": [
+            "Wei, Meng",
+            "Cheng Zhang",
+            "Jianmin Zheng",
+            "Hamid Rezatofighi",
+            "Cai, Jianfei"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:r_AWSJRzSzQC",
+        "title": "Asset-Driven Sematic Reconstruction of Dynamic Scene with Multi-Human-Object Interactions",
+        "year": "2025",
+        "authors": "S Biswas, Q Wu, B Banerjee, H Rezatofighi",
+        "venue": "arXiv preprint arXiv:2512.00547, 2025",
+        "citations": 0,
+        "openalex": {
+          "id": "https://openalex.org/W4416952652",
+          "doi": "https://doi.org/10.48550/arxiv.2512.00547",
+          "publication_date": "2025-11-29",
+          "authors": [
+            "Sandika Biswas",
+            "Qianyi Wu",
+            "Biplab Banerjee",
+            "Hamid Rezatofighi"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:_5tno0g5mFcC",
+        "title": "A Multi-Modal Neuro-Symbolic Approach for Spatial Reasoning-Based Visual Grounding in Robotics",
+        "year": "2025",
+        "authors": "S Jahangard, M Mohammadi, A Dhall, H Rezatofighi",
+        "venue": "arXiv preprint arXiv:2510.27033, 2025",
+        "citations": 0,
+        "openalex": {
+          "id": "https://openalex.org/W4415914372",
+          "doi": "https://doi.org/10.48550/arxiv.2510.27033",
+          "publication_date": "2025-10-30",
+          "authors": [
+            "Simindokht Jahangard",
+            "Mohammadi, Mehrzad",
+            "Abhinav Dhall",
+            "Hamid Rezatofighi"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:foquWX3nUaYC",
+        "title": "NAVER: A Neuro-Symbolic Compositional Automaton for Visual Grounding with Explicit Logic Reasoning",
+        "year": "2025",
+        "authors": "Z Cai, F Ke, S Jahangard, MG de la Banda, R Haffari, PJ Stuckey, ...",
+        "venue": "IEEE International Conference on Computer Vision (ICCV25), 2025",
+        "citations": 17,
+        "openalex": {
+          "id": "https://openalex.org/W4407123469",
+          "doi": "https://doi.org/10.1109/iccv51701.2025.02232",
+          "publication_date": "2025-10-19",
+          "authors": [
+            "Zhixi Cai",
+            "Fucai Ke",
+            "Simindokht Jahangard",
+            "María García de la Banda",
+            "Reza Haffari",
+            "Peter J. Stuckey",
+            "Hamid Rezatofighi"
+          ],
+          "venue": "IEEE/CVF International Conference on Computer Vision (ICCV)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:ClCfbGk0d_YC",
+        "title": "DWIM: Towards Tool-aware Visual Reasoning via Discrepancy-aware Workflow Generation & Instruct-Masking Tuning",
+        "year": "2025",
+        "authors": "F Ke, X Leng, Z Cai, Z Khan, W Wang, PD Haghighi, H Rezatofighi, ...",
+        "venue": "IEEE International Conference on Computer Vision (ICCV25), 2025",
+        "citations": 12,
+        "openalex": {
+          "id": "https://openalex.org/W7160083573",
+          "doi": "https://doi.org/10.1109/iccv51701.2025.00323",
+          "publication_date": "2025-10-19",
+          "authors": [
+            "Fucai Ke",
+            "Vijay Kumar B G",
+            "Xingjian Leng",
+            "Zhixi Cai",
+            "Zaid Khan",
+            "Weiqing Wang",
+            "Pari Delir Haghighi",
+            "Hamid Rezatofighi",
+            "Manmohan Krishna Chandraker"
+          ],
+          "venue": "IEEE/CVF International Conference on Computer Vision (ICCV)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:WZBGuue-350C",
+        "title": "NEUSIS: A Compositional Neuro-Symbolic Framework for Autonomous Perception, Reasoning, and Planning in Complex UAV Search Missions",
+        "year": "2025",
+        "authors": "Z Cai, CR Cardenas, K Leo, C Zhang, K Backman, H Li, B Li, ...",
+        "venue": "IEEE Robotics and Automation Letters (RA-L), 2025",
+        "citations": 26,
+        "openalex": {
+          "id": "https://openalex.org/W4412605375",
+          "doi": "https://doi.org/10.1109/lra.2025.3592098",
+          "publication_date": "2025-07-23",
+          "authors": [
+            "Zhixi Cai",
+            "C. Cárdenas",
+            "Kevin Leo",
+            "Chenyuan Zhang",
+            "Kal Backman",
+            "Hanbing Li",
+            "Boying Li",
+            "Mahsa Ghorbanali",
+            "Stavya Datta",
+            "Lizhen Qu",
+            "Julián Gutiérrez",
+            "Alexey Ignatiev",
+            "Yuan-Fang Li",
+            "Mor Vered",
+            "Peter J. Stuckey",
+            "María García de la Banda",
+            "Hamid Rezatofighi"
+          ],
+          "venue": "IEEE Robotics and Automation Letters"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:6ZxmRoH8BuwC",
+        "title": "Explain before you answer: A survey on compositional visual reasoning",
+        "year": "2025",
+        "authors": "F Ke, J Hsu, Z Cai, Z Ma, X Zheng, X Wu, S Huang, W Wang, PD Haghighi, ...",
+        "venue": "arXiv preprint arXiv:2508.17298, 2025",
+        "citations": 41,
+        "openalex": null
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:anf4URPfarAC",
+        "title": "Probabilistic Active Goal Recognition",
+        "year": "2025",
+        "authors": "C Zhang, CR Cardenas, H Rezatofighi, M Vered, B Say",
+        "venue": "International Conference on Principles of Knowledge Representation and …, 2025",
+        "citations": 7,
+        "openalex": {
+          "id": "https://openalex.org/W4415904745",
+          "doi": "https://doi.org/10.24963/kr.2025/85",
+          "publication_date": "2025-11-01",
+          "authors": [
+            "Chenyuan Zhang",
+            "Cristian Rojas Cardenas",
+            "Hamid Rezatofighi",
+            "Mor Vered",
+            "Buser Say"
+          ],
+          "venue": null
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:FAceZFleit8C",
+        "title": "Physics-grounded motion forecasting via equation discovery for trajectory-guided image-to-video generation",
+        "year": "2025",
+        "authors": "T Feng, X Zhao, Z Chen, TT Wong, H Rezatofighi, G Haffari, L Qu",
+        "venue": "arXiv preprint arXiv:2507.06830, 2025",
+        "citations": 4,
+        "openalex": {
+          "id": "https://openalex.org/W4416104132",
+          "doi": "https://doi.org/10.48550/arxiv.2507.06830",
+          "publication_date": "2025-07-09",
+          "authors": [
+            "Feng, Tao",
+            "Xianbing Zhao",
+            "Zhenhua Chen",
+            "Wong, Tien Tsin",
+            "Hamid Rezatofighi",
+            "Gholamreza Haffari",
+            "Lizhen Qu"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:PVjk1bu6vJQC",
+        "title": "Aeroseg: Harnessing sam for open-vocabulary segmentation in remote sensing images",
+        "year": "2025",
+        "authors": "S Dutta, A Vasim, S Gole, H Rezatofighi, B Banerjee",
+        "venue": "2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition …, 2025",
+        "citations": 26,
+        "openalex": {
+          "id": "https://openalex.org/W4414197163",
+          "doi": "https://doi.org/10.1109/cvprw67362.2025.00212",
+          "publication_date": "2025-06-11",
+          "authors": [
+            "Saikat Dutta",
+            "Akhil Vasim",
+            "Siddhant Gole",
+            "Hamid Rezatofighi",
+            "Biplab Banerjee"
+          ],
+          "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:LI9QrySNdTsC",
+        "title": "Drvideo: Document retrieval based long video understanding",
+        "year": "2025",
+        "authors": "Z Ma, C Gou, H Shi, B Sun, S Li, H Rezatofighi, J Cai",
+        "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR25), 2025",
+        "citations": 116,
+        "openalex": {
+          "id": "https://openalex.org/W4413147823",
+          "doi": "https://doi.org/10.1109/cvpr52734.2025.01764",
+          "publication_date": "2025-06-10",
+          "authors": [
+            "Ziyu Ma",
+            "Chenhui Gou",
+            "Hengcan Shi",
+            "Bin Sun",
+            "Shutao Li A",
+            "Hamid Rezatofighi",
+            "Jianfei Cai"
+          ],
+          "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:_axFR9aDTf0C",
+        "title": "Deep learning classification integrating embryo images with associated clinical information from ART cycles",
+        "year": "2025",
+        "authors": "M Salih, C Austin, K Mantravadi, E Seow, S Jitanantawittaya, S Reddy, ...",
+        "venue": "Scientific Reports 15 (1), 17585, 2025",
+        "citations": 20,
+        "openalex": {
+          "id": "https://openalex.org/W4410544349",
+          "doi": "https://doi.org/10.1038/s41598-025-02076-x",
+          "publication_date": "2025-05-21",
+          "authors": [
+            "Mohamed Salih",
+            "Christopher Austin",
+            "Krishna Mantravadi",
+            "Eva Seow",
+            "Sutthipat Jitanantawittaya",
+            "Sandeep Reddy",
+            "Beverley J. Vollenhoven",
+            "Hamid Rezatofighi",
+            "Fabrizzio Horta"
+          ],
+          "venue": "Scientific Reports"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:5qfkUJPXOUwC",
+        "title": "Acoustic-to-Hyper-Spectral: Hyper-Spectral Image Construction from Frequency Spectrums Through Simulated Annealing (Student Abstract)",
+        "year": "2025",
+        "authors": "RE Pierau, A Meehan, H Rezatofighi, PJ Stuckey",
+        "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 39 (28), 29466 …, 2025",
+        "citations": 0,
+        "openalex": {
+          "id": "https://openalex.org/W4409360763",
+          "doi": "https://doi.org/10.1609/aaai.v39i28.35290",
+          "publication_date": "2025-04-11",
+          "authors": [
+            "Ruth-Emely Pierau",
+            "Alaster J. Meehan",
+            "Hamid Rezatofighi",
+            "Peter J. Stuckey"
+          ],
+          "venue": "Proceedings of the AAAI Conference on Artificial Intelligence"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:FPJr55Dyh1AC",
+        "title": "Position: prospective of autonomous driving-multimodal LLMs, world models, embodied intelligence, AI alignment, and mamba",
+        "year": "2025",
+        "authors": "Y Ma, W Ye, C Cui, H Zhang, S Xing, F Ke, J Wang, C Miao, J Chen, ...",
+        "venue": "2025 IEEE/CVF Winter Conference on Applications of Computer Vision Workshops …, 2025",
+        "citations": 33,
+        "openalex": {
+          "id": "https://openalex.org/W4409917695",
+          "doi": "https://doi.org/10.1109/wacvw65960.2025.00114",
+          "publication_date": "2025-02-28",
+          "authors": [
+            "Yunsheng Ma",
+            "Wenqian Ye",
+            "Can Cui",
+            "Haiming Zhang",
+            "Shuo Xing",
+            "Fucai Ke",
+            "Jinhong Wang",
+            "Chenglin Miao",
+            "Jintai Chen",
+            "Hamid Rezatofighi",
+            "Zhen Li",
+            "Guangtao Zheng",
+            "Chao Zheng",
+            "Tianjiao He",
+            "Manmohan Krishna Chandraker",
+            "Burhaneddin Yaman",
+            "Xin Ye",
+            "Hang Zhao",
+            "Xu Cao"
+          ],
+          "venue": "IEEE/CVF Winter Conference on Applications of Computer Vision Workshops (WACVW)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:-FonjvnnhkoC",
+        "title": "Hier-SLAM: Scaling-up Semantics in SLAM with a Hierarchically Categorical Gaussian Splatting",
+        "year": "2025",
+        "authors": "B Li, Z Cai, YF Li, I Reid, H Rezatofighi",
+        "venue": "IEEE International Conference on Robotics and Automation (ICRA25), 2025",
+        "citations": 32,
+        "openalex": {
+          "id": "https://openalex.org/W4413925399",
+          "doi": "https://doi.org/10.1109/icra55743.2025.11127775",
+          "publication_date": "2025-05-19",
+          "authors": [
+            "Boying Li",
+            "Zhixi Cai",
+            "Yuan-Fang Li",
+            "Ian D. Reid",
+            "Hamid Rezatofighi"
+          ],
+          "venue": "Proceedings - IEEE International Conference on Robotics and Automation/Proceedings"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:MLfJN-KU85MC",
+        "title": "Social-MAE: Social Masked Autoencoder for Multi-person Motion Representation Learning",
+        "year": "2025",
+        "authors": "M Ehsanpour, I Reid, H Rezatofighi",
+        "venue": "IEEE International Conference on Robotics and Automation (ICRA25), 2025",
+        "citations": 4,
+        "openalex": {
+          "id": "https://openalex.org/W4413947156",
+          "doi": "https://doi.org/10.1109/icra55743.2025.11128614",
+          "publication_date": "2025-05-19",
+          "authors": [
+            "Mahsa Ehsanpour",
+            "Ian D. Reid",
+            "Hamid Rezatofighi"
+          ],
+          "venue": "Proceedings - IEEE International Conference on Robotics and Automation/Proceedings"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:HbR8gkJAVGIC",
+        "title": "Acoustic-to-hyper-spectral: real-time perimeter intrusion detection system monitoring through learnable filters and hyper-spectral image generation from distributed acoustic …",
+        "year": "2025",
+        "authors": "RE Pierau, J Katsifolis, A Meehan, H Rezatofighi, PJ Stuckey",
+        "venue": "Optics Express 33 (3), 4109-4126, 2025",
+        "citations": 8,
+        "openalex": null
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:a3BOlSfXSfwC",
+        "title": "Mobile-videogpt: Fast and accurate video understanding language model",
+        "year": "2025",
+        "authors": "MM Abdelrahman Shaker, C Gou, H Rezatofighi, S Khan, FS Khan",
+        "venue": "arXiv preprint arXiv:2503.21782, 2025",
+        "citations": 9,
+        "openalex": null
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:S16KYo8Pm5AC",
+        "title": "TFS-NeRF: Template-Free NeRF for Semantic 3D Reconstruction of Dynamic Scene",
+        "year": "2024",
+        "authors": "S Biswas, Q Wu, B Banerjee, H Rezatofighi",
+        "venue": "Advances in Neural Information Processing Systems (NeurIPS24), 2024",
+        "citations": 9,
+        "openalex": {
+          "id": "https://openalex.org/W4415795690",
+          "doi": "https://doi.org/10.52202/079017-3635",
+          "publication_date": "2024-01-01",
+          "authors": [
+            "Sandika Biswas",
+            "Qianyi Wu",
+            "Biplab Banerjee",
+            "Hamid Rezatofighi"
+          ],
+          "venue": "neural information processing systems"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:PoWvk5oyLR8C",
+        "title": "Normal-GS: 3D Gaussian Splatting with Normal-Involved Rendering",
+        "year": "2024",
+        "authors": "M Wei, Q Wu, J Zheng, H Rezatofighi, J Cai",
+        "venue": "Advances in Neural Information Processing Systems (NeurIPS24), 2024",
+        "citations": 35,
+        "openalex": {
+          "id": "https://openalex.org/W4415796787",
+          "doi": "https://doi.org/10.52202/079017-2432",
+          "publication_date": "2024-01-01",
+          "authors": [
+            "Meng Wei",
+            "Qianyi Wu",
+            "Jianmin Zheng",
+            "Hamid Rezatofighi",
+            "Jianfei Cai"
+          ],
+          "venue": "neural information processing systems"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:i2xiXl-TujoC",
+        "title": "GyroCopter: Differential Bearing Measuring Trajectory Planner for Tracking and Localizing Radio Frequency Sources",
+        "year": "2024",
+        "authors": "F Chen, SH Rezatofighi, DC Ranasinghe",
+        "venue": "IEEE Robotics and Automation Letters (RA-L), 2024",
+        "citations": 5,
+        "openalex": {
+          "id": "https://openalex.org/W4405179633",
+          "doi": "https://doi.org/10.1109/lra.2024.3512999",
+          "publication_date": "2024-12-09",
+          "authors": [
+            "Fei Chen",
+            "Hamid Rezatofighi",
+            "Damith Chinthana Ranasinghe"
+          ],
+          "venue": "IEEE Robotics and Automation Letters"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:Dip1O2bNi0gC",
+        "title": "Shape-prior Free Space-time Neural Radiance Field for 4D Semantic Reconstruction of Dynamic Scene from Sparse-View RGB Videos",
+        "year": "2024",
+        "authors": "S Biswas, B Banerjee, H Rezatofighi",
+        "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS24 …, 2024",
+        "citations": 0,
+        "openalex": {
+          "id": "https://openalex.org/W4405787017",
+          "doi": "https://doi.org/10.1109/iros58592.2024.10802221",
+          "publication_date": "2024-10-14",
+          "authors": [
+            "Sandika Biswas",
+            "Biplab Banerjee",
+            "Hamid Rezatofighi"
+          ],
+          "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:TIZ-Mc8IlK0C",
+        "title": "HYDRA: A Hyper Agent for Dynamic Compositional Visual Reasoning",
+        "year": "2024",
+        "authors": "F Ke, Z Cai, S Jahangard, W Wang, PD Haghighi, H Rezatofighi",
+        "venue": "European Conference On Computer Vision (ECCV24), 2024",
+        "citations": 43,
+        "openalex": {
+          "id": "https://openalex.org/W4404725708",
+          "doi": "https://doi.org/10.1007/978-3-031-72661-3_8",
+          "publication_date": "2024-11-26",
+          "authors": [
+            "Fucai Ke",
+            "Zhixi Cai",
+            "Simindokht Jahangard",
+            "Weiqing Wang",
+            "Pari Delir Haghighi",
+            "Hamid Rezatofighi"
+          ],
+          "venue": "Lecture notes in computer science"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:b1wdh0AR-JQC",
+        "title": "DifFUSER: Diffusion Model for Robust Multi-Sensor Fusion in 3D Object Detection and BEV Segmentation",
+        "year": "2024",
+        "authors": "DT Le, H Shi, J Cai, H Rezatofighi",
+        "venue": "European Conference On Computer Vision (ECCV24), 2024",
+        "citations": 51,
+        "openalex": {
+          "id": "https://openalex.org/W4394653165",
+          "doi": "https://doi.org/10.48550/arxiv.2404.04629",
+          "publication_date": "2024-04-06",
+          "authors": [
+            "Duy-Tho Le",
+            "Hengcan Shi",
+            "Jianfei Cai",
+            "Hamid Rezatofighi"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:M7yex6snE4oC",
+        "title": "How well can vision language models see image details?",
+        "year": "2024",
+        "authors": "C Gou, A Felemban, FF Khan, D Zhu, J Cai, H Rezatofighi, M Elhoseiny",
+        "venue": "arXiv preprint arXiv:2408.03940, 2024",
+        "citations": 20,
+        "openalex": {
+          "id": "https://openalex.org/W4403662556",
+          "doi": "https://doi.org/10.48550/arxiv.2408.03940",
+          "publication_date": "2024-08-07",
+          "authors": [
+            "Chenhui Gou",
+            "Abdulwahab Felemban",
+            "Faizan Farooq Khan",
+            "Deyao Zhu",
+            "Jianfei Cai",
+            "Hamid Rezatofighi",
+            "Mohamed Elhoseiny"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:KxtntwgDAa4C",
+        "title": "Multi-objective multi-agent planning for discovering and tracking multiple mobile objects",
+        "year": "2024",
+        "authors": "H Van Nguyen, BN Vo, BT Vo, H Rezatofighi, DC Ranasinghe",
+        "venue": "IEEE Transactions on Signal Processing, 2024",
+        "citations": 39,
+        "openalex": {
+          "id": "https://openalex.org/W4400352413",
+          "doi": "https://doi.org/10.1109/tsp.2024.3423755",
+          "publication_date": "2024-01-01",
+          "authors": [
+            "Hoa Van Nguyen",
+            "Ba‐Ngu Vo",
+            "Ba-Tuong Vo",
+            "Hamid Rezatofighi",
+            "Damith Chinthana Ranasinghe"
+          ],
+          "venue": "IEEE Transactions on Signal Processing"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:tuHXwOkdijsC",
+        "title": "JRDB-Social: A Multifaceted Robotic Dataset for Understanding of Context and Dynamics of Human Interactions Within Social Groups",
+        "year": "2024",
+        "authors": "S Jahangard, Z Cai, S Wen, H Rezatofighi",
+        "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR24), 2024",
+        "citations": 42,
+        "openalex": {
+          "id": "https://openalex.org/W4402774247",
+          "doi": "https://doi.org/10.1109/cvpr52733.2024.02085",
+          "publication_date": "2024-06-16",
+          "authors": [
+            "Simindokht Jahangard",
+            "Zhixi Cai",
+            "Shiki Wen",
+            "Hamid Rezatofighi"
+          ],
+          "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:gsN89kCJA0AC",
+        "title": "JRDB-PanoTrack: An Open-world Panoptic Segmentation and Tracking Robotic Dataset in Crowded Human Environments",
+        "year": "2024",
+        "authors": "DT Le, C Gou, S Datta, H Shi, I Reid, J Cai, H Rezatofighi",
+        "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR24), 2024",
+        "citations": 18,
+        "openalex": {
+          "id": "https://openalex.org/W4402727367",
+          "doi": "https://doi.org/10.1109/cvpr52733.2024.02107",
+          "publication_date": "2024-06-16",
+          "authors": [
+            "Duy Lê",
+            "Chenhui Gou",
+            "Stavya Datta",
+            "Hengcan Shi",
+            "Ian D. Reid",
+            "Jianfei Cai",
+            "Hamid Rezatofighi"
+          ],
+          "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:vDijr-p_gm4C",
+        "title": "Series2Vec: Similarity-based Self-supervised Representation Learning for Time Series Classification",
+        "year": "2024",
+        "authors": "NM Foumani, CW Tan, GI Webb, H Rezatofighi, M Salehi",
+        "venue": "Data Mining and Knowledge Discovery, 2024",
+        "citations": 52,
+        "openalex": {
+          "id": "https://openalex.org/W4399865033",
+          "doi": "https://doi.org/10.1007/s10618-024-01043-w",
+          "publication_date": "2024-06-20",
+          "authors": [
+            "Navid Mohammadi Foumani",
+            "Chang Wei Tan",
+            "Geoffrey I. Webb",
+            "Hamid Rezatofighi",
+            "Mahsa Salehi"
+          ],
+          "venue": "Data Mining and Knowledge Discovery"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:URolC5Kub84C",
+        "title": "Improving Visual Perception of a Social Robot for Controlled and In-the-wild Human-robot Interaction",
+        "year": "2024",
+        "authors": "W Zhong, L Tian, DT Le, H Rezatofighi",
+        "venue": "ACM/IEEE International Conference on Human-Robot Interaction (HRI24), 2024",
+        "citations": 3,
+        "openalex": {
+          "id": "https://openalex.org/W4392488355",
+          "doi": "https://doi.org/10.1145/3610978.3640648",
+          "publication_date": "2024-03-10",
+          "authors": [
+            "Wencheng Zhong",
+            "Leimin Tian",
+            "Duy Lê",
+            "Hamid Rezatofighi"
+          ],
+          "venue": "ACM/IEEE International Conference on Human-Robot Interaction (HRI)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:XD-gHx7UXLsC",
+        "title": "ConservationBots: Autonomous Aerial Robot for Fast Robust Wildlife Tracking in Complex Terrains",
+        "year": "2023",
+        "authors": "F Chen, H Van Nguyen, DA Taggart, K Falkner, SH Rezatofighi, ...",
+        "venue": "Journal of Field Robotics, 2023",
+        "citations": 18,
+        "openalex": {
+          "id": "https://openalex.org/W4385965561",
+          "doi": "https://doi.org/10.1002/rob.22270",
+          "publication_date": "2023-11-28",
+          "authors": [
+            "Fei Chen",
+            "Hoa Van Nguyen",
+            "David Taggart",
+            "Katrina E. Kerry Falkner",
+            "S. Hamid Rezatofighi",
+            "Damith Chinthana Ranasinghe"
+          ],
+          "venue": "Journal of Field Robotics"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:EkHepimYqZsC",
+        "title": "Reply: Artificial intelligence as a door opener for a new era of human reproduction",
+        "year": "2023",
+        "authors": "F Horta, M Salih, C Austin, R Warty, V Smith, DL Rolnik, S Reddy, ...",
+        "venue": "Human Reproduction Open 2023 (4), hoad045, 2023",
+        "citations": 6,
+        "openalex": {
+          "id": "https://openalex.org/W4388994105",
+          "doi": "https://doi.org/10.1093/hropen/hoad045",
+          "publication_date": "2023-01-01",
+          "authors": [
+            "Fabrizzio Horta",
+            "Mohamed Salih",
+            "C Austin",
+            "Ritesh Rikain Warty",
+            "Vinayak Smith",
+            "Daniel L. Rolnik",
+            "Sandeep Reddy",
+            "Hamid Rezatofighi",
+            "Beverley J. Vollenhoven"
+          ],
+          "venue": "Human Reproduction Open"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:q3oQSFYPqjQC",
+        "title": "Unifying flow, stereo and depth estimation",
+        "year": "2023",
+        "authors": "H Xu, J Zhang, J Cai, H Rezatofighi, F Yu, D Tao, A Geiger",
+        "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023",
+        "citations": 519,
+        "openalex": {
+          "id": "https://openalex.org/W4385259380",
+          "doi": "https://doi.org/10.1109/tpami.2023.3298645",
+          "publication_date": "2023-07-25",
+          "authors": [
+            "Haofei Xu",
+            "Jing Zhang",
+            "Jianfei Cai",
+            "Hamid Rezatofighi",
+            "Fisher Yu",
+            "Dacheng Tao",
+            "Andreas Geiger"
+          ],
+          "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:GtLg2Ama23sC",
+        "title": "Learning to Learn and Adapt with Less Labels",
+        "year": "2023",
+        "authors": "G Haffari, E Abbasnejad, M Harandi, I Nassar, M Ghorbanali, C Qian, ...",
+        "venue": "",
+        "citations": 0,
+        "openalex": null
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:ipzZ9siozwsC",
+        "title": "Jrdb-traj: A dataset and benchmark for trajectory forecasting in crowds",
+        "year": "2023",
+        "authors": "S Saadatnejad, Y Gao, H Rezatofighi, A Alahi",
+        "venue": "arXiv preprint arXiv:2311.02736, 2023",
+        "citations": 9,
+        "openalex": {
+          "id": "https://openalex.org/W4388482547",
+          "doi": "https://doi.org/10.48550/arxiv.2311.02736",
+          "publication_date": "2023-11-05",
+          "authors": [
+            "Saeed Saadatnejad",
+            "Yang Gao",
+            "Hamid Rezatofighi",
+            "Alexandre Alahi"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:nrtMV_XWKgEC",
+        "title": "Energy-based Self-Training and Normalization for Unsupervised Domain Adaptation",
+        "year": "2023",
+        "authors": "S Herath, B Fernando, E Abbasnejad, M Hayat, S Khadivi, M Harandi, ...",
+        "venue": "IEEE/CVF International Conference on Computer Vision (ICCV23), 11653-11662, 2023",
+        "citations": 24,
+        "openalex": {
+          "id": "https://openalex.org/W4390874711",
+          "doi": "https://doi.org/10.1109/iccv51070.2023.01070",
+          "publication_date": "2023-10-01",
+          "authors": [
+            "Samitha Herath",
+            "Basura Fernando",
+            "Ehsan Abbasnejad",
+            "Munawar Hayat",
+            "Shahram Khadivi",
+            "Mehrtash Tafazzoli Harandi",
+            "Hamid Rezatofighi",
+            "Gholamreza Haffari"
+          ],
+          "venue": "IEEE/CVF International Conference on Computer Vision (ICCV)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:t7zJ5fGR-2UC",
+        "title": "Physically Plausible 3D Human-Scene Reconstruction from Monocular RGB Image using an Adversarial Learning Approach",
+        "year": "2023",
+        "authors": "S Biswas, K Li, B Banerjee, S Chaudhuri, H Rezatofighi",
+        "venue": "IEEE Robotics and Automation Letters (RA-L), 2023",
+        "citations": 5,
+        "openalex": {
+          "id": "https://openalex.org/W4385516985",
+          "doi": "https://doi.org/10.1109/lra.2023.3301305",
+          "publication_date": "2023-08-03",
+          "authors": [
+            "Sandika Biswas",
+            "Kejie Li",
+            "Biplab Banerjee",
+            "Subhasis Chaudhuri",
+            "Hamid Rezatofighi"
+          ],
+          "venue": "IEEE Robotics and Automation Letters"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:uc_IGeMz5qoC",
+        "title": "Exploring the utility of artificial intelligence of intrapartum cardiotocography: a systematic review",
+        "year": "2023",
+        "authors": "M Salih, RR Warty, HK Murday, A Kaushik, Y Zhang, F Horta, S Reddy, ...",
+        "venue": "",
+        "citations": 0,
+        "openalex": {
+          "id": "https://openalex.org/W4387446622",
+          "doi": "https://doi.org/10.21203/rs.3.rs-3405992/v1",
+          "publication_date": "2023-10-09",
+          "authors": [
+            "Mohamed Salih",
+            "Ritesh Rikain Warty",
+            "Hamsaveni Kalina Murday",
+            "Arjun Kaushik",
+            "Yuxin Zhang",
+            "Fabrizzio Horta",
+            "Sandeep Reddy",
+            "Beverley J. Vollenhoven",
+            "Hamid Rezatofighi",
+            "Wenlong Cheng",
+            "Vinayak Smith"
+          ],
+          "venue": "Research Square"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:kzcrU_BdoSEC",
+        "title": "Real-time Trajectory-based Social Group Detection",
+        "year": "2023",
+        "authors": "S Jahangard, M Hayat, H Rezatofighi",
+        "venue": "International Conference on Intelligent Robots and Systems (IROS23), 2023",
+        "citations": 13,
+        "openalex": {
+          "id": "https://openalex.org/W4389667324",
+          "doi": "https://doi.org/10.1109/iros55552.2023.10342121",
+          "publication_date": "2023-10-01",
+          "authors": [
+            "Simindokht Jahangard",
+            "Munawar Hayat",
+            "Hamid Rezatofighi"
+          ],
+          "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:HE397vMXCloC",
+        "title": "Tracking Different Ant Species: An Unsupervised Domain Adaptation Framework and a Dataset for Multi-object Tracking",
+        "year": "2023",
+        "authors": "C Abeysinghe, C Reid, H Rezatofighi, B Meyer",
+        "venue": "International Joint Conference on Artificial Intelligence (IJCAI23), 2023",
+        "citations": 10,
+        "openalex": {
+          "id": "https://openalex.org/W4385767481",
+          "doi": "https://doi.org/10.24963/ijcai.2023/61",
+          "publication_date": "2023-08-01",
+          "authors": [
+            "Chamath Abeysinghe",
+            "Chris R. Reid",
+            "Hamid Rezatofighi",
+            "Bernd Meyer"
+          ],
+          "venue": "International Joint Conference on Artificial Intelligence"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:9Nmd_mFXekcC",
+        "title": "Embryo selection through artificial intelligence versus embryologists: a systematic review",
+        "year": "2023",
+        "authors": "M Salih, C Austin, RR Warty, C Tiktin, DL Rolnik, M Momeni, ...",
+        "venue": "Human Reproduction Open 2023 (3), hoad031, 2023",
+        "citations": 222,
+        "openalex": {
+          "id": "https://openalex.org/W4385845014",
+          "doi": "https://doi.org/10.1093/hropen/hoad031",
+          "publication_date": "2023-01-01",
+          "authors": [
+            "Mohamed Salih",
+            "C Austin",
+            "Ritesh Rikain Warty",
+            "C Tiktin",
+            "Daniel L. Rolnik",
+            "Milad Momeni",
+            "Hamid Rezatofighi",
+            "Sandeep Reddy",
+            "Vinayak Smith",
+            "Beverley J. Vollenhoven",
+            "Fabrizzio Horta"
+          ],
+          "venue": "Human Reproduction Open"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:BrmTIyaxlBUC",
+        "title": "JRDB-Pose: A Large-scale Dataset for Multi-Person Pose Estimation and Tracking",
+        "year": "2023",
+        "authors": "E Vendrow, DT Le, H Rezatofighi",
+        "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR23), 2023",
+        "citations": 64,
+        "openalex": {
+          "id": "https://openalex.org/W4386075695",
+          "doi": "https://doi.org/10.1109/cvpr52729.2023.00466",
+          "publication_date": "2023-06-01",
+          "authors": [
+            "Edward B. Vendrow",
+            "Duy Lê",
+            "Jianfei Cai",
+            "Hamid Rezatofighi"
+          ],
+          "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:uLbwQdceFCQC",
+        "title": "Knowledge Combination to Learn Rotated Detection Without Rotated Annotation",
+        "year": "2023",
+        "authors": "T Zhu, B Ferenczi, P Purkait, T Drummond, H Rezatofighi, A Hengel",
+        "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR23), 2023",
+        "citations": 29,
+        "openalex": {
+          "id": "https://openalex.org/W4386076619",
+          "doi": "https://doi.org/10.1109/cvpr52729.2023.01489",
+          "publication_date": "2023-06-01",
+          "authors": [
+            "Tianyu Zhu",
+            "Bryce Ferenczi",
+            "Pulak Purkait",
+            "Tom W. Drummond",
+            "Hamid Rezatofighi",
+            "Anton van den Hengel"
+          ],
+          "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:JQOojiI6XY0C",
+        "title": "ProtoCon: Pseudo-label Refinement via Online Clustering and Prototypical Consistency for Efficient Semi-supervised Learning",
+        "year": "2023",
+        "authors": "I Nassar, M Hayat, E Abbasnejad, H Rezatofighi, G Haffari",
+        "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR23), 2023",
+        "citations": 53,
+        "openalex": {
+          "id": "https://openalex.org/W4386075626",
+          "doi": "https://doi.org/10.1109/cvpr52729.2023.01120",
+          "publication_date": "2023-06-01",
+          "authors": [
+            "Islam Nassar",
+            "Munawar Hayat",
+            "Ehsan Abbasnejad",
+            "Hamid Rezatofighi",
+            "Gholamreza Haffari"
+          ],
+          "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:mvPsJ3kp5DgC",
+        "title": "MARLIN: Masked Autoencoder for facial video Representation LearnINg",
+        "year": "2023",
+        "authors": "Z Cai, S Ghosh, K Stefanov, A Dhall, J Cai, H Rezatofighi, R Haffari, ...",
+        "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR23), 2023",
+        "citations": 183,
+        "openalex": {
+          "id": "https://openalex.org/W4386076638",
+          "doi": "https://doi.org/10.1109/cvpr52729.2023.00150",
+          "publication_date": "2023-06-01",
+          "authors": [
+            "Zhixi Cai",
+            "Shreya Ghosh",
+            "Kalin Stefanov",
+            "Abhinav Dhall",
+            "Jianfei Cai",
+            "Hamid Rezatofighi",
+            "Reza Haffari",
+            "Munawar Hayat"
+          ],
+          "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:olpn-zPbct0C",
+        "title": "Accurate and Real-time 3D Pedestrian Detection Using an Efficient Attentive Pillar Network",
+        "year": "2023",
+        "authors": "DT Le, H Shi, H Rezatofighi, J Cai",
+        "venue": "IEEE Robotics and Automation Letters (RA-L) 8 (2), 1159-1166, 2023",
+        "citations": 55,
+        "openalex": {
+          "id": "https://openalex.org/W4313306311",
+          "doi": "https://doi.org/10.1109/lra.2022.3233234",
+          "publication_date": "2022-12-30",
+          "authors": [
+            "Duy Lê",
+            "Hengcan Shi",
+            "Hamid Rezatofighi",
+            "Jianfei Cai"
+          ],
+          "venue": "IEEE Robotics and Automation Letters"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:lmc2jWPfTJgC",
+        "title": "Label-efficient Low-shot Transfer Learning via Self-supervision and Language Semantics",
+        "year": "2023",
+        "authors": "I Nassar, M Hayat, E Abbasnejad, H Rezatofighi, M Harandi, G Haffari",
+        "venue": "Deep Visual Recognition with Limited Human Supervision, 103, 2023",
+        "citations": 0,
+        "openalex": null
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:wbdj-CoPYUoC",
+        "title": "How trustworthy are the existing performance evaluations for basic vision tasks?",
+        "year": "2023",
+        "authors": "H Rezatofighi, TTD Nguyen, BN Vo, BT Vo, S Savarese, I Reid",
+        "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023",
+        "citations": 53,
+        "openalex": null
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:eflP2zaiRacC",
+        "title": "LAVA: Label-efficient Visual Learning and Adaptation",
+        "year": "2023",
+        "authors": "I Nassar, M Hayat, E Abbasnejad, H Rezatofighi, M Harandi, G Haffari",
+        "venue": "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV23), 147-156, 2023",
+        "citations": 4,
+        "openalex": null
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:3s1wT3WcHBgC",
+        "title": "Looking Beyond Two Frames: End-to-End Multi-Object Tracking Using Spatial and Temporal Transformers",
+        "year": "2022",
+        "authors": "T Zhu, M Hiller, M Ehsanpour, R Ma, T Drummond, I Reid, H Rezatofighi",
+        "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022",
+        "citations": 92,
+        "openalex": {
+          "id": "https://openalex.org/W4304479854",
+          "doi": "https://doi.org/10.1109/tpami.2022.3213073",
+          "publication_date": "2022-10-10",
+          "authors": [
+            "Tianyu Zhu",
+            "Markus Hiller",
+            "Mahsa Ehsanpour",
+            "Rongkai Ma",
+            "Tom W. Drummond",
+            "Ian D. Reid",
+            "Hamid Rezatofighi"
+          ],
+          "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:V3AGJWp-ZtQC",
+        "title": "Predicting Topological Maps for Visual Navigation in Unexplored Environments",
+        "year": "2022",
+        "authors": "H Zhan, H Rezatofighi, I Reid",
+        "venue": "arXiv preprint arXiv:2211.12649, 2022",
+        "citations": 0,
+        "openalex": {
+          "id": "https://openalex.org/W4309953337",
+          "doi": "https://doi.org/10.48550/arxiv.2211.12649",
+          "publication_date": "2022-11-23",
+          "authors": [
+            "Huangying Zhan",
+            "Hamid Rezatofighi",
+            "Ian D. Reid"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:kRWSkSYxWN8C",
+        "title": "Activermap: Radiance field for active mapping and planning",
+        "year": "2022",
+        "authors": "H Zhan, J Zheng, Y Xu, I Reid, H Rezatofighi",
+        "venue": "arXiv preprint arXiv:2211.12656, 2022",
+        "citations": 69,
+        "openalex": {
+          "id": "https://openalex.org/W4309953435",
+          "doi": "https://doi.org/10.48550/arxiv.2211.12656",
+          "publication_date": "2022-11-23",
+          "authors": [
+            "Huangying Zhan",
+            "Jiyang Zheng",
+            "Yi Xu",
+            "Ian D. Reid",
+            "Hamid Rezatofighi"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:08ZZubdj9fEC",
+        "title": "Somoformer: Multi-person pose forecasting with transformers",
+        "year": "2022",
+        "authors": "E Vendrow, S Kumar, E Adeli, H Rezatofighi",
+        "venue": "arXiv preprint arXiv:2208.14023, 2022",
+        "citations": 36,
+        "openalex": {
+          "id": "https://openalex.org/W4294006621",
+          "doi": "https://doi.org/10.48550/arxiv.2208.14023",
+          "publication_date": "2022-08-30",
+          "authors": [
+            "Edward B. Vendrow",
+            "Satyajit Kumar",
+            "Ehsan Adeli",
+            "Hamid Rezatofighi"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:p2g8aNsByqUC",
+        "title": "JRDB-Act: A Large-scale Multi-modal Dataset for Spatio-temporal Action, Social Group and Activity Detection",
+        "year": "2022",
+        "authors": "M Ehsanpour, F Saleh, S Savarese, I Reid, H Rezatofighi",
+        "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR22), 20983-20992, 2022",
+        "citations": 85,
+        "openalex": {
+          "id": "https://openalex.org/W3171085253",
+          "doi": null,
+          "publication_date": "2021-06-16",
+          "authors": [
+            "Mahsa Ehsanpour",
+            "Fatemeh Sadat Saleh",
+            "Silvio Savarese",
+            "Ian D. Reid",
+            "Hamid Rezatofighi"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:b0M2c_1WBrUC",
+        "title": "GMFlow: Learning Optical Flow via Global Matching",
+        "year": "2022",
+        "authors": "H Xu, J Zhang, J Cai, H Rezatofighi, D Tao",
+        "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR22), 2022",
+        "citations": 833,
+        "openalex": {
+          "id": "https://openalex.org/W3215023725",
+          "doi": "https://doi.org/10.1109/cvpr52688.2022.00795",
+          "publication_date": "2022-06-01",
+          "authors": [
+            "Haofei Xu",
+            "Jing Zhang",
+            "Jianfei Cai",
+            "Hamid Rezatofighi",
+            "Dacheng Tao"
+          ],
+          "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:dshw04ExmUIC",
+        "title": "Learning of Global Objective for Network Flow in Multi-Object Tracking",
+        "year": "2022",
+        "authors": "S Li, Y Kong, H Rezatofighi",
+        "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR22), 2022",
+        "citations": 39,
+        "openalex": {
+          "id": "https://openalex.org/W4312267513",
+          "doi": "https://doi.org/10.1109/cvpr52688.2022.00865",
+          "publication_date": "2022-06-01",
+          "authors": [
+            "Shuai Li",
+            "Yu Kong",
+            "Hamid Rezatofighi"
+          ],
+          "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:ns9cj8rnVeAC",
+        "title": "Learn to Predict Sets Using Feed-Forward Neural Networks",
+        "year": "2021",
+        "authors": "H Rezatofighi, R Kaskman, FT Motlagh, Q Shi, A Milan, D Cremers, ...",
+        "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 44 …, 2021",
+        "citations": 25,
+        "openalex": {
+          "id": "https://openalex.org/W3004234262",
+          "doi": "https://doi.org/10.1109/tpami.2021.3122970",
+          "publication_date": "2021-10-27",
+          "authors": [
+            "Hamid Rezatofighi",
+            "Tianyu Zhu",
+            "Roman Kaskman",
+            "Farbod Motlagh",
+            "Javen Qinfeng Shi",
+            "Anton Milan",
+            "Daniel Cremers",
+            "Laura Leal-Taixé",
+            "Ian D. Reid"
+          ],
+          "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:_xSYboBqXhAC",
+        "title": "Guided-GAN: Adversarial representation learning for activity recognition with wearables",
+        "year": "2021",
+        "authors": "A Abedin, H Rezatofighi, DC Ranasinghe",
+        "venue": "arXiv preprint arXiv:2110.05732, 2021",
+        "citations": 11,
+        "openalex": {
+          "id": "https://openalex.org/W3207856452",
+          "doi": "https://doi.org/10.48550/arxiv.2110.05732",
+          "publication_date": "2021-10-12",
+          "authors": [
+            "Alireza Abedin",
+            "Hamid Rezatofighi",
+            "Damith Chinthana Ranasinghe"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:yD5IFk8b50cC",
+        "title": "ODAM: Object Detection, Association, and Mapping using Posed RGB Video",
+        "year": "2021",
+        "authors": "K Li, D DeTone, S Chen, M Vo, I Reid, H Rezatofighi, C Sweeney, ...",
+        "venue": "IEEE International Conference on Computer Vision (ICCV21), 2021",
+        "citations": 51,
+        "openalex": {
+          "id": "https://openalex.org/W3194241004",
+          "doi": "https://doi.org/10.1109/iccv48922.2021.00594",
+          "publication_date": "2021-10-01",
+          "authors": [
+            "Kejie Li",
+            "Daniel DeTone",
+            "Steven Chen",
+            "Minh Vo",
+            "Ian D. Reid",
+            "Hamid Rezatofighi",
+            "Chris Sweeney",
+            "Julian Straub",
+            "Richard Newcombe"
+          ],
+          "venue": "IEEE/CVF International Conference on Computer Vision (ICCV)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:zA6iFVUQeVQC",
+        "title": "TRiPOD: Human Trajectory and Pose Dynamics Forecasting in the Wild",
+        "year": "2021",
+        "authors": "V Adeli, M Ehsanpour, I Reid, JC Niebles, S Savarese, E Adeli, ...",
+        "venue": "IEEE International Conference on Computer Vision (ICCV21), 2021",
+        "citations": 98,
+        "openalex": {
+          "id": "https://openalex.org/W3156980132",
+          "doi": "https://doi.org/10.1109/iccv48922.2021.01314",
+          "publication_date": "2021-10-01",
+          "authors": [
+            "Vida Adeli",
+            "Mahsa Ehsanpour",
+            "Ian D. Reid",
+            "Juan Carlos Niebles",
+            "Silvio Savarese",
+            "Ehsan Adeli",
+            "Hamid Rezatofighi"
+          ],
+          "venue": "IEEE/CVF International Conference on Computer Vision (ICCV)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:pqnbT2bcN3wC",
+        "title": "Distributed Multi-object Tracking under Limited Field of View Sensors",
+        "year": "2021",
+        "authors": "H Van Nguyen, H Rezatofighi, BN Vo, DC Ranasinghe",
+        "venue": "IEEE Transactions on Signal Processing, 2021",
+        "citations": 79,
+        "openalex": {
+          "id": "https://openalex.org/W3117447933",
+          "doi": "https://doi.org/10.1109/tsp.2021.3103125",
+          "publication_date": "2021-01-01",
+          "authors": [
+            "Hoa Van Nguyen",
+            "Hamid Rezatofighi",
+            "Ba‐Ngu Vo",
+            "Damith Chinthana Ranasinghe"
+          ],
+          "venue": "IEEE Transactions on Signal Processing"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:4OULZ7Gr8RgC",
+        "title": "Unsupervised Image Segmentation by Mutual Information Maximization and Adversarial Regularization",
+        "year": "2021",
+        "authors": "SE Mirsadeghi, A Royat, H Rezatofighi",
+        "venue": "IEEE Robotics and Automation Letters (RA-L) & International Conference on …, 2021",
+        "citations": 57,
+        "openalex": {
+          "id": "https://openalex.org/W3181191249",
+          "doi": "https://doi.org/10.1109/lra.2021.3095311",
+          "publication_date": "2021-07-07",
+          "authors": [
+            "Seyyed Ehsan Mirsadeghi",
+            "Ali Royat",
+            "Hamid Rezatofighi"
+          ],
+          "venue": "IEEE Robotics and Automation Letters"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:HoB7MX3m0LUC",
+        "title": "JRDB: A Dataset and Benchmark of Egocentric Robot Visual Perception of Humans in Built Environments",
+        "year": "2021",
+        "authors": "R Martín-Martín*, M Patel*, H Rezatofighi*, A Shenoi, JY Gwak, E Frankel, ...",
+        "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021",
+        "citations": 292,
+        "openalex": {
+          "id": "https://openalex.org/W3144974485",
+          "doi": "https://doi.org/10.1109/tpami.2021.3070543",
+          "publication_date": "2021-04-02",
+          "authors": [
+            "Roberto Martín-Martín",
+            "Mihir Patel",
+            "Hamid Rezatofighi",
+            "Abhijeet Shenoi",
+            "JunYoung Gwak",
+            "E. Frankel",
+            "Amir Sadeghian",
+            "Silvio Savarese"
+          ],
+          "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:M05iB0D1s5AC",
+        "title": "Probabilistic Tracklet Scoring and Inpainting for Multiple Object Tracking",
+        "year": "2021",
+        "authors": "F Saleh, S Aliakbarian, H Rezatofighi, M Salzmann, S Gould",
+        "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR21), 2021",
+        "citations": 149,
+        "openalex": {
+          "id": "https://openalex.org/W3111581832",
+          "doi": "https://doi.org/10.1109/cvpr46437.2021.01410",
+          "publication_date": "2021-06-01",
+          "authors": [
+            "Fatemeh Sadat Saleh",
+            "Sadegh Aliakbarian",
+            "Hamid Rezatofighi",
+            "Mathieu Salzmann",
+            "Stephen Jay Gould"
+          ],
+          "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:lSLTfruPkqcC",
+        "title": "Attend And Discriminate: Beyond the State-of-the-Art for Human Activity Recognition using Wearable Sensors",
+        "year": "2021",
+        "authors": "A Abedin, M Ehsanpour, Q Shi, H Rezatofighi, DC Ranasinghe",
+        "venue": "The Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous …, 2021",
+        "citations": 174,
+        "openalex": {
+          "id": "https://openalex.org/W3042954265",
+          "doi": "https://doi.org/10.48550/arxiv.2007.07172",
+          "publication_date": "2020-07-14",
+          "authors": [
+            "Alireza Abedin",
+            "Mahsa Ehsanpour",
+            "Qinfeng Shi",
+            "Hamid Rezatofighi",
+            "Damith Chinthana Ranasinghe"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:g5m5HwL7SMYC",
+        "title": "MO-LTR: Multiple Object Localization, Tracking, and Reconstruction from Monocular RGB Videos",
+        "year": "2021",
+        "authors": "K Li, H Rezatofighi, I Reid",
+        "venue": "IEEE Robotics and Automation Letters (RA-L) & International Conference on …, 2021",
+        "citations": 34,
+        "openalex": null
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:70eg2SAEIzsC",
+        "title": "Towards Deep Clustering of Human Activities from Wearables",
+        "year": "2020",
+        "authors": "A Abedin, F Motlagh, Q Shi, SH Rezatofighi, DC Ranasinghe",
+        "venue": "The ACM international joint conference on pervasive and ubiquitous computing …, 2020",
+        "citations": 40,
+        "openalex": {
+          "id": "https://openalex.org/W3047073692",
+          "doi": "https://doi.org/10.1145/3410531.3414312",
+          "publication_date": "2020-09-04",
+          "authors": [
+            "Alireza Abedin",
+            "Farbod Motlagh",
+            "Qinfeng Shi",
+            "Hamid Rezatofighi",
+            "Damith Chinthana Ranasinghe"
+          ],
+          "venue": "International Symposium on Wearable Computers"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:RYcK_YlVTxYC",
+        "title": "Joint learning of Social Groups, Individuals Action and Sub-group Activities in Videos",
+        "year": "2020",
+        "authors": "M Ehsanpour, A Abedin, F Saleh, J Shi, I Reid, H Rezatofighi",
+        "venue": "European Conference On Computer Vision (ECCV20), 2020",
+        "citations": 132,
+        "openalex": {
+          "id": "https://openalex.org/W3039930990",
+          "doi": "https://doi.org/10.1007/978-3-030-58545-7_11",
+          "publication_date": "2020-01-01",
+          "authors": [
+            "Mahsa Ehsanpour",
+            "Alireza Abedin",
+            "Fatemeh Sadat Saleh",
+            "Qinfeng Shi",
+            "Ian D. Reid",
+            "Hamid Rezatofighi"
+          ],
+          "venue": "Lecture notes in computer science"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:vV6vV6tmYwMC",
+        "title": "Socially and Contextually Aware Human Motion and Pose Forecasting",
+        "year": "2020",
+        "authors": "V Adeli, E Adeli, I Reid, JC Niebles, H Rezatofighi",
+        "venue": "IEEE Robotics and Automation Letters (RA-L) & International Conference on …, 2020",
+        "citations": 122,
+        "openalex": {
+          "id": "https://openalex.org/W3042290681",
+          "doi": "https://doi.org/10.1109/lra.2020.3010742",
+          "publication_date": "2020-07-21",
+          "authors": [
+            "Vida Adeli",
+            "Ehsan Adeli",
+            "Ian D. Reid",
+            "Juan Carlos Niebles",
+            "Hamid Rezatofighi"
+          ],
+          "venue": "IEEE Robotics and Automation Letters"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:35N4QoGY0k4C",
+        "title": "LAVAPilot: Lightweight UAV Trajectory Planner with Situational Awareness for Embedded Autonomy to Track and Locate Radio-tags",
+        "year": "2020",
+        "authors": "H Van Nguyen, F Chen, J Chesser, H Rezatofighi, D Ranasinghe",
+        "venue": "International Conference on Intelligent Robots and Systems (IROS20), 2020",
+        "citations": 38,
+        "openalex": {
+          "id": "https://openalex.org/W3046509787",
+          "doi": "https://doi.org/10.1109/iros45743.2020.9341615",
+          "publication_date": "2020-10-24",
+          "authors": [
+            "Hoa Van Nguyen",
+            "Fei Chen",
+            "Joshua Chesser",
+            "Hamid Rezatofighi",
+            "Damith Ranasinghe"
+          ],
+          "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:RGFaLdJalmkC",
+        "title": "JRMOT: A Real-Time 3D Multi-Object Tracker and a New Large-Scale Dataset",
+        "year": "2020",
+        "authors": "A Shenoi, M Patel, JY Gwak, P Goebel, A Sadeghian, H Rezatofighi, ...",
+        "venue": "International Conference on Intelligent Robots and Systems (IROS20), 2020",
+        "citations": 139,
+        "openalex": {
+          "id": "https://openalex.org/W3007919940",
+          "doi": "https://doi.org/10.1109/iros45743.2020.9341635",
+          "publication_date": "2020-10-24",
+          "authors": [
+            "Abhijeet Shenoi",
+            "Mihir Patel",
+            "JunYoung Gwak",
+            "Patrick Goebel",
+            "Amir Sadeghian",
+            "Hamid Rezatofighi",
+            "Roberto Martín-Martín",
+            "Silvio Savarese"
+          ],
+          "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:JV2RwH3_ST0C",
+        "title": "Meta Learning with Differentiable Closed-form Solver for Fast Video Object Segmentation",
+        "year": "2020",
+        "authors": "Y Liu, L Liu, H Zhang, H Rezatofighi, I Reid",
+        "venue": "International Conference on Intelligent Robots and Systems (IROS20), 2020",
+        "citations": 17,
+        "openalex": {
+          "id": "https://openalex.org/W3129365350",
+          "doi": "https://doi.org/10.1109/iros45743.2020.9341282",
+          "publication_date": "2020-10-24",
+          "authors": [
+            "Yu Liu",
+            "Lingqiao Liu",
+            "Haokui Zhang",
+            "Hamid Rezatofighi",
+            "Qingsen Yan",
+            "Ian D. Reid"
+          ],
+          "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:BqipwSGYUEgC",
+        "title": "Multi-Objective Multi-Agent Planning for Jointly Discovering and Tracking Mobile Object",
+        "year": "2020",
+        "authors": "H Van Nguyen, H Rezatofighi, BN Vo, DC Ranasinghe",
+        "venue": "Thirty-Forth AAAI Conference on Artificial Intelligence (AAAI20), 2020",
+        "citations": 54,
+        "openalex": null
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:J_g5lzvAfSwC",
+        "title": "Mot20: A benchmark for multi object tracking in crowded scenes",
+        "year": "2020",
+        "authors": "P Dendorfer, H Rezatofighi, A Milan, J Shi, D Cremers, I Reid, S Roth, ...",
+        "venue": "arXiv preprint arXiv:2003.09003, 2020",
+        "citations": 1398,
+        "openalex": {
+          "id": "https://openalex.org/W3012922853",
+          "doi": "https://doi.org/10.48550/arxiv.2003.09003",
+          "publication_date": "2020-03-19",
+          "authors": [
+            "Patrick Dendorfer",
+            "Hamid Rezatofighi",
+            "Anton Milan",
+            "Qinfeng Shi",
+            "Daniel Cremers",
+            "Ian D. Reid",
+            "Stefan Roth",
+            "Konrad Schindler",
+            "Laura Leal-Taixé"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:hMod-77fHWUC",
+        "title": "Approximating the Permanent by Sampling from Adaptive Partitions",
+        "year": "2019",
+        "authors": "J Kuck, T Dao, H Rezatofighi, A Sabharwal, S Ermon",
+        "venue": "Advances in Neural Information Processing Systems (NeurIPS19), 8858-8869, 2019",
+        "citations": 13,
+        "openalex": {
+          "id": "https://openalex.org/W2970600147",
+          "doi": "https://doi.org/10.48550/arxiv.1911.11856",
+          "publication_date": "2019-11-26",
+          "authors": [
+            "Jonathan Kuck",
+            "Tri Dao",
+            "Hamid Rezatofighi",
+            "Ashish Sabharwal",
+            "Stefano Ermon"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:M3NEmzRMIkIC",
+        "title": "Social-BiGAT: Multimodal Trajectory Forecasting using Bicycle-GAN and Graph Attention Networks",
+        "year": "2019",
+        "authors": "V Kosaraju, A Sadeghian, R Martín-Martín, I Reid, SH Rezatofighi, ...",
+        "venue": "Advances in Neural Information Processing Systems (NeurIPS19), 137--146, 2019",
+        "citations": 1035,
+        "openalex": {
+          "id": "https://openalex.org/W2954414836",
+          "doi": "https://doi.org/10.48550/arxiv.1907.03395",
+          "publication_date": "2019-07-04",
+          "authors": [
+            "Vineet Kosaraju",
+            "Amir Sadeghian",
+            "Roberto Martín-Martín",
+            "Ian D. Reid",
+            "S. Hamid Rezatofighi",
+            "Silvio Savarese"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:TQgYirikUcIC",
+        "title": "Online UAV Path Planning for Joint Detection and Tracking of Multiple Radio-tagged Objects",
+        "year": "2019",
+        "authors": "H Van Nguyen, SH Rezatofighi, BN Vo, DC Ranasinghe",
+        "venue": "IEEE Transactions on Signal Processing, 2019",
+        "citations": 116,
+        "openalex": {
+          "id": "https://openalex.org/W2971921568",
+          "doi": "https://doi.org/10.1109/tsp.2019.2939076",
+          "publication_date": "2019-09-06",
+          "authors": [
+            "Hoa Van Nguyen",
+            "Hamid Rezatofighi",
+            "Ba‐Ngu Vo",
+            "Damith Chinthana Ranasinghe"
+          ],
+          "venue": "IEEE Transactions on Signal Processing"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:bEWYMUwI8FkC",
+        "title": "SparseSense: Human Activity Recognition from Highly Sparse Sensor Data-streams Using Set-based Neural Networks",
+        "year": "2019",
+        "authors": "A Abedin, SH Rezatofighi, Q Shi, DC Ranasinghe",
+        "venue": "International Joint Conference on Artificial Intelligence (IJCAI19), 2019",
+        "citations": 32,
+        "openalex": {
+          "id": "https://openalex.org/W2948329686",
+          "doi": "https://doi.org/10.24963/ijcai.2019/801",
+          "publication_date": "2019-07-28",
+          "authors": [
+            "Alireza Abedin",
+            "S. Hamid Rezatofighi",
+            "Qinfeng Shi",
+            "Damith Chinthana Ranasinghe"
+          ],
+          "venue": "International Joint Conference on Artificial Intelligence"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:isC4tDSrTZIC",
+        "title": "Model-free tracker for multiple objects using joint appearance and motion inference.",
+        "year": "2019",
+        "authors": "C Liu, R Yao, SH Rezatofighi, I Reid, Q Shi",
+        "venue": "IEEE Transactions on Image Processing, 2019",
+        "citations": 17,
+        "openalex": {
+          "id": "https://openalex.org/W2963244034",
+          "doi": "https://doi.org/10.1109/tip.2019.2928123",
+          "publication_date": "2019-07-17",
+          "authors": [
+            "Chongyu Liu",
+            "Rui Yao",
+            "S. Hamid Rezatofighi",
+            "Ian D. Reid",
+            "Qinfeng Shi"
+          ],
+          "venue": "IEEE Transactions on Image Processing"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:TFP_iSt0sucC",
+        "title": "CVPR19 tracking and detection challenge: How crowded can it get?",
+        "year": "2019",
+        "authors": "P Dendorfer, H Rezatofighi, A Milan, J Shi, D Cremers, I Reid, S Roth, ...",
+        "venue": "arXiv preprint arXiv:1906.04567, 2019",
+        "citations": 127,
+        "openalex": {
+          "id": "https://openalex.org/W2951353299",
+          "doi": "https://doi.org/10.48550/arxiv.1906.04567",
+          "publication_date": "2019-06-10",
+          "authors": [
+            "Patrick Dendorfer",
+            "Hamid Rezatofighi",
+            "Anton Milan",
+            "Qinfeng Shi",
+            "Daniel Cremers",
+            "Ian D. Reid",
+            "Stefan Roth",
+            "Konrad Schindler",
+            "Laura Leal-Taixé"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:_Qo2XoVZTnwC",
+        "title": "TrackerBots: Autonomous unmanned aerial vehicle for real‐time localization and tracking of multiple radio‐tagged animals",
+        "year": "2019",
+        "authors": "HV Nguyen, M Chesser, LP Koh, SH Rezatofighi, DC Ranasinghe",
+        "venue": "Journal of Field Robotics 36 (3), 617-635, 2019",
+        "citations": 95,
+        "openalex": {
+          "id": "https://openalex.org/W2906838128",
+          "doi": "https://doi.org/10.1002/rob.21857",
+          "publication_date": "2019-01-04",
+          "authors": [
+            "Hoa Van Nguyen",
+            "Michael Chesser",
+            "Lian Pin Koh",
+            "S. Hamid Rezatofighi",
+            "Damith Chinthana Ranasinghe"
+          ],
+          "venue": "Journal of Field Robotics"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:4JMBOYKVnBMC",
+        "title": "Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression",
+        "year": "2019",
+        "authors": "H Rezatofighi, N Tsoi, JY Gwak, A Sadeghian, I Reid, S Savarese",
+        "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR19), 2019",
+        "citations": 9795,
+        "openalex": {
+          "id": "https://openalex.org/W2950628590",
+          "doi": "https://doi.org/10.1109/cvpr.2019.00075",
+          "publication_date": "2019-06-01",
+          "authors": [
+            "Hamid Rezatofighi",
+            "Nathan Tsoi",
+            "JunYoung Gwak",
+            "Amir Sadeghian",
+            "Ian D. Reid",
+            "Silvio Savarese"
+          ],
+          "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:r0BpntZqJG4C",
+        "title": "Learning pairwise relationship for multi-object detection in crowded scenes",
+        "year": "2019",
+        "authors": "Y Liu, L Liu, H Rezatofighi, TT Do, Q Shi, I Reid",
+        "venue": "arXiv preprint arXiv:1901.03796, 2019",
+        "citations": 19,
+        "openalex": {
+          "id": "https://openalex.org/W2910565448",
+          "doi": "https://doi.org/10.48550/arxiv.1901.03796",
+          "publication_date": "2019-01-12",
+          "authors": [
+            "Yu Liu",
+            "Lingqiao Liu",
+            "Hamid Rezatofighi",
+            "Thanh-Toan Do",
+            "Qinfeng Shi",
+            "Ian D. Reid"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:jgBuDB5drN8C",
+        "title": "Generalized intersection over union: a metric and a loss for bounding box regression. IEEE/CVF conference on computer vision and pattern recognition (CVPR) Published online 2019",
+        "year": "2019",
+        "authors": "H Rezatofighi, N Tsoi, J Gwak, A Sadeghian, I Reid, S Savarese",
+        "venue": "",
+        "citations": 91,
+        "openalex": null
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:iH-uZ7U-co4C",
+        "title": "TopNet: Structural Point Cloud Decoder",
+        "year": "2019",
+        "authors": "LP Tchapmi, V Kosaraju, H Rezatofighi, I Reid, S Savarese",
+        "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR19), 383-392, 2019",
+        "citations": 772,
+        "openalex": {
+          "id": "https://openalex.org/W2953668091",
+          "doi": "https://doi.org/10.1109/cvpr.2019.00047",
+          "publication_date": "2019-06-01",
+          "authors": [
+            "Lyne P. Tchapmi",
+            "Vineet Kosaraju",
+            "Hamid Rezatofighi",
+            "Ian D. Reid",
+            "Silvio Savarese"
+          ],
+          "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:R3hNpaxXUhUC",
+        "title": "SoPhie: An Attentive GAN for Predicting Paths Compliant to Social and Physical Constraints",
+        "year": "2019",
+        "authors": "A Sadeghian, V Kosaraju, A Sadeghian, N Hirose, H Rezatofighi, ...",
+        "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR19), 2019",
+        "citations": 1557,
+        "openalex": {
+          "id": "https://openalex.org/W2805102305",
+          "doi": "https://doi.org/10.1109/cvpr.2019.00144",
+          "publication_date": "2019-06-01",
+          "authors": [
+            "Amir Sadeghian",
+            "Vineet Kosaraju",
+            "Ali Sadeghian",
+            "Noriaki Hirose",
+            "Hamid Rezatofighi",
+            "Silvio Savarese"
+          ],
+          "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:j3f4tGmQtD8C",
+        "title": "Deep Auto-Set: A Deep Auto-Encoder-Set Network for Activity Recognition Using Wearables",
+        "year": "2018",
+        "authors": "AA Varamin, E Abbasnejad, Q Shi, DC Ranasinghe, H Rezatofighi",
+        "venue": "EAI International Conference on Mobile and Ubiquitous Systems: Computing …, 2018",
+        "citations": 60,
+        "openalex": {
+          "id": "https://openalex.org/W2952668699",
+          "doi": "https://doi.org/10.48550/arxiv.1811.08127",
+          "publication_date": "2018-11-20",
+          "authors": [
+            "Varamin, Alireza Abedin",
+            "Ehsan Abbasnejad",
+            "Qinfeng Shi",
+            "Damith Chinthana Ranasinghe",
+            "Hamid Rezatofighi"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:e5wmG9Sq2KIC",
+        "title": "Autonomous UAV sensor system for searching and locating VHF radio-tagged wildlife",
+        "year": "2018",
+        "authors": "H Van Nguyen, M Chesser, F Chen, SH Rezatofighi, DC Ranasinghe",
+        "venue": "ACM Conference on Embedded Networked Sensor Systems, 333-334, 2018",
+        "citations": 9,
+        "openalex": {
+          "id": "https://openalex.org/W2898168988",
+          "doi": "https://doi.org/10.1145/3274783.3275169",
+          "publication_date": "2018-10-26",
+          "authors": [
+            "Hoa Van Nguyen",
+            "Michael Chesser",
+            "Fei Chen",
+            "S. Hamid Rezatofighi",
+            "Damith Chinthana Ranasinghe"
+          ],
+          "venue": "ACM Conference on Embedded Networked Sensor Systems (SenSys)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:HDshCWvjkbEC",
+        "title": "Deep perm-set net: Learn to predict sets with unknown permutation and cardinality using deep neural networks",
+        "year": "2018",
+        "authors": "SH Rezatofighi, R Kaskman, FT Motlagh, Q Shi, D Cremers, L Leal-Taixé, ...",
+        "venue": "arXiv preprint arXiv:1805.00613, 2018",
+        "citations": 37,
+        "openalex": {
+          "id": "https://openalex.org/W2798979442",
+          "doi": "https://doi.org/10.48550/arxiv.1805.00613",
+          "publication_date": "2018-05-02",
+          "authors": [
+            "S. Hamid Rezatofighi",
+            "Roman Kaskman",
+            "Farbod Motlagh",
+            "Qinfeng Shi",
+            "Daniel Cremers",
+            "Laura Leal-Taixé",
+            "Ian D. Reid"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:mNrWkgRL2YcC",
+        "title": "Trackerbots: Software in the loop study of quad-copter robots for locating radio-tags in a 3D space",
+        "year": "2018",
+        "authors": "HV Nguyen, H Rezatofighi, D Taggart, B Ostendorf, D Ranasinghe",
+        "venue": "Proc. of the ACRA, 2018",
+        "citations": 0,
+        "openalex": {
+          "id": "https://openalex.org/W2903178112",
+          "doi": null,
+          "publication_date": "2018-01-01",
+          "authors": [
+            "Hoa Van Nguyen",
+            "S. Hamid Rezatofighi",
+            "David Taggart",
+            "Bertram Ostendorf",
+            "Damith Chinthana Ranasinghe"
+          ],
+          "venue": null
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:VOx2b1Wkg3QC",
+        "title": "Trackerbots: Software in the loop study of quad-copter robots for locating radio-tags in a 3D space",
+        "year": "2018",
+        "authors": "H Van Nguyen, SH Rezatofighi, D Taggart, B Ostendorf, DC Ranasinghe",
+        "venue": "Australasian Conference on Robotics and Automation 2018, 304-313, 2018",
+        "citations": 5,
+        "openalex": {
+          "id": "https://openalex.org/W2903178112",
+          "doi": null,
+          "publication_date": "2018-01-01",
+          "authors": [
+            "Hoa Van Nguyen",
+            "S. Hamid Rezatofighi",
+            "David Taggart",
+            "Bertram Ostendorf",
+            "Damith Chinthana Ranasinghe"
+          ],
+          "venue": null
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:qUcmZB5y_30C",
+        "title": "Joint Learning of Set Cardinality and State Distribution",
+        "year": "2018",
+        "authors": "SH Rezatofighi, A Milan, Q Shi, A Dick, I Reid",
+        "venue": "Thirty-Second AAAI Conference on Artificial Intelligence (AAAI18), 2018",
+        "citations": 27,
+        "openalex": {
+          "id": "https://openalex.org/W2755393088",
+          "doi": "https://doi.org/10.1609/aaai.v32i1.11639",
+          "publication_date": "2018-04-29",
+          "authors": [
+            "S. Hamid Rezatofighi",
+            "Anton Milan",
+            "Qinfeng Shi",
+            "Anthony Dick",
+            "Ian D. Reid"
+          ],
+          "venue": "Proceedings of the AAAI Conference on Artificial Intelligence"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:dhFuZR0502QC",
+        "title": "Data-driven approximations to NP-hard problems",
+        "year": "2017",
+        "authors": "A Milan, SH Rezatofighi, R Garg, A Dick, I Reid",
+        "venue": "Thirty-First AAAI Conference on Artificial Intelligence (AAAI17), 2017",
+        "citations": 81,
+        "openalex": {
+          "id": "https://openalex.org/W2604308046",
+          "doi": "https://doi.org/10.1609/aaai.v31i1.10750",
+          "publication_date": "2017-02-12",
+          "authors": [
+            "Anton Milan",
+            "S. Hamid Rezatofighi",
+            "Ravi Garg",
+            "Anthony Dick",
+            "Ian D. Reid"
+          ],
+          "venue": "Proceedings of the AAAI Conference on Artificial Intelligence"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:mB3voiENLucC",
+        "title": "Multi-object model-free tracking with joint appearance and motion inference",
+        "year": "2017",
+        "authors": "C Liu, R Yao, SH Rezatofighi, I Reid, Q Shi",
+        "venue": "International Conference on Digital Image Computing: Techniques and …, 2017",
+        "citations": 3,
+        "openalex": {
+          "id": "https://openalex.org/W2777278462",
+          "doi": "https://doi.org/10.1109/dicta.2017.8227468",
+          "publication_date": "2017-11-01",
+          "authors": [
+            "Chongyu Liu",
+            "Rui Yao",
+            "S. Hamid Rezatofighi",
+            "Ian D. Reid",
+            "Qinfeng Shi"
+          ],
+          "venue": "International Conference on Digital Image Computing: Techniques and Applications (DICTA)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:hC7cP41nSMkC",
+        "title": "DeepSetNet: Predicting Sets With Deep Neural Networks",
+        "year": "2017",
+        "authors": "S Hamid Rezatofighi, BG Kumar, A Milan, E Abbasnejad, A Dick, I Reid",
+        "venue": "IEEE International Conference on Computer Vision (ICCV17), 5247-5256, 2017",
+        "citations": 72,
+        "openalex": {
+          "id": "https://openalex.org/W2557260587",
+          "doi": "https://doi.org/10.1109/iccv.2017.561",
+          "publication_date": "2017-10-01",
+          "authors": [
+            "S. Hamid Rezatofighi",
+            "Vijay Kumar B G",
+            "Anton Milan",
+            "Ehsan Abbasnejad",
+            "Anthony Dick",
+            "Ian D. Reid"
+          ],
+          "venue": "IEEE International Conference on Computer Vision (ICCV)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:aqlVkmm33-oC",
+        "title": "Online multi-target tracking using recurrent neural networks",
+        "year": "2017",
+        "authors": "A Milan, SH Rezatofighi, A Dick, I Reid, K Schindler",
+        "venue": "Thirty-First AAAI Conference on Artificial Intelligence (AAAI17), 2017",
+        "citations": 753,
+        "openalex": {
+          "id": "https://openalex.org/W2339473870",
+          "doi": "https://doi.org/10.1609/aaai.v31i1.11194",
+          "publication_date": "2017-02-12",
+          "authors": [
+            "Anton Milan",
+            "S. Hamid Rezatofighi",
+            "Anthony Dick",
+            "Ian D. Reid",
+            "Konrad Schindler"
+          ],
+          "venue": "Proceedings of the AAAI Conference on Artificial Intelligence"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:qxL8FJ1GzNcC",
+        "title": "Joint probabilistic matching using m-best solutions",
+        "year": "2016",
+        "authors": "S Hamid Rezatofighi, A Milan, Z Zhang, Q Shi, A Dick, I Reid",
+        "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR16), 136-145, 2016",
+        "citations": 39,
+        "openalex": {
+          "id": "https://openalex.org/W2471056492",
+          "doi": "https://doi.org/10.1109/cvpr.2016.22",
+          "publication_date": "2016-06-01",
+          "authors": [
+            "S. Hamid Rezatofighi",
+            "Anton Milani",
+            "Zhen Zhang",
+            "Qinfeng Shi",
+            "Anthony Dick",
+            "Ian D. Reid"
+          ],
+          "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:M3ejUd6NZC8C",
+        "title": "Efficient point process inference for large-scale object detection",
+        "year": "2016",
+        "authors": "TT Pham, S Hamid Rezatofighi, I Reid, TJ Chin",
+        "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR16), 2837-2845, 2016",
+        "citations": 39,
+        "openalex": {
+          "id": "https://openalex.org/W2468758459",
+          "doi": "https://doi.org/10.1109/cvpr.2016.310",
+          "publication_date": "2016-06-01",
+          "authors": [
+            "Trung Thanh Pham",
+            "S. Hamid Rezatofighi",
+            "Ian D. Reid",
+            "Tat-Jun Chin"
+          ],
+          "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:0EnyYjriUFMC",
+        "title": "Multi-Target Tracking with Time-Varying Clutter Rate and Detection Profile: Application to Time-lapse Cell Microscopy Sequences",
+        "year": "2015",
+        "authors": "SH Rezatofighi, S Gould, BN Vo, K Mele, R Hartley",
+        "venue": "IEEE Transactions on Medical Imaging 34 (6), 1336-1348, 2015",
+        "citations": 94,
+        "openalex": {
+          "id": "https://openalex.org/W1979348982",
+          "doi": "https://doi.org/10.1109/tmi.2015.2390647",
+          "publication_date": "2015-01-12",
+          "authors": [
+            "S. Hamid Rezatofighi",
+            "Stephen Jay Gould",
+            "Ba-Tuong Vo",
+            "Ba‐Ngu Vo",
+            "Katarina Mele",
+            "Richard I. Hartley"
+          ],
+          "venue": "IEEE Transactions on Medical Imaging"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:NMxIlDl6LWMC",
+        "title": "Joint probabilistic data association revisited",
+        "year": "2015",
+        "authors": "S Hamid Rezatofighi, A Milan, Z Zhang, Q Shi, A Dick, I Reid",
+        "venue": "IEEE international conference on computer vision (ICCV15), 3047-3055, 2015",
+        "citations": 491,
+        "openalex": {
+          "id": "https://openalex.org/W2209193152",
+          "doi": "https://doi.org/10.1109/iccv.2015.349",
+          "publication_date": "2015-12-01",
+          "authors": [
+            "S. Hamid Rezatofighi",
+            "Anton Milan",
+            "Zhen Zhang",
+            "Qinfeng Shi",
+            "Anthony Dick",
+            "Ian D. Reid"
+          ],
+          "venue": "IEEE International Conference on Computer Vision (ICCV)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:5nxA0vEk-isC",
+        "title": "Bayesian multi-target tracking: application to total internal reflection fluorescence microscopy",
+        "year": "2015",
+        "authors": "SH Rezatofighi",
+        "venue": "",
+        "citations": 0,
+        "openalex": {
+          "id": "https://openalex.org/W1449094325",
+          "doi": "https://doi.org/10.25911/5d7238ba88059",
+          "publication_date": "2015-01-01",
+          "authors": [
+            "S. Hamid Rezatofighi"
+          ],
+          "venue": "ANU Open Research (Australian National University)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:ldfaerwXgEUC",
+        "title": "A framework for generating realistic synthetic sequences of dynamic confocal microscopy images",
+        "year": "2013",
+        "authors": "E Pitkeathly, SH Rezatofighi, J Rappoport, E Claridge",
+        "venue": "Proceedings of Medical Image Understanding and Analysis 2013, 107-112, 2013",
+        "citations": 1,
+        "openalex": null
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:roLk4NBRz8UC",
+        "title": "A Multiple Model Probability Hypothesis Density Tracker for Time-Lapse Cell Microscopy Sequences",
+        "year": "2013",
+        "authors": "SH Rezatofighi, S Gould, BN Vo, K Mele, WE Hughes, R Hartley",
+        "venue": "Information Processing in Medical Imaging (IPMI13), 2013",
+        "citations": 24,
+        "openalex": {
+          "id": "https://openalex.org/W81229128",
+          "doi": "https://doi.org/10.1007/978-3-642-38868-2_10",
+          "publication_date": "2013-01-01",
+          "authors": [
+            "S. Hamid Rezatofighi",
+            "Stephen Jay Gould",
+            "Ba‐Ngu Vo",
+            "Katarina Mele",
+            "William E. Hughes",
+            "Richard I. Hartley"
+          ],
+          "venue": "Lecture notes in computer science"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:_FxGoFyzp5QC",
+        "title": "A Framework for Generating Realistic Synthetic Sequences of Total Internal Reflection Fluorescence Microscopy Images",
+        "year": "2013",
+        "authors": "SH Rezatofighi, WTE Pitkeathly, S Gould, R Hartley, K Mele, WE Hughes, ...",
+        "venue": "International Symposium on Biomedical Imaging (ISBI13), 2013",
+        "citations": 23,
+        "openalex": {
+          "id": "https://openalex.org/W1969032534",
+          "doi": "https://doi.org/10.1109/isbi.2013.6556436",
+          "publication_date": "2013-04-01",
+          "authors": [
+            "S. Hamid Rezatofighi",
+            "William T. E. Pitkeathly",
+            "Stephen Jay Gould",
+            "Richard I. Hartley",
+            "Katarina Mele",
+            "William E. Hughes",
+            "James G. Burchfield"
+          ],
+          "venue": "IEEE International Symposium on Biomedical Imaging (ISBI)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:YFjsv_pBGBYC",
+        "title": "Application of the IMM-JPDA filter to multiple target tracking in total internal reflection fluorescence microscopy images",
+        "year": "2012",
+        "authors": "SH Rezatofighi, S Gould, R Hartley, K Mele, WE Hughes",
+        "venue": "International Conference on Medical Image Computing and Computer-Assisted …, 2012",
+        "citations": 20,
+        "openalex": {
+          "id": "https://openalex.org/W2131586328",
+          "doi": "https://doi.org/10.1007/978-3-642-33415-3_44",
+          "publication_date": "2012-01-01",
+          "authors": [
+            "S. Hamid Rezatofighi",
+            "Stephen Jay Gould",
+            "Richard I. Hartley",
+            "Katarina Mele",
+            "William E. Hughes"
+          ],
+          "venue": "Lecture notes in computer science"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:ufrVoPGSRksC",
+        "title": "A new approach for spot detection in total internal reflection fluorescence microscopy",
+        "year": "2012",
+        "authors": "SH Rezatofighi, R Hartley, WE Hughes",
+        "venue": "IEEE International Symposium on Biomedical Imaging (ISBI12), 860-863, 2012",
+        "citations": 38,
+        "openalex": {
+          "id": "https://openalex.org/W1980219685",
+          "doi": "https://doi.org/10.1109/isbi.2012.6235684",
+          "publication_date": "2012-05-01",
+          "authors": [
+            "S. Hamid Rezatofighi",
+            "Richard I. Hartley",
+            "William E. Hughes"
+          ],
+          "venue": "IEEE International Symposium on Biomedical Imaging (ISBI)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:u5HHmVD_uO8C",
+        "title": "Retinal vessel segmentation using a multi-scale medialness function",
+        "year": "2012",
+        "authors": "E Moghimirad, SH Rezatofighi, H Soltanian-Zadeh",
+        "venue": "Computers in biology and medicine 42 (1), 50-60, 2012",
+        "citations": 68,
+        "openalex": {
+          "id": "https://openalex.org/W2116255423",
+          "doi": "https://doi.org/10.1016/j.compbiomed.2011.10.008",
+          "publication_date": "2011-11-18",
+          "authors": [
+            "Elahe Moghimirad",
+            "S. Hamid Rezatofighi",
+            "Hamid Soltanian-zadeh A"
+          ],
+          "venue": "Computers in Biology and Medicine"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:zYLM7Y9cAGgC",
+        "title": "Boundary delineation for hepatic hemangioma in ultrasound images",
+        "year": "2011",
+        "authors": "N Bahrami, SH Rezatofighi, AM Adeli, SK Setarehdan",
+        "venue": "2011 Annual International Conference of the IEEE Engineering in Medicine and …, 2011",
+        "citations": 6,
+        "openalex": {
+          "id": "https://openalex.org/W2112963334",
+          "doi": "https://doi.org/10.1109/iembs.2011.6091970",
+          "publication_date": "2011-08-01",
+          "authors": [
+            "N. Bahrami",
+            "S. Hamid Rezatofighi",
+            "A. M. Adeli",
+            "Seyed Kamaledin Setarehdan"
+          ],
+          "venue": null
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:IjCSPb-OGe4C",
+        "title": "Automatic recognition of five types of white blood cells in peripheral blood",
+        "year": "2011",
+        "authors": "SH Rezatofighi, H Soltanian-Zadeh",
+        "venue": "Computerized Medical Imaging and Graphics 35 (4), 333-343, 2011",
+        "citations": 547,
+        "openalex": {
+          "id": "https://openalex.org/W1980276039",
+          "doi": "https://doi.org/10.1016/j.compmedimag.2011.01.003",
+          "publication_date": "2011-02-07",
+          "authors": [
+            "S. Hamid Rezatofighi",
+            "Hamid Soltanian-zadeh A"
+          ],
+          "venue": "Computerized Medical Imaging and Graphics"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:Y0pCki6q_DkC",
+        "title": "Using PCA and LVQ neural network for automatic recognition of five types of white blood cells",
+        "year": "2010",
+        "authors": "PR Tabrizi, SH Rezatofighi, MJ Yazdanpanah",
+        "venue": "2010 Annual International Conference of the IEEE Engineering in Medicine and …, 2010",
+        "citations": 59,
+        "openalex": {
+          "id": "https://openalex.org/W2043424639",
+          "doi": "https://doi.org/10.1109/iembs.2010.5626788",
+          "publication_date": "2010-08-01",
+          "authors": [
+            "Pooneh Roshani Tabrizi",
+            "S. Hamid Rezatofighi",
+            "Mohammad Javad Yazdanpanah"
+          ],
+          "venue": "Proceedings of the Annual International Conference of the IEEE Engineering in Medicine and Biology Society"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:7PzlFSSx8tAC",
+        "title": "Automatic recognition of five types of white blood cells in peripheral blood",
+        "year": "2010",
+        "authors": "SH Rezatofighi, K Khaksari, H Soltanian-Zadeh",
+        "venue": "International conference image analysis and recognition, 161-172, 2010",
+        "citations": 0,
+        "openalex": {
+          "id": "https://openalex.org/W1980276039",
+          "doi": "https://doi.org/10.1016/j.compmedimag.2011.01.003",
+          "publication_date": "2011-02-07",
+          "authors": [
+            "S. Hamid Rezatofighi",
+            "Hamid Soltanian-zadeh A"
+          ],
+          "venue": "Computerized Medical Imaging and Graphics"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:UeHWp8X0CEIC",
+        "title": "Multi-scale approach for retinal vessel segmentation using medialness function",
+        "year": "2010",
+        "authors": "E Moghimirad, SH Rezatofighi, H Soltanian-Zadeh",
+        "venue": "2010 IEEE International Symposium on Biomedical Imaging: From Nano to Macro …, 2010",
+        "citations": 22,
+        "openalex": {
+          "id": "https://openalex.org/W2112112817",
+          "doi": "https://doi.org/10.1109/isbi.2010.5490423",
+          "publication_date": "2010-01-01",
+          "authors": [
+            "Elahe Moghimirad",
+            "S. Hamid Rezatofighi",
+            "Hamid Soltanian-zadeh A"
+          ],
+          "venue": "IEEE International Symposium on Biomedical Imaging: From Nano to Macro (ISBI)"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:qjMakFHDy7sC",
+        "title": "Polar run-length features in segmentation of retinal blood vessels",
+        "year": "2009",
+        "authors": "SH Rezatofighi, A Roodaki, A Pourmorteza, H Soltanian-Zadeh",
+        "venue": "2009 International Conference on Digital Image Processing, 72-75, 2009",
+        "citations": 8,
+        "openalex": {
+          "id": "https://openalex.org/W2161527199",
+          "doi": "https://doi.org/10.1109/icdip.2009.18",
+          "publication_date": "2009-03-01",
+          "authors": [
+            "S. Hamid Rezatofighi",
+            "Alireza Roodaki",
+            "Amir Pourmorteza",
+            "Hamid Soltanian-zadeh A"
+          ],
+          "venue": "International Conference on Digital Image Processing"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:d1gkVwhDpl0C",
+        "title": "A new approach to white blood cell nucleus segmentation based on gram-schmidt orthogonalization",
+        "year": "2009",
+        "authors": "SH Rezatofighi, H Soltanian-Zadeh, R Sharifian, RA Zoroofi",
+        "venue": "2009 International Conference on Digital Image Processing, 107-111, 2009",
+        "citations": 63,
+        "openalex": {
+          "id": "https://openalex.org/W2138960968",
+          "doi": "https://doi.org/10.1109/icdip.2009.19",
+          "publication_date": "2009-03-01",
+          "authors": [
+            "S. Hamid Rezatofighi",
+            "Hamid Soltanian-zadeh A",
+            "Roxana Sharifian",
+            "Reza A. Zoroofi"
+          ],
+          "venue": "International Conference on Digital Image Processing"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:YsMSGLbcyi4C",
+        "title": "Developing new tool for automatic analysis of IVUS images: From border detection to plaque characterization",
+        "year": "2009",
+        "authors": "A Taki, S Avansari, A Roodaki, SH Rezatofighi, SK Setarehdan, N Navab",
+        "venue": "Int J CARS 4 (1), S17-S21, 2009",
+        "citations": 0,
+        "openalex": null
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:W7OEmFMy1HYC",
+        "title": "Segmentation of nucleus and cytoplasm of white blood cells using Gram-Schmidt orthogonalization and deformable models",
+        "year": "2008",
+        "authors": "SH Rezatofighi, RA Zoroofi, R Sharifian, H Soltanian-Zadeh",
+        "venue": "2008 9th International Conference on Signal Processing, 801-805, 2008",
+        "citations": 9,
+        "openalex": {
+          "id": "https://openalex.org/W2107806474",
+          "doi": "https://doi.org/10.1109/icosp.2008.4697250",
+          "publication_date": "2008-10-01",
+          "authors": [
+            "S. Hamid Rezatofighi",
+            "Reza A. Zoroofi",
+            "Roxana Sharifian",
+            "Hamid Soltanian-zadeh A"
+          ],
+          "venue": null
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:Tyk-4Ss8FVUC",
+        "title": "Automatic detection of red blood cells in hematological images using polar transformation and run-length matrix",
+        "year": "2008",
+        "authors": "SH Rezatofighi, A Roodaki, RA Zoroofi, R Sharifian, H Soltanian-Zadeh",
+        "venue": "2008 9th International conference on signal processing, 806-809, 2008",
+        "citations": 7,
+        "openalex": {
+          "id": "https://openalex.org/W2142932686",
+          "doi": "https://doi.org/10.1109/icosp.2008.4697251",
+          "publication_date": "2008-10-01",
+          "authors": [
+            "S. Hamid Rezatofighi",
+            "Alireza Roodaki",
+            "Reza A. Zoroofi",
+            "Roxana Sharifian",
+            "Hamid Soltanian-zadeh A"
+          ],
+          "venue": null
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:u-x6o8ySG0sC",
+        "title": "Fisher linear discriminant based person identification using visual evoked potentials",
+        "year": "2008",
+        "authors": "A Yazdani, A Roodaki, SH Rezatofighi, K Misaghian, SK Setarehdan",
+        "venue": "2008 9th International Conference on Signal Processing, 1677-1680, 2008",
+        "citations": 55,
+        "openalex": {
+          "id": "https://openalex.org/W2120635976",
+          "doi": "https://doi.org/10.1109/icosp.2008.4697459",
+          "publication_date": "2008-10-01",
+          "authors": [
+            "A. Yazdani",
+            "Alireza Roodaki",
+            "S. Hamid Rezatofighi",
+            "Khashayar Misaghian",
+            "Seyed Kamaledin Setarehdan"
+          ],
+          "venue": null
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:9yKSN-GCB0IC",
+        "title": "An enhanced segmentation of blood vessels in retinal images using contourlet",
+        "year": "2008",
+        "authors": "SH Rezatofighi, A Roodaki, HA Noubari",
+        "venue": "2008 30th Annual International Conference of the IEEE Engineering in …, 2008",
+        "citations": 31,
+        "openalex": {
+          "id": "https://openalex.org/W2105393075",
+          "doi": "https://doi.org/10.1109/iembs.2008.4649967",
+          "publication_date": "2008-08-01",
+          "authors": [
+            "S. Hamid Rezatofighi",
+            "Alireza Roodaki",
+            "Hossein Ahmadi Noubari"
+          ],
+          "venue": null
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:eQOLeE2rZwMC",
+        "title": "Context-dependent segmentation of retinal blood vessels using Hidden Markov Models",
+        "year": "2008",
+        "authors": "A Pourmorteza, SHR Tofighi, A Roodaki, A Yazdani, H Soltanian-Zadeh",
+        "venue": "Computer Society of Iran Computer Conference, 348-355, 2008",
+        "citations": 4,
+        "openalex": {
+          "id": "https://openalex.org/W1667836359",
+          "doi": "https://doi.org/10.1007/978-3-540-89985-3_43",
+          "publication_date": "2008-01-01",
+          "authors": [
+            "Amir Pourmorteza",
+            "S. Hamid Rezatofighi",
+            "Alireza Roodaki",
+            "Ashkan Yazdani",
+            "Hamid Soltanian-zadeh A"
+          ],
+          "venue": "Communications in computer and information science"
+        }
+      },
+      {
+        "author_pub_id": "VxAuxMwAAAAJ:9pM33mqn1YgC",
+        "title": "Comparison of an AI Model Against Embryologists; a Prospective Clinical Survey Trial",
+        "year": "",
+        "authors": "M Salih, J Mullen, E Hung, S Reddy, B Vollenhoven, H Rezatofighi, ...",
+        "venue": "Available at SSRN 5319122, 0",
+        "citations": 0,
+        "openalex": {
+          "id": "https://openalex.org/W4411696793",
+          "doi": "https://doi.org/10.2139/ssrn.5319122",
+          "publication_date": "2025-01-01",
+          "authors": [
+            "Mohamed Salih",
+            "Jayne Mullen",
+            "Emmy Hung",
+            "Sandeep Reddy",
+            "Beverley J. Vollenhoven",
+            "Hamid Rezatofighi",
+            "Fabrizzio Horta"
+          ],
+          "venue": "SSRN Electronic Journal"
+        }
+      }
+    ],
+    "error": null
+  },
+  "web_of_science": {
+    "status": "skipped",
+    "peer_reviews": 0,
+    "error": null
+  }
+}

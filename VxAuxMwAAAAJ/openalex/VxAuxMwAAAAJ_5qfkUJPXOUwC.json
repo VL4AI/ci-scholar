@@ -1,0 +1,19 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:5qfkUJPXOUwC",
+  "scholar_title": "Acoustic-to-Hyper-Spectral: Hyper-Spectral Image Construction from Frequency Spectrums Through Simulated Annealing (Student Abstract)",
+  "fetched_at": "2026-10-19T12:11:34.114787+00:00",
+  "openalex_id": "https://openalex.org/W4409360763",
+  "doi": "https://doi.org/10.1609/aaai.v39i28.35290",
+  "title": "Acoustic-to-Hyper-Spectral: Hyper-Spectral Image Construction from Frequency Spectrums Through Simulated Annealing (Student Abstract)",
+  "publication_date": "2025-04-11",
+  "publication_year": 2025,
+  "authors": [
+    "Ruth-Emely Pierau",
+    "Alaster J. Meehan",
+    "Hamid Rezatofighi",
+    "Peter J. Stuckey"
+  ],
+  "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+  "type": "conference-paper"
+}

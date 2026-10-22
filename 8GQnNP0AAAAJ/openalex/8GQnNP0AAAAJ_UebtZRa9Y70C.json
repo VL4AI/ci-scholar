@@ -1,0 +1,25 @@
+{
+  "status": "matched",
+  "author_pub_id": "8GQnNP0AAAAJ:UebtZRa9Y70C",
+  "scholar_title": "Unleashing the potential of adaptation models via go-getting domain labels",
+  "fetched_at": "2026-10-19T12:11:34.114787+00:00",
+  "openalex_id": "https://openalex.org/W4320036913",
+  "doi": "https://doi.org/10.1007/978-3-031-25085-9_18",
+  "title": "Unleashing the Potential of Adaptation Models via Go-getting Domain Labels",
+  "publication_date": "2023-01-01",
+  "publication_year": 2023,
+  "authors": [
+    "Xin Yu Jin",
+    "Tianyu He",
+    "Xu Hui Shen",
+    "Songhua Wu",
+    "Tongliang Liu",
+    "Jingwen Ye",
+    "Xinchao Wang",
+    "Jianqiang Huang",
+    "Zhibo Chen",
+    "Xian‐Sheng Hua"
+  ],
+  "venue": "Lecture notes in computer science",
+  "type": "conference-paper"
+}

@@ -1,0 +1,18 @@
+{
+  "status": "matched",
+  "author_pub_id": "a7XqS_QAAAAJ:dhFuZR0502QC",
+  "scholar_title": "TF-DDRL: A transformer-enhanced distributed DRL technique for scheduling IoT applications in edge and cloud computing environments",
+  "fetched_at": "2026-10-19T09:35:07.607813+00:00",
+  "openalex_id": "https://openalex.org/W4406264644",
+  "doi": "https://doi.org/10.1109/tsc.2025.3528346",
+  "title": "TF-DDRL: A Transformer-Enhanced Distributed DRL Technique for Scheduling IoT Applications in Edge and Cloud Computing Environments",
+  "publication_date": "2025-01-10",
+  "publication_year": 2025,
+  "authors": [
+    "Zhiyu Wang",
+    "Mohammad Goudarzi",
+    "Rajkumar Buyya"
+  ],
+  "venue": "IEEE Transactions on Services Computing",
+  "type": "article"
+}

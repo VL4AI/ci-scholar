@@ -1,0 +1,23 @@
+{
+  "status": "matched",
+  "author_pub_id": "8GQnNP0AAAAJ:4TOpqqG69KYC",
+  "scholar_title": "Improving adversarial robustness via feature pattern consistency constraint",
+  "fetched_at": "2026-10-19T09:49:11.178418+00:00",
+  "openalex_id": "https://openalex.org/W4401024803",
+  "doi": "https://doi.org/10.24963/ijcai.2024/94",
+  "title": "Improving Adversarial Robustness via Feature Pattern Consistency Constraint",
+  "publication_date": "2024-07-26",
+  "publication_year": 2024,
+  "authors": [
+    "Jiacong Hu",
+    "Jingwen Ye",
+    "Zunlei Feng",
+    "Jiazhen Yang",
+    "Shunyu Liu",
+    "Xiaotian Yu",
+    "Lingxiang Jia",
+    "Mingli Song"
+  ],
+  "venue": null,
+  "type": "conference-paper"
+}

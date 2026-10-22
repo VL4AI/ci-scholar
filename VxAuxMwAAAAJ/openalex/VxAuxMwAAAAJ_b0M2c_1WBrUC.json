@@ -1,0 +1,20 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:b0M2c_1WBrUC",
+  "scholar_title": "GMFlow: Learning Optical Flow via Global Matching",
+  "fetched_at": "2026-10-19T12:24:47.792796+00:00",
+  "openalex_id": "https://openalex.org/W3215023725",
+  "doi": "https://doi.org/10.1109/cvpr52688.2022.00795",
+  "title": "GMFlow: Learning Optical Flow via Global Matching",
+  "publication_date": "2022-06-01",
+  "publication_year": 2022,
+  "authors": [
+    "Haofei Xu",
+    "Jing Zhang",
+    "Jianfei Cai",
+    "Hamid Rezatofighi",
+    "Dacheng Tao"
+  ],
+  "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings",
+  "type": "conference-paper"
+}

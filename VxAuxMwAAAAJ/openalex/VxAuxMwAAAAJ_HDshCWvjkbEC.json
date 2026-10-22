@@ -1,0 +1,22 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:HDshCWvjkbEC",
+  "scholar_title": "Deep perm-set net: Learn to predict sets with unknown permutation and cardinality using deep neural networks",
+  "fetched_at": "2026-10-19T12:38:11.145732+00:00",
+  "openalex_id": "https://openalex.org/W2798979442",
+  "doi": "https://doi.org/10.48550/arxiv.1805.00613",
+  "title": "Deep Perm-Set Net: Learn to predict sets with unknown permutation and cardinality using deep neural networks",
+  "publication_date": "2018-05-02",
+  "publication_year": 2018,
+  "authors": [
+    "S. Hamid Rezatofighi",
+    "Roman Kaskman",
+    "Farbod Motlagh",
+    "Qinfeng Shi",
+    "Daniel Cremers",
+    "Laura Leal-Taixé",
+    "Ian D. Reid"
+  ],
+  "venue": "arXiv (Cornell University)",
+  "type": "preprint"
+}

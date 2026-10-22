@@ -1,0 +1,23 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:wMgC3FpKEyYC",
+  "scholar_title": "Calibanyview: Beyond single-view camera calibration in the wild",
+  "fetched_at": "2026-10-19T09:49:11.178418+00:00",
+  "openalex_id": "https://openalex.org/W7161254960",
+  "doi": "https://doi.org/10.48550/arxiv.2605.14615",
+  "title": "CalibAnyView: Beyond Single-View Camera Calibration in the Wild",
+  "publication_date": "2026-05-14",
+  "publication_year": 2026,
+  "authors": [
+    "Boying Li",
+    "Cheng Zhang",
+    "Weirong Chen",
+    "Guyuan Chen",
+    "Daniel Cremers",
+    "Jianfei Cai",
+    "Ian David Reid",
+    "Hamid Rezatofighi"
+  ],
+  "venue": "arXiv (Cornell University)",
+  "type": "preprint"
+}

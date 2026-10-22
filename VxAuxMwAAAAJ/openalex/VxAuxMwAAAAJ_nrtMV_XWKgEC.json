@@ -1,0 +1,23 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:nrtMV_XWKgEC",
+  "scholar_title": "Energy-based Self-Training and Normalization for Unsupervised Domain Adaptation",
+  "fetched_at": "2026-10-19T12:24:47.792796+00:00",
+  "openalex_id": "https://openalex.org/W4390874711",
+  "doi": "https://doi.org/10.1109/iccv51070.2023.01070",
+  "title": "Energy-based Self-Training and Normalization for Unsupervised Domain Adaptation",
+  "publication_date": "2023-10-01",
+  "publication_year": 2023,
+  "authors": [
+    "Samitha Herath",
+    "Basura Fernando",
+    "Ehsan Abbasnejad",
+    "Munawar Hayat",
+    "Shahram Khadivi",
+    "Mehrtash Tafazzoli Harandi",
+    "Hamid Rezatofighi",
+    "Gholamreza Haffari"
+  ],
+  "venue": "IEEE/CVF International Conference on Computer Vision (ICCV)",
+  "type": "conference-paper"
+}

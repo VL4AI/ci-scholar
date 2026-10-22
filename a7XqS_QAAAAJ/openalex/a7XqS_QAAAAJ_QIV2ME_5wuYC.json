@@ -1,0 +1,22 @@
+{
+  "status": "matched",
+  "author_pub_id": "a7XqS_QAAAAJ:QIV2ME_5wuYC",
+  "scholar_title": "AuditNet: Conversational AI Security Assistant",
+  "fetched_at": "2026-10-19T09:49:11.178418+00:00",
+  "openalex_id": "https://openalex.org/W4404347281",
+  "doi": "https://doi.org/10.1145/3640471.3680444",
+  "title": "AuditNet: Conversational AI Security Assistant",
+  "publication_date": "2024-09-21",
+  "publication_year": 2024,
+  "authors": [
+    "Shohreh Deldari",
+    "Mohammad Goudarzi",
+    "Aditya Joshi",
+    "Arash Shaghaghi",
+    "Simon Finn",
+    "Flora Dilys Salim",
+    "Sanjay Kumar Jha"
+  ],
+  "venue": "International Conference on Mobile Human-Computer Interaction (MobileHCI)",
+  "type": "conference-paper"
+}

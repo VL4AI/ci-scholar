@@ -1,0 +1,21 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:R3hNpaxXUhUC",
+  "scholar_title": "SoPhie: An Attentive GAN for Predicting Paths Compliant to Social and Physical Constraints",
+  "fetched_at": "2026-10-19T12:38:11.145732+00:00",
+  "openalex_id": "https://openalex.org/W2805102305",
+  "doi": "https://doi.org/10.1109/cvpr.2019.00144",
+  "title": "SoPhie: An Attentive GAN for Predicting Paths Compliant to Social and Physical Constraints",
+  "publication_date": "2019-06-01",
+  "publication_year": 2019,
+  "authors": [
+    "Amir Sadeghian",
+    "Vineet Kosaraju",
+    "Ali Sadeghian",
+    "Noriaki Hirose",
+    "Hamid Rezatofighi",
+    "Silvio Savarese"
+  ],
+  "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings",
+  "type": "conference-paper"
+}

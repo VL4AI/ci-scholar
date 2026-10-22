@@ -1,0 +1,18 @@
+{
+  "status": "matched",
+  "author_pub_id": "a7XqS_QAAAAJ:5nxA0vEk-isC",
+  "scholar_title": "Scheduling IoT applications in edge and fog computing environments: A taxonomy and future directions",
+  "fetched_at": "2026-10-19T09:49:11.178418+00:00",
+  "openalex_id": "https://openalex.org/W4283328778",
+  "doi": "https://doi.org/10.1145/3544836",
+  "title": "Scheduling IoT Applications in Edge and Fog Computing Environments: A Taxonomy and Future Directions",
+  "publication_date": "2022-06-22",
+  "publication_year": 2022,
+  "authors": [
+    "Mohammad Goudarzi",
+    "Marimuthu Swami Palaniswami",
+    "Rajkumar Buyya"
+  ],
+  "venue": "ACM Computing Surveys",
+  "type": "article"
+}

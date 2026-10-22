@@ -1,0 +1,22 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:Dem6FJhTUoYC",
+  "scholar_title": "SenseWeather: Multimodal Sensing for Robust Robotic Perception under Extreme Conditions",
+  "fetched_at": "2026-10-19T09:35:07.607813+00:00",
+  "openalex_id": "https://openalex.org/W7221816299",
+  "doi": "https://doi.org/10.48550/arxiv.2610.14082",
+  "title": "SenseWeather: Multimodal Sensing for Robust Robotic Perception under Extreme Conditions",
+  "publication_date": "2026-10-08",
+  "publication_year": 2026,
+  "authors": [
+    "Fucai Ke",
+    "Sukai Huang",
+    "Junyi Hao",
+    "Kal Backman",
+    "Naim Rastgoo",
+    "Gholamreza Haffari",
+    "Hamid Rezatofighi"
+  ],
+  "venue": "arXiv (Cornell University)",
+  "type": "preprint"
+}

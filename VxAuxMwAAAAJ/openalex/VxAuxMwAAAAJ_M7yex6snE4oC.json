@@ -1,0 +1,22 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:M7yex6snE4oC",
+  "scholar_title": "How well can vision language models see image details?",
+  "fetched_at": "2026-10-19T12:24:47.792796+00:00",
+  "openalex_id": "https://openalex.org/W4403662556",
+  "doi": "https://doi.org/10.48550/arxiv.2408.03940",
+  "title": "How Well Can Vision Language Models See Image Details?",
+  "publication_date": "2024-08-07",
+  "publication_year": 2024,
+  "authors": [
+    "Chenhui Gou",
+    "Abdulwahab Felemban",
+    "Faizan Farooq Khan",
+    "Deyao Zhu",
+    "Jianfei Cai",
+    "Hamid Rezatofighi",
+    "Mohamed Elhoseiny"
+  ],
+  "venue": "arXiv (Cornell University)",
+  "type": "preprint"
+}

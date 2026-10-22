@@ -1,0 +1,18 @@
+{
+  "status": "matched",
+  "author_pub_id": "a7XqS_QAAAAJ:KlAtU1dfN6UC",
+  "scholar_title": "FLight: A lightweight federated learning framework in edge and fog computing",
+  "fetched_at": "2026-10-19T09:49:11.178418+00:00",
+  "openalex_id": "https://openalex.org/W4389607240",
+  "doi": "https://doi.org/10.1002/spe.3300",
+  "title": "FLight: A lightweight federated learning framework in edge and fog computing",
+  "publication_date": "2023-12-12",
+  "publication_year": 2023,
+  "authors": [
+    "Wuji Zhu",
+    "Mohammad Goudarzi",
+    "Rajkumar Buyya"
+  ],
+  "venue": "Software Practice and Experience",
+  "type": "article"
+}

@@ -1,0 +1,23 @@
+{
+  "status": "matched",
+  "author_pub_id": "8GQnNP0AAAAJ:hFOr9nPyWt4C",
+  "scholar_title": "Primitiveanything: Human-crafted 3d primitive assembly generation with auto-regressive transformer",
+  "fetched_at": "2026-10-19T09:49:11.178418+00:00",
+  "openalex_id": "https://openalex.org/W4412590219",
+  "doi": "https://doi.org/10.1145/3721238.3730732",
+  "title": "PrimitiveAnything: Human-Crafted 3D Primitive Assembly Generation with Auto-Regressive transformer",
+  "publication_date": "2025-07-23",
+  "publication_year": 2025,
+  "authors": [
+    "Jing-Ting Ye",
+    "Yuze He",
+    "Yanning Zhou",
+    "Yiqin Zhu",
+    "Kaiwen Xiao",
+    "Yong‐Jin Liu",
+    "Wei Yang",
+    "Xiao Han"
+  ],
+  "venue": "ACM SIGGRAPH Conference Papers (SIGGRAPH)",
+  "type": "conference-paper"
+}

@@ -1,0 +1,19 @@
+{
+  "status": "matched",
+  "author_pub_id": "a7XqS_QAAAAJ:-f6ydRqryjwC",
+  "scholar_title": "A knowledge distillation-empowered adaptive federated reinforcement learning framework for multi-domain IoT applications scheduling",
+  "fetched_at": "2026-10-19T09:35:07.607813+00:00",
+  "openalex_id": "https://openalex.org/W7135042053",
+  "doi": "https://doi.org/10.1109/tmc.2026.3672603",
+  "title": "A Knowledge Distillation-Empowered Adaptive Federated Reinforcement Learning Framework for Multi-Domain IoT Applications Scheduling",
+  "publication_date": "2026-03-12",
+  "publication_year": 2026,
+  "authors": [
+    "Zhiyu Wang",
+    "Mohammad Goudarzi",
+    "Mingming Gong",
+    "Rajkumar Buyya"
+  ],
+  "venue": "IEEE Transactions on Mobile Computing",
+  "type": "article"
+}

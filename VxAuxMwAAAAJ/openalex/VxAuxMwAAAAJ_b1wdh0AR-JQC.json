@@ -1,0 +1,19 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:b1wdh0AR-JQC",
+  "scholar_title": "DifFUSER: Diffusion Model for Robust Multi-Sensor Fusion in 3D Object Detection and BEV Segmentation",
+  "fetched_at": "2026-10-19T12:24:47.792796+00:00",
+  "openalex_id": "https://openalex.org/W4394653165",
+  "doi": "https://doi.org/10.48550/arxiv.2404.04629",
+  "title": "DifFUSER: Diffusion Model for Robust Multi-Sensor Fusion in 3D Object Detection and BEV Segmentation",
+  "publication_date": "2024-04-06",
+  "publication_year": 2024,
+  "authors": [
+    "Duy-Tho Le",
+    "Hengcan Shi",
+    "Jianfei Cai",
+    "Hamid Rezatofighi"
+  ],
+  "venue": "arXiv (Cornell University)",
+  "type": "preprint"
+}

@@ -1,0 +1,20 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:j3f4tGmQtD8C",
+  "scholar_title": "Deep Auto-Set: A Deep Auto-Encoder-Set Network for Activity Recognition Using Wearables",
+  "fetched_at": "2026-10-19T12:38:11.145732+00:00",
+  "openalex_id": "https://openalex.org/W2952668699",
+  "doi": "https://doi.org/10.48550/arxiv.1811.08127",
+  "title": "Deep Auto-Set: A Deep Auto-Encoder-Set Network for Activity Recognition Using Wearables",
+  "publication_date": "2018-11-20",
+  "publication_year": 2018,
+  "authors": [
+    "Varamin, Alireza Abedin",
+    "Ehsan Abbasnejad",
+    "Qinfeng Shi",
+    "Damith Chinthana Ranasinghe",
+    "Hamid Rezatofighi"
+  ],
+  "venue": "arXiv (Cornell University)",
+  "type": "preprint"
+}

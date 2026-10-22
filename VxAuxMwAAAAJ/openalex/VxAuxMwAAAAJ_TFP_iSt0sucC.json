@@ -1,0 +1,24 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:TFP_iSt0sucC",
+  "scholar_title": "CVPR19 tracking and detection challenge: How crowded can it get?",
+  "fetched_at": "2026-10-19T12:38:11.145732+00:00",
+  "openalex_id": "https://openalex.org/W2951353299",
+  "doi": "https://doi.org/10.48550/arxiv.1906.04567",
+  "title": "CVPR19 Tracking and Detection Challenge: How crowded can it get?",
+  "publication_date": "2019-06-10",
+  "publication_year": 2019,
+  "authors": [
+    "Patrick Dendorfer",
+    "Hamid Rezatofighi",
+    "Anton Milan",
+    "Qinfeng Shi",
+    "Daniel Cremers",
+    "Ian D. Reid",
+    "Stefan Roth",
+    "Konrad Schindler",
+    "Laura Leal-Taixé"
+  ],
+  "venue": "arXiv (Cornell University)",
+  "type": "preprint"
+}

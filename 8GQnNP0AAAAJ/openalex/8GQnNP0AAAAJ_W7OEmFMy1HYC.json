@@ -1,0 +1,20 @@
+{
+  "status": "matched",
+  "author_pub_id": "8GQnNP0AAAAJ:W7OEmFMy1HYC",
+  "scholar_title": "Online knowledge distillation for efficient pose estimation",
+  "fetched_at": "2026-10-19T12:11:34.114787+00:00",
+  "openalex_id": "https://openalex.org/W3187458216",
+  "doi": "https://doi.org/10.1109/iccv48922.2021.01153",
+  "title": "Online Knowledge Distillation for Efficient Pose Estimation",
+  "publication_date": "2021-10-01",
+  "publication_year": 2021,
+  "authors": [
+    "Zheng Li",
+    "Jingwen Ye",
+    "Mingli Song",
+    "Ying Huang",
+    "Zhigeng Pan"
+  ],
+  "venue": "IEEE/CVF International Conference on Computer Vision (ICCV)",
+  "type": "conference-paper"
+}

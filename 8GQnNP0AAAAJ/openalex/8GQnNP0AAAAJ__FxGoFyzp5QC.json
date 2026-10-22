@@ -1,0 +1,19 @@
+{
+  "status": "matched",
+  "author_pub_id": "8GQnNP0AAAAJ:_FxGoFyzp5QC",
+  "scholar_title": "Dynast: Dynamic sparse transformer for exemplar-guided image generation",
+  "fetched_at": "2026-10-19T12:11:34.114787+00:00",
+  "openalex_id": "https://openalex.org/W4312246184",
+  "doi": "https://doi.org/10.1007/978-3-031-19787-1_5",
+  "title": "DynaST: Dynamic Sparse Transformer for Exemplar-Guided Image Generation",
+  "publication_date": "2022-01-01",
+  "publication_year": 2022,
+  "authors": [
+    "Songhua Liu",
+    "Jingwen Ye",
+    "Sucheng Ren",
+    "Xinchao Wang"
+  ],
+  "venue": "Lecture notes in computer science",
+  "type": "conference-paper"
+}

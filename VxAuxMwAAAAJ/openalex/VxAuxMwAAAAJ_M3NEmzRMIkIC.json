@@ -1,0 +1,21 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:M3NEmzRMIkIC",
+  "scholar_title": "Social-BiGAT: Multimodal Trajectory Forecasting using Bicycle-GAN and Graph Attention Networks",
+  "fetched_at": "2026-10-19T12:38:11.145732+00:00",
+  "openalex_id": "https://openalex.org/W2954414836",
+  "doi": "https://doi.org/10.48550/arxiv.1907.03395",
+  "title": "Social-BiGAT: Multimodal Trajectory Forecasting using Bicycle-GAN and Graph Attention Networks",
+  "publication_date": "2019-07-04",
+  "publication_year": 2019,
+  "authors": [
+    "Vineet Kosaraju",
+    "Amir Sadeghian",
+    "Roberto Martín-Martín",
+    "Ian D. Reid",
+    "S. Hamid Rezatofighi",
+    "Silvio Savarese"
+  ],
+  "venue": "arXiv (Cornell University)",
+  "type": "preprint"
+}
