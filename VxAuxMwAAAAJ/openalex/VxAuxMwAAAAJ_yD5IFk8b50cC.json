@@ -1,0 +1,24 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:yD5IFk8b50cC",
+  "scholar_title": "ODAM: Object Detection, Association, and Mapping using Posed RGB Video",
+  "fetched_at": "2026-10-19T12:24:47.792796+00:00",
+  "openalex_id": "https://openalex.org/W3194241004",
+  "doi": "https://doi.org/10.1109/iccv48922.2021.00594",
+  "title": "ODAM: Object Detection, Association, and Mapping using Posed RGB Video",
+  "publication_date": "2021-10-01",
+  "publication_year": 2021,
+  "authors": [
+    "Kejie Li",
+    "Daniel DeTone",
+    "Steven Chen",
+    "Minh Vo",
+    "Ian D. Reid",
+    "Hamid Rezatofighi",
+    "Chris Sweeney",
+    "Julian Straub",
+    "Richard Newcombe"
+  ],
+  "venue": "IEEE/CVF International Conference on Computer Vision (ICCV)",
+  "type": "conference-paper"
+}

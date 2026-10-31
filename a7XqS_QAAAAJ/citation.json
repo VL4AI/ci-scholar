@@ -1,0 +1,909 @@
+{
+  "generated_at": "2026-10-31T00:24:03.148344",
+  "google_scholar": {
+    "status": "success",
+    "total_citations": 2217,
+    "5y_citations": 2101,
+    "total_hindex": 19,
+    "5y_hindex": 18,
+    "total_i10index": 24,
+    "5y_i10index": 22,
+    "cites_per_year": {
+      "2016": 6,
+      "2017": 7,
+      "2018": 24,
+      "2019": 25,
+      "2020": 45,
+      "2021": 121,
+      "2022": 233,
+      "2023": 300,
+      "2024": 372,
+      "2025": 540,
+      "2026": 518
+    },
+    "publications": [
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:fPk4N6BV_jEC",
+        "title": "Zero-Shot Forecasting of In-Situ Soil Moisture and Temperature with a Time-Series Foundation Model",
+        "year": "2026",
+        "authors": "M Talaei, M Goudarzi, M Todd, VNL Wong, I Chadès",
+        "venue": "arXiv preprint arXiv:2610.30971, 2026",
+        "citations": 0,
+        "openalex": {
+          "id": "https://openalex.org/W7223358552",
+          "doi": "https://doi.org/10.48550/arxiv.2610.30971",
+          "publication_date": "2026-10-22",
+          "authors": [
+            "Mohammad Talaei",
+            "Mohammad Goudarzi",
+            "Maille Todd",
+            "Vanessa N. L. Wong",
+            "Iadine Chadès"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:tkaPQYYpVKoC",
+        "title": "Constrained Federated Reinforcement Learning for Secure Offloading in Vehicular Edge Computing",
+        "year": "2026",
+        "authors": "Z Wang, MF Esgin, M Goudarzi",
+        "venue": "arXiv preprint arXiv:2610.27651, 2026",
+        "citations": 0,
+        "openalex": {
+          "id": "https://openalex.org/W7223120605",
+          "doi": "https://doi.org/10.48550/arxiv.2610.27651",
+          "publication_date": "2026-10-20",
+          "authors": [
+            "Zhiyu Wang",
+            "Muhammed F. Esgin",
+            "Mohammad Goudarzi"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:tKAzc9rXhukC",
+        "title": "GeoTrain: Energy-Aware Automatic Parallelism for Foundation Model Training on Heterogeneous Geo-Distributed Resources",
+        "year": "2026",
+        "authors": "BK Hoang, TZ He, M Goudarzi",
+        "venue": "arXiv preprint arXiv:2610.26178, 2026",
+        "citations": 0,
+        "openalex": {
+          "id": "https://openalex.org/W7223018088",
+          "doi": "https://doi.org/10.48550/arxiv.2610.26178",
+          "publication_date": "2026-10-19",
+          "authors": [
+            "Bui-Khanh Hoang",
+            "TianZhang He",
+            "Mohammad Goudarzi"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:pqnbT2bcN3wC",
+        "title": "CEMA-Router: Infrastructure-Aware Batch Routing for LLM Inference in Cloud-Edge Systems",
+        "year": "2026",
+        "authors": "X Wang, TZ He, M Goudarzi",
+        "venue": "arXiv preprint arXiv:2610.26171, 2026",
+        "citations": 0,
+        "openalex": {
+          "id": "https://openalex.org/W7222998834",
+          "doi": "https://doi.org/10.48550/arxiv.2610.26171",
+          "publication_date": "2026-10-19",
+          "authors": [
+            "Xijia Wang",
+            "TianZhang He",
+            "Mohammad Goudarzi"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:NaGl4SEjCO4C",
+        "title": "A Multi-Armed Bandit–Based Participant Selection Method for Federated Recommendation Systems",
+        "year": "2026",
+        "authors": "J Liu, M Goudarzi, AN Toosi",
+        "venue": "2026 IEEE 26th International Symposium on Cluster, Cloud and Internet …, 2026",
+        "citations": 1,
+        "openalex": {
+          "id": "https://openalex.org/W4417488724",
+          "doi": "https://doi.org/10.1109/ccgrid68966.2026.00041",
+          "publication_date": "2026-05-01",
+          "authors": [
+            "Jintao Liu",
+            "Mohammad Goudarzi",
+            "Adel N. Toosi"
+          ],
+          "venue": "IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGrid)"
+        }
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:j3f4tGmQtD8C",
+        "title": "GraphFlash: Enabling Fast and Elastic Graph Processing on Serverless Infrastructure",
+        "year": "2026",
+        "authors": "C Zhao, P Poorsistani, M Goudarzi, T Islam, AN Toosi",
+        "venue": "arXiv preprint arXiv:2605.11631, 2026",
+        "citations": 0,
+        "openalex": {
+          "id": "https://openalex.org/W7172471085",
+          "doi": "https://doi.org/10.1109/2575-8411.2026.00066",
+          "publication_date": "2026-06-01",
+          "authors": [
+            "Chen Zhao",
+            "Parsa Poorsistani",
+            "Mohammad Goudarzi",
+            "Tawfiq Islam",
+            "Adel N. Toosi"
+          ],
+          "venue": "IEEE International Conference on Distributed Computing Systems (ICDCS)"
+        }
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:R3hNpaxXUhUC",
+        "title": "DeFRiS: Silo-Cooperative IoT Applications Scheduling via Decentralized Federated Reinforcement Learning",
+        "year": "2026",
+        "authors": "Z Wang, M Goudarzi, M Gong, R Buyya",
+        "venue": "arXiv preprint arXiv:2603.14729, 2026",
+        "citations": 0,
+        "openalex": {
+          "id": "https://openalex.org/W7138248549",
+          "doi": "https://doi.org/10.48550/arxiv.2603.14729",
+          "publication_date": "2026-03-16",
+          "authors": [
+            "Zhiyu Wang",
+            "Mohammad Goudarzi",
+            "Mingming Gong",
+            "Rajkumar Buyya"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:-f6ydRqryjwC",
+        "title": "A knowledge distillation-empowered adaptive federated reinforcement learning framework for multi-domain IoT applications scheduling",
+        "year": "2026",
+        "authors": "Z Wang, M Goudarzi, M Gong, R Buyya",
+        "venue": "IEEE Transactions on Mobile Computing, 2026",
+        "citations": 6,
+        "openalex": {
+          "id": "https://openalex.org/W7135042053",
+          "doi": "https://doi.org/10.1109/tmc.2026.3672603",
+          "publication_date": "2026-03-12",
+          "authors": [
+            "Zhiyu Wang",
+            "Mohammad Goudarzi",
+            "Mingming Gong",
+            "Rajkumar Buyya"
+          ],
+          "venue": "IEEE Transactions on Mobile Computing"
+        }
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:HDshCWvjkbEC",
+        "title": "Efficient bidirectional charge scheduling for electric vehicles: Optimizing cost and carbon emissions",
+        "year": "2026",
+        "authors": "S Zhao, AN Toosi, M Goudarzi, MA Cheema, H Wang",
+        "venue": "Sustainable Energy, Grids and Networks, 102172, 2026",
+        "citations": 2,
+        "openalex": {
+          "id": "https://openalex.org/W7133187691",
+          "doi": "https://doi.org/10.1016/j.segan.2026.102172",
+          "publication_date": "2026-03-03",
+          "authors": [
+            "Shizhe Zhao",
+            "Adel N. Toosi",
+            "Mohammad Goudarzi",
+            "Muhammad Aamir Cheema",
+            "Hao Wang"
+          ],
+          "venue": "Sustainable Energy Grids and Networks"
+        }
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:5awf1xo2G04C",
+        "title": "An Empirical Evaluation of Kubernetes Resilience in Cloud–Edge Deployments Using Failure Injection Techniques",
+        "year": "2026",
+        "authors": "Z Chen, M Goudarzi, AN Toosi",
+        "venue": "Proceedings of the 2026 Australasian Computer Science Week, 22-31, 2026",
+        "citations": 0,
+        "openalex": {
+          "id": "https://openalex.org/W7167224963",
+          "doi": "https://doi.org/10.1145/3793811.3793823",
+          "publication_date": "2026-02-09",
+          "authors": [
+            "Zihao Chen",
+            "Mohammad Goudarzi",
+            "Adel N. Toosi"
+          ],
+          "venue": "Australasian Computer Science Week Multiconference (ACSW)"
+        }
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:_Qo2XoVZTnwC",
+        "title": "LLM-Driven Intent-Based Privacy-Aware Orchestration Across the Cloud--Edge Continuum",
+        "year": "2026",
+        "authors": "Z Su, MT Islam, M Goudarzi, AN Toosi",
+        "venue": "Proceedings of the 2026 Australasian Computer Science Week, 32-41, 2026",
+        "citations": 2,
+        "openalex": {
+          "id": "https://openalex.org/W7130583799",
+          "doi": "https://doi.org/10.1145/3793811.3793824",
+          "publication_date": "2026-02-09",
+          "authors": [
+            "Zijie Su",
+            "Muhammed Tawfiqul Islam",
+            "Mohammad Goudarzi",
+            "Adel N. Toosi"
+          ],
+          "venue": "Australasian Computer Science Week (ACSW)"
+        }
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:4JMBOYKVnBMC",
+        "title": "Method and device for determining security compliance of network infrastructure",
+        "year": "2026",
+        "authors": "A Shaghaghi, M GOUDARZI, S DELDARI, A Joshi, J LAEUCHLI, SK Jha",
+        "venue": "US Patent App. 19/273,532, 2026",
+        "citations": 0,
+        "openalex": null
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:mB3voiENLucC",
+        "title": "Performance and Security Aware Distributed Service Placement in Fog Computing",
+        "year": "2026",
+        "authors": "M Goudarzi, A Shaghaghi, Z Wang, R Buyya",
+        "venue": "arXiv preprint arXiv:2601.01125, 2026",
+        "citations": 0,
+        "openalex": {
+          "id": "https://openalex.org/W7119043245",
+          "doi": "https://doi.org/10.1109/tsc.2026.3725124",
+          "publication_date": "2026-08-18",
+          "authors": [
+            "Mohammad Goudarzi",
+            "Arash Shaghaghi",
+            "Zhiyu Wang",
+            "Rajkumar Buyya"
+          ],
+          "venue": "IEEE Transactions on Services Computing"
+        }
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:e5wmG9Sq2KIC",
+        "title": "Deep Reinforcement Learning for Resource Management in IoT-Edge-Cloud Computing Continuum: A Taxonomy and Future Directions",
+        "year": "2026",
+        "authors": "Z WANG, M GOUDARZI, M GONG, R BUYYA",
+        "venue": "",
+        "citations": 2,
+        "openalex": null
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:ZeXyd9-uunAC",
+        "title": "A secure framework for containerized IoT applications in integrated edge–cloud computing environments",
+        "year": "2026",
+        "authors": "Q Deng, M Goudarzi, A Shaghaghi, M Sarvi, R Buyya",
+        "venue": "Future Generation Computer Systems 174, 108010, 2026",
+        "citations": 15,
+        "openalex": {
+          "id": "https://openalex.org/W4412455392",
+          "doi": "https://doi.org/10.1016/j.future.2025.108010",
+          "publication_date": "2025-07-15",
+          "authors": [
+            "Qifan Deng",
+            "Mohammad Goudarzi",
+            "Arash Shaghaghi",
+            "Majid Sarvi",
+            "Rajkumar Buyya"
+          ],
+          "venue": "Future Generation Computer Systems"
+        }
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:L8Ckcad2t8MC",
+        "title": "ReinFog: A Deep Reinforcement Learning empowered framework for resource management in edge and cloud computing environments",
+        "year": "2025",
+        "authors": "Z Wang, M Goudarzi, R Buyya",
+        "venue": "Journal of Network and Computer Applications 242, 104250, 2025",
+        "citations": 24,
+        "openalex": {
+          "id": "https://openalex.org/W4411461440",
+          "doi": "https://doi.org/10.1016/j.jnca.2025.104250",
+          "publication_date": "2025-06-19",
+          "authors": [
+            "Zhiyu Wang",
+            "Mohammad Goudarzi",
+            "Rajkumar Buyya"
+          ],
+          "venue": "Journal of Network and Computer Applications"
+        }
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:hC7cP41nSMkC",
+        "title": "Resilience evaluation of kubernetes in cloud-edge environments via failure injection",
+        "year": "2025",
+        "authors": "Z Chen, M Goudarzi, AN Toosi",
+        "venue": "arXiv preprint arXiv:2507.16109, 2025",
+        "citations": 7,
+        "openalex": {
+          "id": "https://openalex.org/W4414385418",
+          "doi": "https://doi.org/10.48550/arxiv.2507.16109",
+          "publication_date": "2025-07-21",
+          "authors": [
+            "Zihao Chen",
+            "Mohammad Goudarzi",
+            "Adel N. Toosi"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:qUcmZB5y_30C",
+        "title": "Efficient routing of inference requests across llm instances in cloud-edge computing",
+        "year": "2025",
+        "authors": "S Yu, M Goudarzi, AN Toosi",
+        "venue": "arXiv preprint arXiv:2507.15553, 2025",
+        "citations": 14,
+        "openalex": {
+          "id": "https://openalex.org/W4417493428",
+          "doi": "https://doi.org/10.48550/arxiv.2507.15553",
+          "publication_date": "2025-07-21",
+          "authors": [
+            "Shibo Yu",
+            "Mohammad Goudarzi",
+            "Adel N. Toosi"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:IWHjjKOFINEC",
+        "title": "An ML-Driven Participant Selection Technique for Federated Recommendation System in Edge-Cloud Computing",
+        "year": "2025",
+        "authors": "J Liu, M Goudarzi, A Nadjaran Toosi",
+        "venue": "arXiv e-prints, arXiv: 2507.15233, 2025",
+        "citations": 0,
+        "openalex": null
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:dhFuZR0502QC",
+        "title": "TF-DDRL: A transformer-enhanced distributed DRL technique for scheduling IoT applications in edge and cloud computing environments",
+        "year": "2025",
+        "authors": "Z Wang, M Goudarzi, R Buyya",
+        "venue": "IEEE Transactions on Services Computing 18 (2), 1039-1053, 2025",
+        "citations": 88,
+        "openalex": {
+          "id": "https://openalex.org/W4406264644",
+          "doi": "https://doi.org/10.1109/tsc.2025.3528346",
+          "publication_date": "2025-01-10",
+          "authors": [
+            "Zhiyu Wang",
+            "Mohammad Goudarzi",
+            "Rajkumar Buyya"
+          ],
+          "venue": "IEEE Transactions on Services Computing"
+        }
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:hFOr9nPyWt4C",
+        "title": "A Future in Motion: Reimagining Public Transport with Diverse Autonomous Vehicles",
+        "year": "2025",
+        "authors": "MA Cheema, MA Babar, ME Ali, M Goudarzi, WG Aref",
+        "venue": "33rd ACM SIGSPATIAL International Conference on Advances in Geographic …, 2025",
+        "citations": 2,
+        "openalex": {
+          "id": "https://openalex.org/W4417283732",
+          "doi": "https://doi.org/10.1145/3748636.3760458",
+          "publication_date": "2025-11-03",
+          "authors": [
+            "Muhammad Aamir Cheema",
+            "Muhammad Ali Babar",
+            "Mohammed Eunus Ali",
+            "Mohammad Goudarzi",
+            "Walid G. Aref"
+          ],
+          "venue": "ACM International Conference on Advances in Geographic Information Systems (SIGSPATIAL)"
+        }
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:7PzlFSSx8tAC",
+        "title": "ReinFog: A Deep Reinforcement Learning Empowered Framework for Resource Management in Edge and Cloud Computing Environments",
+        "year": "2024",
+        "authors": "Z Wang, M Goudarzi, R Buyya",
+        "venue": "arXiv preprint arXiv:2411.13121, 2024",
+        "citations": 13,
+        "openalex": {
+          "id": "https://openalex.org/W4411461440",
+          "doi": "https://doi.org/10.1016/j.jnca.2025.104250",
+          "publication_date": "2025-06-19",
+          "authors": [
+            "Zhiyu Wang",
+            "Mohammad Goudarzi",
+            "Rajkumar Buyya"
+          ],
+          "venue": "Journal of Network and Computer Applications"
+        }
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:9ZlFYXVOiuMC",
+        "title": "Towards threat modelling of IoT context-sharing platforms",
+        "year": "2024",
+        "authors": "M Goudarzi, A Shaghaghi, S Finn, B Stillerd, S Jha",
+        "venue": "2024 22nd International Symposium on Network Computing and Applications (NCA …, 2024",
+        "citations": 4,
+        "openalex": {
+          "id": "https://openalex.org/W4409103274",
+          "doi": "https://doi.org/10.1109/nca61908.2024.00025",
+          "publication_date": "2024-10-24",
+          "authors": [
+            "Mohammad Goudarzi",
+            "Arash Shaghaghi",
+            "Simon Finn",
+            "Burkhard Stillerd",
+            "Sanjay Kumar Jha"
+          ],
+          "venue": null
+        }
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:QIV2ME_5wuYC",
+        "title": "AuditNet: Conversational AI Security Assistant",
+        "year": "2024",
+        "authors": "S Deldari, M Goudarzi, A Joshi, A Shaghaghi, S Finn, FD Salim, S Jha",
+        "venue": "Adjunct Proceedings of the 26th International Conference on Mobile Human …, 2024",
+        "citations": 9,
+        "openalex": {
+          "id": "https://openalex.org/W4404347281",
+          "doi": "https://doi.org/10.1145/3640471.3680444",
+          "publication_date": "2024-09-21",
+          "authors": [
+            "Shohreh Deldari",
+            "Mohammad Goudarzi",
+            "Aditya Joshi",
+            "Arash Shaghaghi",
+            "Simon Finn",
+            "Flora Dilys Salim",
+            "Sanjay Kumar Jha"
+          ],
+          "venue": "International Conference on Mobile Human-Computer Interaction (MobileHCI)"
+        }
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:4DMP91E08xMC",
+        "title": "Lack of Systematic Approach to Security of IoT Context Sharing Platforms",
+        "year": "2024",
+        "authors": "M Goudarzi, A Shaghaghi, S Finn, S Jha",
+        "venue": "2024 21st Annual International Conference on Privacy, Security and Trust …, 2024",
+        "citations": 0,
+        "openalex": {
+          "id": "https://openalex.org/W4405441319",
+          "doi": "https://doi.org/10.1109/pst62714.2024.10788050",
+          "publication_date": "2024-08-28",
+          "authors": [
+            "Mohammad Goudarzi",
+            "Arash Shaghaghi",
+            "Simon Finn",
+            "Sanjay Kumar Jha"
+          ],
+          "venue": "International Conference on Privacy, Security and Trust (PST)"
+        }
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:mVmsd5A6BfQC",
+        "title": "AuditNet: a conversational AI-based security assistant",
+        "year": "2024",
+        "authors": "S Deldari, M Goudarzi, A Joshi, A Shaghaghi, S Finn, FD Salim, S Jha",
+        "venue": "arXiv preprint arXiv:2407.14116, 2024",
+        "citations": 0,
+        "openalex": null
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:Wp0gIr-vW9MC",
+        "title": "Method and device for determining security compliance of network infrastructure",
+        "year": "2024",
+        "authors": "A Shaghaghi, M Goudarzi, S Finn, S Deldari, A Joshi, J Laeuchli, F Salim, ...",
+        "venue": "AU Patent https://ipsearch.ipaustralia.gov.au/patents/2,025,205,598, 2024",
+        "citations": 0,
+        "openalex": null
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:KlAtU1dfN6UC",
+        "title": "FLight: A lightweight federated learning framework in edge and fog computing",
+        "year": "2024",
+        "authors": "W Zhu, M Goudarzi, R Buyya",
+        "venue": "Software: Practice and Experience 54 (5), 813-841, 2024",
+        "citations": 35,
+        "openalex": {
+          "id": "https://openalex.org/W4389607240",
+          "doi": "https://doi.org/10.1002/spe.3300",
+          "publication_date": "2023-12-12",
+          "authors": [
+            "Wuji Zhu",
+            "Mohammad Goudarzi",
+            "Rajkumar Buyya"
+          ],
+          "venue": "Software Practice and Experience"
+        }
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:YOwf2qJgpHMC",
+        "title": "Deep reinforcement learning-based scheduling for optimizing system load and response time in edge and fog computing environments",
+        "year": "2024",
+        "authors": "Z Wang, M Goudarzi, M Gong, R Buyya",
+        "venue": "Future Generation Computer Systems 152, 55-69, 2024",
+        "citations": 247,
+        "openalex": {
+          "id": "https://openalex.org/W4387967604",
+          "doi": "https://doi.org/10.1016/j.future.2023.10.012",
+          "publication_date": "2023-10-27",
+          "authors": [
+            "Zhiyu Wang",
+            "Mohammad Goudarzi",
+            "Mingming Gong",
+            "Rajkumar Buyya"
+          ],
+          "venue": "Future Generation Computer Systems"
+        }
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:ufrVoPGSRksC",
+        "title": "Resource management in edge and fog computing using fogbus2 framework",
+        "year": "2024",
+        "authors": "M Goudarzi, Q Deng, R Buyya",
+        "venue": "Managing Internet of Things Applications across Edge and Cloud Data Centres, 2024",
+        "citations": 25,
+        "openalex": {
+          "id": "https://openalex.org/W4399130804",
+          "doi": "https://doi.org/10.1049/pbpc027e_ch2",
+          "publication_date": "2024-05-28",
+          "authors": [
+            "Mohammad Goudarzi",
+            "Qifan Deng",
+            "Rajkumar Buyya"
+          ],
+          "venue": null
+        }
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:aqlVkmm33-oC",
+        "title": "-DDRL: A QoS-Aware Distributed Deep Reinforcement Learning Technique for Service Offloading in Fog Computing Environments",
+        "year": "2023",
+        "authors": "M Goudarzi, MA Rodriguez, M Sarvi, R Buyya",
+        "venue": "IEEE Transactions on Services Computing 17 (1), 47-59, 2023",
+        "citations": 49,
+        "openalex": null
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:3fE2CSJIrl8C",
+        "title": "Quality of Service (QoS)-driven edge computing and smart hospitals: a vision, architectural elements, and future directions",
+        "year": "2023",
+        "authors": "R Buyya, SN Srirama, R Mahmud, M Goudarzi, L Ismail, V Kostakos",
+        "venue": "International Conference on Communication, Electronics and Digital …, 2023",
+        "citations": 41,
+        "openalex": {
+          "id": "https://openalex.org/W4382117990",
+          "doi": "https://doi.org/10.1007/978-981-99-1699-3_1",
+          "publication_date": "2023-01-01",
+          "authors": [
+            "Rajkumar Buyya",
+            "Satish Narayana Srirama",
+            "Redowan Mahmud",
+            "Mohammad Goudarzi",
+            "Leila Ismail",
+            "Vassilis Kostakos"
+          ],
+          "venue": "Lecture notes in networks and systems"
+        }
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:5nxA0vEk-isC",
+        "title": "Scheduling IoT applications in edge and fog computing environments: A taxonomy and future directions",
+        "year": "2022",
+        "authors": "M Goudarzi, M Palaniswami, R Buyya",
+        "venue": "ACM Computing Surveys 55 (7), 1-41, 2022",
+        "citations": 159,
+        "openalex": {
+          "id": "https://openalex.org/W4283328778",
+          "doi": "https://doi.org/10.1145/3544836",
+          "publication_date": "2022-06-22",
+          "authors": [
+            "Mohammad Goudarzi",
+            "Marimuthu Swami Palaniswami",
+            "Rajkumar Buyya"
+          ],
+          "venue": "ACM Computing Surveys"
+        }
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:0EnyYjriUFMC",
+        "title": "Container orchestration in edge and fog computing environments for real-time iot applications",
+        "year": "2022",
+        "authors": "Z Wang, M Goudarzi, J Aryal, R Buyya",
+        "venue": "Computational Intelligence and Data Analytics: Proceedings of ICCIDA 2022, 1-21, 2022",
+        "citations": 51,
+        "openalex": {
+          "id": "https://openalex.org/W4221144348",
+          "doi": "https://doi.org/10.1007/978-981-19-3391-2_1",
+          "publication_date": "2022-09-01",
+          "authors": [
+            "Zhiyu Wang",
+            "Mohammad Goudarzi",
+            "Jagannath Aryal",
+            "Rajkumar Buyya"
+          ],
+          "venue": "Lecture notes on data engineering and communications technologies"
+        }
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:roLk4NBRz8UC",
+        "title": "Ifogsim2: An extended ifogsim simulator for mobility, clustering, and microservice management in edge and fog computing environments",
+        "year": "2022",
+        "authors": "R Mahmud, S Pallewatta, M Goudarzi, R Buyya",
+        "venue": "Journal of Systems and Software 190, 111351, 2022",
+        "citations": 366,
+        "openalex": {
+          "id": "https://openalex.org/W3199069499",
+          "doi": "https://doi.org/10.1016/j.jss.2022.111351",
+          "publication_date": "2022-05-04",
+          "authors": [
+            "Redowan Mahmud",
+            "Samodha Pallewatta",
+            "Mohammad Goudarzi",
+            "Rajkumar Buyya"
+          ],
+          "venue": "Journal of Systems and Software"
+        }
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:MXK_kJrjxJIC",
+        "title": "Energy and Time Aware Scheduling of Applications in Edge and Fog Computing Environments",
+        "year": "2022",
+        "authors": "M Goudarzi",
+        "venue": "",
+        "citations": 2,
+        "openalex": {
+          "id": "https://openalex.org/W7200575082",
+          "doi": null,
+          "publication_date": "2022-01-01",
+          "authors": [
+            "Mohammad Goudarzi"
+          ],
+          "venue": "Minerva Access (University of Melbourne)"
+        }
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:Se3iqnhoufwC",
+        "title": "Cloud Computing and Internet of Things: Recent Trends and Directions",
+        "year": "2022",
+        "authors": "M Goudarzi, S Ilager, R Buyya",
+        "venue": "New Frontiers in Cloud Computing and Internet of Things, 2022",
+        "citations": 41,
+        "openalex": {
+          "id": "https://openalex.org/W4297126781",
+          "doi": "https://doi.org/10.1007/978-3-031-05528-7_1",
+          "publication_date": "2022-01-01",
+          "authors": [
+            "Mohammad Goudarzi",
+            "Shashikant Ilager",
+            "Rajkumar Buyya"
+          ],
+          "venue": "Internet of things"
+        }
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:UebtZRa9Y70C",
+        "title": "A distributed deep reinforcement learning technique for application placement in edge and fog computing environments",
+        "year": "2021",
+        "authors": "M Goudarzi, M Palaniswami, R Buyya",
+        "venue": "IEEE Transactions on Mobile Computing 22 (5), 2491-2505, 2021",
+        "citations": 230,
+        "openalex": {
+          "id": "https://openalex.org/W3208229128",
+          "doi": "https://doi.org/10.1109/tmc.2021.3123165",
+          "publication_date": "2021-10-27",
+          "authors": [
+            "Mohammad Goudarzi",
+            "Marimuthu Swami Palaniswami",
+            "Rajkumar Buyya"
+          ],
+          "venue": "IEEE Transactions on Mobile Computing"
+        }
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:LkGwnXOMwfcC",
+        "title": "A Distributed Application Placement and Migration Management Techniques for Edge and Fog Computing Environments",
+        "year": "2021",
+        "authors": "M Goudarzi, M Palaniswami, R Buyya",
+        "venue": "16th IEEE Conference on Computer Science and Intelligence Systems (FedCSIS …, 2021",
+        "citations": 44,
+        "openalex": {
+          "id": "https://openalex.org/W3189523978",
+          "doi": "https://doi.org/10.15439/2021f005",
+          "publication_date": "2021-09-26",
+          "authors": [
+            "Mohammad Goudarzi",
+            "Marimuthu Swami Palaniswami",
+            "Rajkumar Buyya"
+          ],
+          "venue": "Annals of Computer Science and Information Systems"
+        }
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:WF5omc3nYNoC",
+        "title": "FogBus2: a lightweight and distributed container-based framework for integration of IoT-enabled systems with edge and cloud computing",
+        "year": "2021",
+        "authors": "Q Deng, M Goudarzi, R Buyya",
+        "venue": "Proceedings of the SIGMOD International Workshop on Big Data in Emergent …, 2021",
+        "citations": 82,
+        "openalex": null
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:_FxGoFyzp5QC",
+        "title": "CCGrid 2021",
+        "year": "2021",
+        "authors": "L Lefevre, S Patterson, YC Lee, H Shen, S Ilager, M Goudarzi, AN Toosi, ...",
+        "venue": "",
+        "citations": 0,
+        "openalex": null
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:YsMSGLbcyi4C",
+        "title": "An Application Placement Technique for Concurrent IoT Applications in Edge and Fog Computing Environments",
+        "year": "2020",
+        "authors": "M Goudarzi, H Wu, M Palaniswami, R Buyya",
+        "venue": "IEEE Transactions on Mobile Computing, 2020",
+        "citations": 424,
+        "openalex": {
+          "id": "https://openalex.org/W3000194269",
+          "doi": "https://doi.org/10.1109/tmc.2020.2967041",
+          "publication_date": "2020-01-15",
+          "authors": [
+            "Mohammad Goudarzi",
+            "Huaming Wu",
+            "Marimuthu Swami Palaniswami",
+            "Rajkumar Buyya"
+          ],
+          "venue": "IEEE Transactions on Mobile Computing"
+        }
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:Tyk-4Ss8FVUC",
+        "title": "A fog-driven dynamic resource allocation technique in ultra dense femtocell networks",
+        "year": "2019",
+        "authors": "M Goudarzi, M Palaniswami, R Buyya",
+        "venue": "Journal of Network and Computer Applications 145, 102407, 2019",
+        "citations": 33,
+        "openalex": {
+          "id": "https://openalex.org/W2963554165",
+          "doi": "https://doi.org/10.1016/j.jnca.2019.102407",
+          "publication_date": "2019-07-22",
+          "authors": [
+            "Mohammad Goudarzi",
+            "Marimuthu Swami Palaniswami",
+            "Rajkumar Buyya"
+          ],
+          "venue": "Journal of Network and Computer Applications"
+        }
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:M3ejUd6NZC8C",
+        "title": "A genetic-based decision algorithm for multisite computation offloading in mobile cloud computing",
+        "year": "2017",
+        "authors": "M Goudarzi, M Zamani, AT Haghighat",
+        "venue": "International Journal of Communication Systems 30 (10), 2017",
+        "citations": 73,
+        "openalex": {
+          "id": "https://openalex.org/W2731502900",
+          "doi": "https://doi.org/10.1002/dac.3241",
+          "publication_date": "2016-12-09",
+          "authors": [
+            "Mohammad Goudarzi",
+            "Mehran Zamani",
+            "Abolfazl Toroghi Haghighat"
+          ],
+          "venue": "International Journal of Communication Systems"
+        }
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:qjMakFHDy7sC",
+        "title": "A Fast Hybrid Multi-site Computation Offloading for Mobile Cloud Computing",
+        "year": "2017",
+        "authors": "M Goudarzi, M Zamani, AT Haghighat",
+        "venue": "Journal of Network and Computer Applications 80, 219-231, 2017",
+        "citations": 83,
+        "openalex": {
+          "id": "https://openalex.org/W2567352183",
+          "doi": "https://doi.org/10.1016/j.jnca.2016.12.031",
+          "publication_date": "2016-12-28",
+          "authors": [
+            "Mohammad Goudarzi",
+            "Mehran Zamani",
+            "Abolfazl Toroghi Haghighat"
+          ],
+          "venue": "Journal of Network and Computer Applications"
+        }
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:UeHWp8X0CEIC",
+        "title": "Mobile cloud computing: a multisite computation offloading",
+        "year": "2016",
+        "authors": "M Goudarzi, Z Movahedi, M Nazari",
+        "venue": "2016 8th International Symposium on Telecommunications (IST), 660-665, 2016",
+        "citations": 21,
+        "openalex": {
+          "id": "https://openalex.org/W2598562469",
+          "doi": "https://doi.org/10.1109/istel.2016.7881904",
+          "publication_date": "2016-09-01",
+          "authors": [
+            "Mohammad Goudarzi",
+            "Zeinab Movahedi",
+            "Masoud Nazari"
+          ],
+          "venue": "International Symposium on Telecommunications"
+        }
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:kNdYIx-mwKoC",
+        "title": "Efficient multisite computation offloading for mobile cloud computing",
+        "year": "2016",
+        "authors": "M Goudarzi, Z Movahedi, M Nazari",
+        "venue": "2016 Intl IEEE Conferences on Ubiquitous Intelligence & Computing, Advanced …, 2016",
+        "citations": 10,
+        "openalex": {
+          "id": "https://openalex.org/W2573351246",
+          "doi": "https://doi.org/10.1109/uic-atc-scalcom-cbdcom-iop-smartworld.2016.0174",
+          "publication_date": "2016-07-01",
+          "authors": [
+            "Mohammad Goudarzi",
+            "Zeinab Movahedi",
+            "Masoud Nazari"
+          ],
+          "venue": null
+        }
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:u-x6o8ySG0sC",
+        "title": "A Priority-based Fast Optimal Computation Offloading Planner for Mobile Cloud Computing",
+        "year": "2016",
+        "authors": "M Goudarzi, Z Movahedi, G Pujolle",
+        "venue": "International Journal of Information and Communication Technology Research 8 …, 2016",
+        "citations": 11,
+        "openalex": {
+          "id": "https://openalex.org/W2796311806",
+          "doi": null,
+          "publication_date": "2016-03-15",
+          "authors": [
+            "Mohammad Goudarzi",
+            "Zeinab Movahedi",
+            "Guy Pujolle"
+          ],
+          "venue": "DOAJ (DOAJ: Directory of Open Access Journals)"
+        }
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:u5HHmVD_uO8C",
+        "title": "D-RBFS: Distributed Recursive Best First Search, an Efficient Technique for Multi-Target Tracking in Wireless Sensor Networks",
+        "year": "2016",
+        "authors": "M Timar, M Naderan, M Goudarzi, M Farahinia",
+        "venue": "3rd International Conference on Applied Research in Computer …, 2016",
+        "citations": 0,
+        "openalex": null
+      },
+      {
+        "author_pub_id": "a7XqS_QAAAAJ:4TOpqqG69KYC",
+        "title": "Cloud computing and internet",
+        "year": "",
+        "authors": "M Goudarzi, S Ilager, R Buyya",
+        "venue": "New Frontiers in Cloud Comput. Int. Things, 1, 0",
+        "citations": 1,
+        "openalex": null
+      }
+    ],
+    "error": null
+  },
+  "web_of_science": {
+    "status": "skipped",
+    "peer_reviews": 0,
+    "error": null
+  }
+}

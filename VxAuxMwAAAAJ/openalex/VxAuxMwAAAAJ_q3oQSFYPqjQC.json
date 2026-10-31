@@ -1,0 +1,22 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:q3oQSFYPqjQC",
+  "scholar_title": "Unifying flow, stereo and depth estimation",
+  "fetched_at": "2026-10-19T12:24:47.792796+00:00",
+  "openalex_id": "https://openalex.org/W4385259380",
+  "doi": "https://doi.org/10.1109/tpami.2023.3298645",
+  "title": "Unifying Flow, Stereo and Depth Estimation",
+  "publication_date": "2023-07-25",
+  "publication_year": 2023,
+  "authors": [
+    "Haofei Xu",
+    "Jing Zhang",
+    "Jianfei Cai",
+    "Hamid Rezatofighi",
+    "Fisher Yu",
+    "Dacheng Tao",
+    "Andreas Geiger"
+  ],
+  "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+  "type": "article"
+}

@@ -1,0 +1,20 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:CB2v5VPnA5kC",
+  "scholar_title": "Sample-Efficient Learning from Agent Experience",
+  "fetched_at": "2026-10-19T09:35:07.607813+00:00",
+  "openalex_id": "https://openalex.org/W7170671824",
+  "doi": "https://doi.org/10.48550/arxiv.2607.21051",
+  "title": "Sample-Efficient Learning from Agent Experience",
+  "publication_date": "2026-07-23",
+  "publication_year": 2026,
+  "authors": [
+    "Chenhui Gou",
+    "Haoqin Tu",
+    "Y D Fang",
+    "Jianfei Cai",
+    "Hamid Rezatofighi"
+  ],
+  "venue": "arXiv (Cornell University)",
+  "type": "preprint"
+}

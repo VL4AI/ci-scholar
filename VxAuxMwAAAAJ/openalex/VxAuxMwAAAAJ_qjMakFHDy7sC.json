@@ -1,0 +1,19 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:qjMakFHDy7sC",
+  "scholar_title": "Polar run-length features in segmentation of retinal blood vessels",
+  "fetched_at": "2026-10-19T12:38:11.145732+00:00",
+  "openalex_id": "https://openalex.org/W2161527199",
+  "doi": "https://doi.org/10.1109/icdip.2009.18",
+  "title": "Polar Run-Length Features in Segmentation of Retinal Blood Vessels",
+  "publication_date": "2009-03-01",
+  "publication_year": 2009,
+  "authors": [
+    "S. Hamid Rezatofighi",
+    "Alireza Roodaki",
+    "Amir Pourmorteza",
+    "Hamid Soltanian-zadeh A"
+  ],
+  "venue": "International Conference on Digital Image Processing",
+  "type": "conference-paper"
+}

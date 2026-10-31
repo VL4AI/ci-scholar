@@ -1,0 +1,18 @@
+{
+  "status": "matched",
+  "author_pub_id": "a7XqS_QAAAAJ:LkGwnXOMwfcC",
+  "scholar_title": "A Distributed Application Placement and Migration Management Techniques for Edge and Fog Computing Environments",
+  "fetched_at": "2026-10-19T12:11:34.114787+00:00",
+  "openalex_id": "https://openalex.org/W3189523978",
+  "doi": "https://doi.org/10.15439/2021f005",
+  "title": "A Distributed Application Placement and Migration Management Techniques for Edge and Fog Computing Environments",
+  "publication_date": "2021-09-26",
+  "publication_year": 2021,
+  "authors": [
+    "Mohammad Goudarzi",
+    "Marimuthu Swami Palaniswami",
+    "Rajkumar Buyya"
+  ],
+  "venue": "Annals of Computer Science and Information Systems",
+  "type": "conference-paper"
+}

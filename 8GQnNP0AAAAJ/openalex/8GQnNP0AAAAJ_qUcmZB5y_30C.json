@@ -1,0 +1,24 @@
+{
+  "status": "matched",
+  "author_pub_id": "8GQnNP0AAAAJ:qUcmZB5y_30C",
+  "scholar_title": "Vision-language-action safety: Threats, challenges, evaluations, and mechanisms",
+  "fetched_at": "2026-10-19T09:35:07.607813+00:00",
+  "openalex_id": "https://openalex.org/W7156621071",
+  "doi": "https://doi.org/10.48550/arxiv.2604.23775",
+  "title": "Vision-Language-Action Safety: Threats, Challenges, Evaluations, and Mechanisms",
+  "publication_date": "2026-04-26",
+  "publication_year": 2026,
+  "authors": [
+    "Qi Li",
+    "Bo Yin",
+    "Weiqi Huang",
+    "Ruhao Liu",
+    "Bojun Zou",
+    "Runpeng Yu",
+    "Jingwen Ye",
+    "Weihao Yu",
+    "Xinchao Wang"
+  ],
+  "venue": "arXiv (Cornell University)",
+  "type": "preprint"
+}

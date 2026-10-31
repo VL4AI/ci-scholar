@@ -1,0 +1,19 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:ipzZ9siozwsC",
+  "scholar_title": "Jrdb-traj: A dataset and benchmark for trajectory forecasting in crowds",
+  "fetched_at": "2026-10-19T12:24:47.792796+00:00",
+  "openalex_id": "https://openalex.org/W4388482547",
+  "doi": "https://doi.org/10.48550/arxiv.2311.02736",
+  "title": "JRDB-Traj: A Dataset and Benchmark for Trajectory Forecasting in Crowds",
+  "publication_date": "2023-11-05",
+  "publication_year": 2023,
+  "authors": [
+    "Saeed Saadatnejad",
+    "Yang Gao",
+    "Hamid Rezatofighi",
+    "Alexandre Alahi"
+  ],
+  "venue": "arXiv (Cornell University)",
+  "type": "preprint"
+}

@@ -1,0 +1,20 @@
+{
+  "status": "matched",
+  "author_pub_id": "8GQnNP0AAAAJ:0EnyYjriUFMC",
+  "scholar_title": "Dataset distillation via factorization",
+  "fetched_at": "2026-10-19T12:11:34.114787+00:00",
+  "openalex_id": "https://openalex.org/W7133208271",
+  "doi": "https://doi.org/10.52202/068431-0081",
+  "title": "Dataset Distillation Via Factorization",
+  "publication_date": "2022-01-01",
+  "publication_year": 2022,
+  "authors": [
+    "Songhua Liu",
+    "Kai Wang",
+    "Xinchao Wang",
+    "Jingwen Ye",
+    "Xinchao Wang"
+  ],
+  "venue": "neural information processing systems",
+  "type": "conference-paper"
+}

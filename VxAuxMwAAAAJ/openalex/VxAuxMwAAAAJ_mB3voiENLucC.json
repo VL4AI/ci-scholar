@@ -1,0 +1,20 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:mB3voiENLucC",
+  "scholar_title": "Multi-object model-free tracking with joint appearance and motion inference",
+  "fetched_at": "2026-10-19T12:38:11.145732+00:00",
+  "openalex_id": "https://openalex.org/W2777278462",
+  "doi": "https://doi.org/10.1109/dicta.2017.8227468",
+  "title": "Multi-Object Model-Free Tracking with Joint Appearance and Motion Inference",
+  "publication_date": "2017-11-01",
+  "publication_year": 2017,
+  "authors": [
+    "Chongyu Liu",
+    "Rui Yao",
+    "S. Hamid Rezatofighi",
+    "Ian D. Reid",
+    "Qinfeng Shi"
+  ],
+  "venue": "International Conference on Digital Image Computing: Techniques and Applications (DICTA)",
+  "type": "conference-paper"
+}

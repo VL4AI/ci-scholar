@@ -1,0 +1,19 @@
+{
+  "status": "matched",
+  "author_pub_id": "8GQnNP0AAAAJ:IWHjjKOFINEC",
+  "scholar_title": "Anatomy of a lie: A multi-stage diagnostic framework for tracing hallucinations in vision-language models",
+  "fetched_at": "2026-10-19T09:35:07.607813+00:00",
+  "openalex_id": "https://openalex.org/W7138454260",
+  "doi": "https://doi.org/10.1007/978-3-032-37258-1_32",
+  "title": "Anatomy of a Lie: A Multi-stage Diagnostic Framework for Tracing Hallucinations in Vision-Language Models",
+  "publication_date": "2026-01-01",
+  "publication_year": 2026,
+  "authors": [
+    "Lexiang Xiong",
+    "Qi Li",
+    "Jingwen Ye",
+    "Xinchao Wang"
+  ],
+  "venue": "Lecture notes in computer science",
+  "type": "conference-paper"
+}

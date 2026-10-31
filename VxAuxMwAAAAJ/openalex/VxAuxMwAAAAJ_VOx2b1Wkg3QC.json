@@ -1,0 +1,20 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:VOx2b1Wkg3QC",
+  "scholar_title": "Trackerbots: Software in the loop study of quad-copter robots for locating radio-tags in a 3D space",
+  "fetched_at": "2026-10-19T12:38:11.145732+00:00",
+  "openalex_id": "https://openalex.org/W2903178112",
+  "doi": null,
+  "title": "TrackerBots: Software in the Loop Study of Quad-Copter Robots for Locating Radio-tags in a 3D Space",
+  "publication_date": "2018-01-01",
+  "publication_year": 2018,
+  "authors": [
+    "Hoa Van Nguyen",
+    "S. Hamid Rezatofighi",
+    "David Taggart",
+    "Bertram Ostendorf",
+    "Damith Chinthana Ranasinghe"
+  ],
+  "venue": null,
+  "type": "conference-paper"
+}

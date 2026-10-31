@@ -1,0 +1,23 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:HoB7MX3m0LUC",
+  "scholar_title": "JRDB: A Dataset and Benchmark of Egocentric Robot Visual Perception of Humans in Built Environments",
+  "fetched_at": "2026-10-19T12:24:47.792796+00:00",
+  "openalex_id": "https://openalex.org/W3144974485",
+  "doi": "https://doi.org/10.1109/tpami.2021.3070543",
+  "title": "JRDB: A Dataset and Benchmark of Egocentric Robot Visual Perception of Humans in Built Environments",
+  "publication_date": "2021-04-02",
+  "publication_year": 2021,
+  "authors": [
+    "Roberto Martín-Martín",
+    "Mihir Patel",
+    "Hamid Rezatofighi",
+    "Abhijeet Shenoi",
+    "JunYoung Gwak",
+    "E. Frankel",
+    "Amir Sadeghian",
+    "Silvio Savarese"
+  ],
+  "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+  "type": "article"
+}

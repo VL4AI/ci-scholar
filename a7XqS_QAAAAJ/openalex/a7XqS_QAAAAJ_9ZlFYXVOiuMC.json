@@ -1,0 +1,20 @@
+{
+  "status": "matched",
+  "author_pub_id": "a7XqS_QAAAAJ:9ZlFYXVOiuMC",
+  "scholar_title": "Towards threat modelling of IoT context-sharing platforms",
+  "fetched_at": "2026-10-19T09:49:11.178418+00:00",
+  "openalex_id": "https://openalex.org/W4409103274",
+  "doi": "https://doi.org/10.1109/nca61908.2024.00025",
+  "title": "Towards Threat Modelling of IoT Context-Sharing Platforms",
+  "publication_date": "2024-10-24",
+  "publication_year": 2024,
+  "authors": [
+    "Mohammad Goudarzi",
+    "Arash Shaghaghi",
+    "Simon Finn",
+    "Burkhard Stillerd",
+    "Sanjay Kumar Jha"
+  ],
+  "venue": null,
+  "type": "conference-paper"
+}

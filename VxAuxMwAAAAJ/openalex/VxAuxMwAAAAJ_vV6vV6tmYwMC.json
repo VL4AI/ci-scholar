@@ -1,0 +1,20 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:vV6vV6tmYwMC",
+  "scholar_title": "Socially and Contextually Aware Human Motion and Pose Forecasting",
+  "fetched_at": "2026-10-19T12:38:11.145732+00:00",
+  "openalex_id": "https://openalex.org/W3042290681",
+  "doi": "https://doi.org/10.1109/lra.2020.3010742",
+  "title": "Socially and Contextually Aware Human Motion and Pose Forecasting",
+  "publication_date": "2020-07-21",
+  "publication_year": 2020,
+  "authors": [
+    "Vida Adeli",
+    "Ehsan Adeli",
+    "Ian D. Reid",
+    "Juan Carlos Niebles",
+    "Hamid Rezatofighi"
+  ],
+  "venue": "IEEE Robotics and Automation Letters",
+  "type": "article"
+}

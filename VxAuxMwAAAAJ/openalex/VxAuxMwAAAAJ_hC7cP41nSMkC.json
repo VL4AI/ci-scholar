@@ -1,0 +1,21 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:hC7cP41nSMkC",
+  "scholar_title": "DeepSetNet: Predicting Sets With Deep Neural Networks",
+  "fetched_at": "2026-10-19T12:38:11.145732+00:00",
+  "openalex_id": "https://openalex.org/W2557260587",
+  "doi": "https://doi.org/10.1109/iccv.2017.561",
+  "title": "DeepSetNet: Predicting Sets with Deep Neural Networks",
+  "publication_date": "2017-10-01",
+  "publication_year": 2017,
+  "authors": [
+    "S. Hamid Rezatofighi",
+    "Vijay Kumar B G",
+    "Anton Milan",
+    "Ehsan Abbasnejad",
+    "Anthony Dick",
+    "Ian D. Reid"
+  ],
+  "venue": "IEEE International Conference on Computer Vision (ICCV)",
+  "type": "conference-paper"
+}

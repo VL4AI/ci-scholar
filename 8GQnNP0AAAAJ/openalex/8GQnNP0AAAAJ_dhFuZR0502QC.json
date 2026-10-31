@@ -1,0 +1,21 @@
+{
+  "status": "matched",
+  "author_pub_id": "8GQnNP0AAAAJ:dhFuZR0502QC",
+  "scholar_title": "From One to Many: Portable Model Construction With Independent Network Units",
+  "fetched_at": "2026-10-19T09:49:11.178418+00:00",
+  "openalex_id": "https://openalex.org/W4409991099",
+  "doi": "https://doi.org/10.1109/jiot.2025.3566284",
+  "title": "From One to Many: Portable Model Construction With Independent Network Units",
+  "publication_date": "2025-05-01",
+  "publication_year": 2025,
+  "authors": [
+    "Zhaocheng Lu",
+    "Haofei Zhang",
+    "Li Sun",
+    "Jiabin Xia",
+    "Jingwen Ye",
+    "Mingli Song"
+  ],
+  "venue": "IEEE Internet of Things Journal",
+  "type": "article"
+}

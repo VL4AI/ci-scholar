@@ -1,0 +1,19 @@
+{
+  "status": "matched",
+  "author_pub_id": "a7XqS_QAAAAJ:YsMSGLbcyi4C",
+  "scholar_title": "An Application Placement Technique for Concurrent IoT Applications in Edge and Fog Computing Environments",
+  "fetched_at": "2026-10-19T12:11:34.114787+00:00",
+  "openalex_id": "https://openalex.org/W3000194269",
+  "doi": "https://doi.org/10.1109/tmc.2020.2967041",
+  "title": "An Application Placement Technique for Concurrent IoT Applications in Edge and Fog Computing Environments",
+  "publication_date": "2020-01-15",
+  "publication_year": 2020,
+  "authors": [
+    "Mohammad Goudarzi",
+    "Huaming Wu",
+    "Marimuthu Swami Palaniswami",
+    "Rajkumar Buyya"
+  ],
+  "venue": "IEEE Transactions on Mobile Computing",
+  "type": "article"
+}

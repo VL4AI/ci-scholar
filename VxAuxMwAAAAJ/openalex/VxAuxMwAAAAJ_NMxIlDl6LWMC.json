@@ -1,0 +1,21 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:NMxIlDl6LWMC",
+  "scholar_title": "Joint probabilistic data association revisited",
+  "fetched_at": "2026-10-19T12:38:11.145732+00:00",
+  "openalex_id": "https://openalex.org/W2209193152",
+  "doi": "https://doi.org/10.1109/iccv.2015.349",
+  "title": "Joint Probabilistic Data Association Revisited",
+  "publication_date": "2015-12-01",
+  "publication_year": 2015,
+  "authors": [
+    "S. Hamid Rezatofighi",
+    "Anton Milan",
+    "Zhen Zhang",
+    "Qinfeng Shi",
+    "Anthony Dick",
+    "Ian D. Reid"
+  ],
+  "venue": "IEEE International Conference on Computer Vision (ICCV)",
+  "type": "conference-paper"
+}

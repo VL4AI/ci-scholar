@@ -1,0 +1,20 @@
+{
+  "status": "matched",
+  "author_pub_id": "a7XqS_QAAAAJ:hFOr9nPyWt4C",
+  "scholar_title": "A Future in Motion: Reimagining Public Transport with Diverse Autonomous Vehicles",
+  "fetched_at": "2026-10-19T09:49:11.178418+00:00",
+  "openalex_id": "https://openalex.org/W4417283732",
+  "doi": "https://doi.org/10.1145/3748636.3760458",
+  "title": "A Future in Motion: Reimagining Public Transport with Diverse Autonomous Vehicles",
+  "publication_date": "2025-11-03",
+  "publication_year": 2025,
+  "authors": [
+    "Muhammad Aamir Cheema",
+    "Muhammad Ali Babar",
+    "Mohammed Eunus Ali",
+    "Mohammad Goudarzi",
+    "Walid G. Aref"
+  ],
+  "venue": "ACM International Conference on Advances in Geographic Information Systems (SIGSPATIAL)",
+  "type": "conference-paper"
+}

@@ -1,0 +1,1143 @@
+{
+  "generated_at": "2026-10-31T00:24:10.985538",
+  "google_scholar": {
+    "status": "success",
+    "total_citations": 3091,
+    "5y_citations": 2798,
+    "total_hindex": 21,
+    "5y_hindex": 21,
+    "total_i10index": 29,
+    "5y_i10index": 28,
+    "cites_per_year": {
+      "2018": 47,
+      "2019": 78,
+      "2020": 151,
+      "2021": 223,
+      "2022": 283,
+      "2023": 630,
+      "2024": 655,
+      "2025": 541,
+      "2026": 461
+    },
+    "publications": [
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:-f6ydRqryjwC",
+        "title": "Seek-and-View Reasoning for Multi-View Spatial Understanding",
+        "year": "2026",
+        "authors": "Q Chen, C Zhang, F Ke, CW Fu, J Cai, J Ye",
+        "venue": "arXiv preprint arXiv:2610.11810, 2026",
+        "citations": 0,
+        "openalex": {
+          "id": "https://openalex.org/W7221175283",
+          "doi": "https://doi.org/10.48550/arxiv.2610.11810",
+          "publication_date": "2026-10-08",
+          "authors": [
+            "Qixiang Chen",
+            "Cheng Zhang",
+            "Fucai Ke",
+            "Chi‐Wing Fu",
+            "Jianfei Cai",
+            "Jingwen Ye"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:TQgYirikUcIC",
+        "title": "Editverse3d: High-quality 3d object editing with region-aware learning",
+        "year": "2026",
+        "authors": "Y Yin, Y Zhou, J Wei, X Yang, J Zhang, J Bai, J Ye, W Zhang, G Lin",
+        "venue": "European Conference on Computer Vision, 494-514, 2026",
+        "citations": 2,
+        "openalex": {
+          "id": "https://openalex.org/W7167810487",
+          "doi": "https://doi.org/10.1007/978-3-032-36839-3_27",
+          "publication_date": "2026-01-01",
+          "authors": [
+            "Youtan Yin",
+            "Yanning Zhou",
+            "Jiacheng Wei",
+            "Xiaofeng Yang",
+            "Jun Zhang",
+            "Jiayang Bai",
+            "J P Ye",
+            "Weidong Zhang",
+            "Guosheng Lin"
+          ],
+          "venue": "Lecture notes in computer science"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:IWHjjKOFINEC",
+        "title": "Anatomy of a lie: A multi-stage diagnostic framework for tracing hallucinations in vision-language models",
+        "year": "2026",
+        "authors": "L Xiong, Q Li, J Ye, X Wang",
+        "venue": "European Conference on Computer Vision, 576-592, 2026",
+        "citations": 2,
+        "openalex": {
+          "id": "https://openalex.org/W7138454260",
+          "doi": "https://doi.org/10.1007/978-3-032-37258-1_32",
+          "publication_date": "2026-01-01",
+          "authors": [
+            "Lexiang Xiong",
+            "Qi Li",
+            "Jingwen Ye",
+            "Xinchao Wang"
+          ],
+          "venue": "Lecture notes in computer science"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:mB3voiENLucC",
+        "title": "VibeWorlding: Can Multimodal Agents Construct 3D Open Worlds End-to-End?",
+        "year": "2026",
+        "authors": "Y Ning, J Ye, Z Wu, Y Sun, Y Zhu, X Li, W Zhang, H Liu",
+        "venue": "arXiv preprint arXiv:2608.15265, 2026",
+        "citations": 2,
+        "openalex": {
+          "id": "https://openalex.org/W7203665571",
+          "doi": "https://doi.org/10.48550/arxiv.2608.15265",
+          "publication_date": "2026-08-15",
+          "authors": [
+            "Yansong Ning",
+            "Jingwen Ye",
+            "Wu, Zhongkai",
+            "Yang Sun",
+            "Yiqin Zhu",
+            "Xingyi Li",
+            "Weidong Zhang",
+            "Hao Liu"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:hC7cP41nSMkC",
+        "title": "Morphology semantics-guided vision language alignment for cervical cell image classification",
+        "year": "2026",
+        "authors": "J Lei, Z Feng, X Sun, J Ye, Z Yuan, J Yu, J Zhang",
+        "venue": "Pattern Recognition, 114606, 2026",
+        "citations": 0,
+        "openalex": {
+          "id": "https://openalex.org/W7202092426",
+          "doi": "https://doi.org/10.1016/j.patcog.2026.114606",
+          "publication_date": "2026-08-10",
+          "authors": [
+            "Jiaxin Lei",
+            "Zunlei Feng",
+            "Xiaoyan Sun",
+            "Jingwen Ye",
+            "Zhenming Yuan",
+            "Jun Yu",
+            "Jian Zhang"
+          ],
+          "venue": "Pattern Recognition"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:e5wmG9Sq2KIC",
+        "title": "HRBench: Benchmarking and Understanding Thinking-Mode Switch Strategies in Hybrid-Reasoning LLMs",
+        "year": "2026",
+        "authors": "Y Ning, M Liu, J Ye, W Zhang, H Liu",
+        "venue": "arXiv preprint arXiv:2605.28398, 2026",
+        "citations": 0,
+        "openalex": {
+          "id": "https://openalex.org/W7162651305",
+          "doi": "https://doi.org/10.48550/arxiv.2605.28398",
+          "publication_date": "2026-05-27",
+          "authors": [
+            "Yansong Ning",
+            "Mengna Liu",
+            "Jingwen Ye",
+            "Weidong Zhang",
+            "Hao Liu"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:qUcmZB5y_30C",
+        "title": "Vision-language-action safety: Threats, challenges, evaluations, and mechanisms",
+        "year": "2026",
+        "authors": "Q Li, B Yin, W Huang, R Liu, B Zou, R Yu, J Ye, W Yu, X Wang",
+        "venue": "arXiv preprint arXiv:2604.23775, 2026",
+        "citations": 21,
+        "openalex": {
+          "id": "https://openalex.org/W7156621071",
+          "doi": "https://doi.org/10.48550/arxiv.2604.23775",
+          "publication_date": "2026-04-26",
+          "authors": [
+            "Qi Li",
+            "Bo Yin",
+            "Weiqi Huang",
+            "Ruhao Liu",
+            "Bojun Zou",
+            "Runpeng Yu",
+            "Jingwen Ye",
+            "Weihao Yu",
+            "Xinchao Wang"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:ZeXyd9-uunAC",
+        "title": "Machine unlearning in 3d generation: A perspective-coherent acceleration framework",
+        "year": "2026",
+        "authors": "S Wang, J Ye, X Wang",
+        "venue": "Advances in Neural Information Processing Systems 38, 137831-137862, 2026",
+        "citations": 4,
+        "openalex": {
+          "id": "https://openalex.org/W7196942272",
+          "doi": "https://doi.org/10.52202/085713-4601",
+          "publication_date": "2025-01-01",
+          "authors": [
+            "Shixuan Wang",
+            "Jingwen Ye",
+            "Xinchao Wang"
+          ],
+          "venue": "neural information processing systems"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:7PzlFSSx8tAC",
+        "title": "Semantic surgery: Zero-shot concept erasure in diffusion models",
+        "year": "2026",
+        "authors": "L Xiong, L Chengyu, J Ye, Y Liu, Y Xu",
+        "venue": "Advances in Neural Information Processing Systems 38, 146199-146238, 2026",
+        "citations": 10,
+        "openalex": {
+          "id": "https://openalex.org/W7196978514",
+          "doi": "https://doi.org/10.52202/085713-4892",
+          "publication_date": "2025-01-01",
+          "authors": [
+            "Lexiang Xiong",
+            "Liu Chengyu",
+            "Jingwen Ye",
+            "YAN LIU",
+            "Yuecong Xu"
+          ],
+          "venue": "neural information processing systems"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:HDshCWvjkbEC",
+        "title": "StdGEN++: A Comprehensive System for Semantic-Decomposed 3D Character Generation",
+        "year": "2026",
+        "authors": "Y He, Y Zhou, W Zhao, J Ye, Z Wu, R Yi, YJ Liu",
+        "venue": "arXiv preprint arXiv:2601.07660, 2026",
+        "citations": 0,
+        "openalex": {
+          "id": "https://openalex.org/W7123924121",
+          "doi": "https://doi.org/10.1109/tpami.2026.3735703",
+          "publication_date": "2026-01-01",
+          "authors": [
+            "Yuze He",
+            "Yanning Zhou",
+            "Wang Zhao",
+            "Jingwen Ye",
+            "Zhongkai Wu",
+            "Ran Yi",
+            "Yong‐Jin Liu"
+          ],
+          "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:R3hNpaxXUhUC",
+        "title": "CHARM: Control-point-based 3D Anime Hairstyle Auto-Regressive Modeling",
+        "year": "2025",
+        "authors": "Y He, Y Zhou, W Zhao, J Ye, Y Bai, K Xiao, YJ Liu, Z Sun, W Yang",
+        "venue": "Proceedings of the SIGGRAPH Asia 2025 Conference Papers, 1-12, 2025",
+        "citations": 2,
+        "openalex": {
+          "id": "https://openalex.org/W7110004641",
+          "doi": "https://doi.org/10.1145/3757377.3763912",
+          "publication_date": "2025-12-08",
+          "authors": [
+            "Yuze He",
+            "Yanning Zhou",
+            "Wang Zhao",
+            "Jingwen Ye",
+            "Yushi Bai",
+            "Kaiwen Xiao",
+            "Yong‐Jin Liu",
+            "Zhongqian Sun",
+            "Wei Yang"
+          ],
+          "venue": "SIGGRAPH Asia Conference Papers"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:L8Ckcad2t8MC",
+        "title": "Artificial intelligence in digital pathology diagnosis and analysis: technologies, challenges, and future prospects",
+        "year": "2025",
+        "authors": "XM Zhang, TH Gao, QY Cai, JB Xia, YN Sun, J Yang, WH Li, SXM Zhang, ...",
+        "venue": "Military Medical Research 12 (1), 93, 2025",
+        "citations": 47,
+        "openalex": {
+          "id": "https://openalex.org/W7118128090",
+          "doi": "https://doi.org/10.1186/s40779-025-00680-6",
+          "publication_date": "2026-01-04",
+          "authors": [
+            "Xiu-Ming Zhang",
+            "Tian-Hong Gao",
+            "Qiu-Yu Cai",
+            "Jia-Bin Xia",
+            "Yuning Sun",
+            "Jian Ming Yang",
+            "Weihan Li",
+            "Sheng-Xu-Ming Zhang",
+            "Heng-Rui Lou",
+            "Xinfeng Yu",
+            "Kai-Wen Hu",
+            "Jing-Wen Ye",
+            "Jin-Xing Zhang",
+            "Jin-Xing Zhang",
+            "Jie Lei",
+            "Le-Chao Cheng",
+            "Linjie Xu",
+            "Qing Chen",
+            "He-Xiang Wang",
+            "Meifu Gan",
+            "Nan Pu",
+            "Nan Pu",
+            "Ming-Li Song",
+            "Xin Chen",
+            "Wen-Jie Liang",
+            "Han Lv",
+            "Chao-qing Xu",
+            "Zai-Yi Liu",
+            "Jing Zhang",
+            "Jing Zhang",
+            "Kai Yan",
+            "Zunlei Feng"
+          ],
+          "venue": "Military Medical Research"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:qxL8FJ1GzNcC",
+        "title": "Heavy labels out! dataset distillation with label space lightening",
+        "year": "2025",
+        "authors": "R Yu, S Liu, Z Chen, J Ye, X Wang",
+        "venue": "2025 IEEE/CVF International Conference on Computer Vision (ICCV), 5017-5026, 2025",
+        "citations": 7,
+        "openalex": {
+          "id": "https://openalex.org/W4406023990",
+          "doi": "https://doi.org/10.1109/iccv51701.2025.00477",
+          "publication_date": "2025-10-19",
+          "authors": [
+            "Ruonan Yu",
+            "Songhua Liu",
+            "Zigeng Chen",
+            "Jingwen Ye",
+            "Xinchao Wang"
+          ],
+          "venue": "IEEE/CVF International Conference on Computer Vision (ICCV)"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:hFOr9nPyWt4C",
+        "title": "Primitiveanything: Human-crafted 3d primitive assembly generation with auto-regressive transformer",
+        "year": "2025",
+        "authors": "J Ye, Y He, Y Zhou, Y Zhu, K Xiao, YJ Liu, W Yang, X Han",
+        "venue": "Proceedings of the Special Interest Group on Computer Graphics and …, 2025",
+        "citations": 21,
+        "openalex": {
+          "id": "https://openalex.org/W4412590219",
+          "doi": "https://doi.org/10.1145/3721238.3730732",
+          "publication_date": "2025-07-23",
+          "authors": [
+            "Jing-Ting Ye",
+            "Yuze He",
+            "Yanning Zhou",
+            "Yiqin Zhu",
+            "Kaiwen Xiao",
+            "Yong‐Jin Liu",
+            "Wei Yang",
+            "Xiao Han"
+          ],
+          "venue": "ACM SIGGRAPH Conference Papers (SIGGRAPH)"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:QIV2ME_5wuYC",
+        "title": "Reinforced model merging",
+        "year": "2025",
+        "authors": "J Han, J Ye, S Liu, H Zhang, J Song, Z Feng, M Song",
+        "venue": "2025 IEEE International Conference on Multimedia and Expo (ICME), 1-6, 2025",
+        "citations": 2,
+        "openalex": {
+          "id": "https://openalex.org/W4415708847",
+          "doi": "https://doi.org/10.1109/icme59968.2025.11210035",
+          "publication_date": "2025-06-30",
+          "authors": [
+            "Jiaqi Han",
+            "Jingwen Ye",
+            "Shunyu Liu",
+            "Haofei Zhang",
+            "Jie Song",
+            "Zunlei Feng",
+            "Mingli Song"
+          ],
+          "venue": "IEEE International Conference on Multimedia and Expo (ICME)"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:dhFuZR0502QC",
+        "title": "From One to Many: Portable Model Construction With Independent Network Units",
+        "year": "2025",
+        "authors": "Z Lu, H Zhang, L Sun, J Xia, J Ye, M Song",
+        "venue": "IEEE Internet of Things Journal 12 (14), 28092-28101, 2025",
+        "citations": 2,
+        "openalex": {
+          "id": "https://openalex.org/W4409991099",
+          "doi": "https://doi.org/10.1109/jiot.2025.3566284",
+          "publication_date": "2025-05-01",
+          "authors": [
+            "Zhaocheng Lu",
+            "Haofei Zhang",
+            "Li Sun",
+            "Jiabin Xia",
+            "Jingwen Ye",
+            "Mingli Song"
+          ],
+          "venue": "IEEE Internet of Things Journal"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:9ZlFYXVOiuMC",
+        "title": "Model lego: Creating models like disassembling and assembling building blocks",
+        "year": "2024",
+        "authors": "J Hu, J Gao, J Ye, Y Gao, X Wang, Z Feng, M Song",
+        "venue": "Advances in Neural Information Processing Systems 37, 127711-127738, 2024",
+        "citations": 7,
+        "openalex": {
+          "id": "https://openalex.org/W4415795227",
+          "doi": "https://doi.org/10.52202/079017-4055",
+          "publication_date": "2024-01-01",
+          "authors": [
+            "Jiacong Hu",
+            "Jing Gao",
+            "Jingwen Ye",
+            "Yang Gao",
+            "Xingen Wang",
+            "Zunlei Feng",
+            "Mingli Song"
+          ],
+          "venue": "neural information processing systems"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:mVmsd5A6BfQC",
+        "title": "Transformer doctor: Diagnosing and treating vision transformers",
+        "year": "2024",
+        "authors": "J Hu, H Chen, K Chen, Y Gao, J Ye, X Wang, M Song, Z Feng",
+        "venue": "Advances in Neural Information Processing Systems 37, 54026-54053, 2024",
+        "citations": 5,
+        "openalex": {
+          "id": "https://openalex.org/W4415797625",
+          "doi": "https://doi.org/10.52202/079017-1711",
+          "publication_date": "2024-01-01",
+          "authors": [
+            "Jiacong Hu",
+            "Hao Chen",
+            "Kejia Chen",
+            "Yang Gao",
+            "Jingwen Ye",
+            "Xingen Wang",
+            "Mingli Song",
+            "Zunlei Feng"
+          ],
+          "venue": "neural information processing systems"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:aqlVkmm33-oC",
+        "title": "Teddy: Efficient large-scale dataset distillation via taylor-approximated matching",
+        "year": "2024",
+        "authors": "R Yu, S Liu, J Ye, X Wang",
+        "venue": "European Conference on Computer Vision, 1-17, 2024",
+        "citations": 26,
+        "openalex": {
+          "id": "https://openalex.org/W4403003380",
+          "doi": "https://doi.org/10.1007/978-3-031-72952-2_1",
+          "publication_date": "2024-09-30",
+          "authors": [
+            "Ruonan Yu",
+            "Songhua Liu",
+            "Jingwen Ye",
+            "Xinchao Wang"
+          ],
+          "venue": "Lecture notes in computer science"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:YOwf2qJgpHMC",
+        "title": "Ungeneralizable examples",
+        "year": "2024",
+        "authors": "J Ye, X Wang",
+        "venue": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …, 2024",
+        "citations": 14,
+        "openalex": {
+          "id": "https://openalex.org/W4402704620",
+          "doi": "https://doi.org/10.1109/cvpr52733.2024.01135",
+          "publication_date": "2024-06-16",
+          "authors": [
+            "Jingwen Ye",
+            "Xinchao Wang"
+          ],
+          "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:ULOm3_A8WrAC",
+        "title": "Distilled datamodel with reverse gradient matching",
+        "year": "2024",
+        "authors": "J Ye, R Yu, S Liu, X Wang",
+        "venue": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …, 2024",
+        "citations": 6,
+        "openalex": {
+          "id": "https://openalex.org/W4402660145",
+          "doi": "https://doi.org/10.1109/cvpr52733.2024.01136",
+          "publication_date": "2024-06-16",
+          "authors": [
+            "Jingwen Ye",
+            "Ruonan Yu",
+            "Songhua Liu",
+            "Xinchao Wang"
+          ],
+          "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:4TOpqqG69KYC",
+        "title": "Improving adversarial robustness via feature pattern consistency constraint",
+        "year": "2024",
+        "authors": "J Hu, J Ye, Z Feng, J Yang, S Liu, X Yu, L Jia, M Song",
+        "venue": "arXiv preprint arXiv:2406.08829, 2024",
+        "citations": 9,
+        "openalex": {
+          "id": "https://openalex.org/W4401024803",
+          "doi": "https://doi.org/10.24963/ijcai.2024/94",
+          "publication_date": "2024-07-26",
+          "authors": [
+            "Jiacong Hu",
+            "Jingwen Ye",
+            "Zunlei Feng",
+            "Jiazhen Yang",
+            "Shunyu Liu",
+            "Xiaotian Yu",
+            "Lingxiang Jia",
+            "Mingli Song"
+          ],
+          "venue": null
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:_kc_bZDykSQC",
+        "title": "Stydesty: Min-max stylization and destylization for single domain generalization",
+        "year": "2024",
+        "authors": "S Liu, X Jin, X Yang, J Ye, X Wang",
+        "venue": "arXiv preprint arXiv:2406.00275, 2024",
+        "citations": 18,
+        "openalex": {
+          "id": "https://openalex.org/W4399394911",
+          "doi": "https://doi.org/10.48550/arxiv.2406.00275",
+          "publication_date": "2024-06-01",
+          "authors": [
+            "Songhua Liu",
+            "Xin Jin",
+            "Xingyi Yang",
+            "Jingwen Ye",
+            "Xinchao Wang"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:Zph67rFs4hoC",
+        "title": "Mutual-modality adversarial attack with semantic perturbation",
+        "year": "2024",
+        "authors": "J Ye, R Yu, S Liu, X Wang",
+        "venue": "Proceedings of the AAAI conference on artificial intelligence 38 (7), 6657-6665, 2024",
+        "citations": 29,
+        "openalex": {
+          "id": "https://openalex.org/W4393148027",
+          "doi": "https://doi.org/10.1609/aaai.v38i7.28488",
+          "publication_date": "2024-03-24",
+          "authors": [
+            "Jingwen Ye",
+            "Ruonan Yu",
+            "Songhua Liu",
+            "Xinchao Wang"
+          ],
+          "venue": "Proceedings of the AAAI Conference on Artificial Intelligence"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:KlAtU1dfN6UC",
+        "title": "Improving expressivity of gnns with subgraph-specific factor embedded normalization",
+        "year": "2023",
+        "authors": "K Chen, S Liu, T Zhu, J Qiao, Y Su, Y Tian, T Zheng, H Zhang, Z Feng, ...",
+        "venue": "Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and …, 2023",
+        "citations": 30,
+        "openalex": {
+          "id": "https://openalex.org/W4385567890",
+          "doi": "https://doi.org/10.1145/3580305.3599388",
+          "publication_date": "2023-08-04",
+          "authors": [
+            "Kaixuan Chen",
+            "Shunyu Liu",
+            "Tongtian Zhu",
+            "Qiao Ji",
+            "Yun Su",
+            "Yingjie Tian",
+            "Tongya Zheng",
+            "Haofei Zhang",
+            "Zunlei Feng",
+            "Jingwen Ye",
+            "Mingli Song"
+          ],
+          "venue": "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:kNdYIx-mwKoC",
+        "title": "Slimmable dataset condensation",
+        "year": "2023",
+        "authors": "S Liu, J Ye, R Yu, X Wang",
+        "venue": "2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …, 2023",
+        "citations": 74,
+        "openalex": {
+          "id": "https://openalex.org/W4386057733",
+          "doi": "https://doi.org/10.1109/cvpr52729.2023.00366",
+          "publication_date": "2023-06-01",
+          "authors": [
+            "Songhua Liu",
+            "Jingwen Ye",
+            "Runpeng Yu",
+            "Xinchao Wang"
+          ],
+          "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:MXK_kJrjxJIC",
+        "title": "Partial network cloning",
+        "year": "2023",
+        "authors": "J Ye, S Liu, X Wang",
+        "venue": "2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …, 2023",
+        "citations": 26,
+        "openalex": {
+          "id": "https://openalex.org/W4386065351",
+          "doi": "https://doi.org/10.1109/cvpr52729.2023.01928",
+          "publication_date": "2023-06-01",
+          "authors": [
+            "Jingwen Ye",
+            "Songhua Liu",
+            "Xinchao Wang"
+          ],
+          "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:M3ejUd6NZC8C",
+        "title": "Any-to-any style transfer: Making picasso and da vinci collaborate",
+        "year": "2023",
+        "authors": "S Liu, J Ye, X Wang",
+        "venue": "arXiv preprint arXiv:2304.09728, 2023",
+        "citations": 22,
+        "openalex": {
+          "id": "https://openalex.org/W4366731931",
+          "doi": "https://doi.org/10.48550/arxiv.2304.09728",
+          "publication_date": "2023-04-19",
+          "authors": [
+            "Songhua Liu",
+            "Jingwen Ye",
+            "Xinchao Wang"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:8k81kl-MbHgC",
+        "title": "Flocking birds of a feather together: Dual-step gan distillation via realer-fake samples",
+        "year": "2022",
+        "authors": "J Ye, Z Feng, X Wang",
+        "venue": "2022 IEEE International Conference on Visual Communications and Image …, 2022",
+        "citations": 3,
+        "openalex": {
+          "id": "https://openalex.org/W4316659983",
+          "doi": "https://doi.org/10.1109/vcip56404.2022.10008799",
+          "publication_date": "2022-12-13",
+          "authors": [
+            "Jingwen Ye",
+            "Zunlei Feng",
+            "Xinchao Wang"
+          ],
+          "venue": "IEEE International Conference on Visual Communications and Image Processing (VCIP)"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:5nxA0vEk-isC",
+        "title": "Deep model reassembly",
+        "year": "2022",
+        "authors": "X Yang, D Zhou, S Liu, J Ye, X Wang",
+        "venue": "Advances in neural information processing systems 35, 25739-25753, 2022",
+        "citations": 211,
+        "openalex": {
+          "id": "https://openalex.org/W7133245285",
+          "doi": "https://doi.org/10.52202/068431-1866",
+          "publication_date": "2022-01-01",
+          "authors": [
+            "Xingyi Yang",
+            "Daquan Zhou",
+            "Songhua Liu",
+            "Jingwen Ye",
+            "Xinchao Wang"
+          ],
+          "venue": "neural information processing systems"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:0EnyYjriUFMC",
+        "title": "Dataset distillation via factorization",
+        "year": "2022",
+        "authors": "S Liu, K Wang, X Yang, J Ye, X Wang",
+        "venue": "Advances in neural information processing systems 35, 1100-1113, 2022",
+        "citations": 253,
+        "openalex": {
+          "id": "https://openalex.org/W7133208271",
+          "doi": "https://doi.org/10.52202/068431-0081",
+          "publication_date": "2022-01-01",
+          "authors": [
+            "Songhua Liu",
+            "Kai Wang",
+            "Xinchao Wang",
+            "Jingwen Ye",
+            "Xinchao Wang"
+          ],
+          "venue": "neural information processing systems"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:UebtZRa9Y70C",
+        "title": "Unleashing the potential of adaptation models via go-getting domain labels",
+        "year": "2022",
+        "authors": "X Jin, T He, X Shen, S Wu, T Liu, J Ye, X Wang, J Huang, Z Chen, XS Hua",
+        "venue": "European Conference on Computer Vision, 308-325, 2022",
+        "citations": 1,
+        "openalex": {
+          "id": "https://openalex.org/W4320036913",
+          "doi": "https://doi.org/10.1007/978-3-031-25085-9_18",
+          "publication_date": "2023-01-01",
+          "authors": [
+            "Xin Yu Jin",
+            "Tianyu He",
+            "Xu Hui Shen",
+            "Songhua Wu",
+            "Tongliang Liu",
+            "Jingwen Ye",
+            "Xinchao Wang",
+            "Jianqiang Huang",
+            "Zhibo Chen",
+            "Xian‐Sheng Hua"
+          ],
+          "venue": "Lecture notes in computer science"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:LkGwnXOMwfcC",
+        "title": "Learning with recoverable forgetting",
+        "year": "2022",
+        "authors": "J Ye, Y Fu, J Song, X Yang, S Liu, X Jin, M Song, X Wang",
+        "venue": "European Conference on Computer Vision, 87-103, 2022",
+        "citations": 75,
+        "openalex": {
+          "id": "https://openalex.org/W4312874698",
+          "doi": "https://doi.org/10.1007/978-3-031-20083-0_6",
+          "publication_date": "2022-01-01",
+          "authors": [
+            "Jingwen Ye",
+            "Yifang Fu",
+            "Jie Song",
+            "Xingyi Yang",
+            "Songhua Liu",
+            "Xin Jin",
+            "Mingli Song",
+            "Xinchao Wang"
+          ],
+          "venue": "Lecture notes in computer science"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:ufrVoPGSRksC",
+        "title": "Factorizing knowledge in neural networks",
+        "year": "2022",
+        "authors": "X Yang, J Ye, X Wang",
+        "venue": "European Conference on Computer Vision, 73-91, 2022",
+        "citations": 178,
+        "openalex": {
+          "id": "https://openalex.org/W4312599584",
+          "doi": "https://doi.org/10.1007/978-3-031-19830-4_5",
+          "publication_date": "2022-01-01",
+          "authors": [
+            "Xingyi Yang",
+            "Jingwen Ye",
+            "Xinchao Wang"
+          ],
+          "venue": "Lecture notes in computer science"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:_FxGoFyzp5QC",
+        "title": "Dynast: Dynamic sparse transformer for exemplar-guided image generation",
+        "year": "2022",
+        "authors": "S Liu, J Ye, S Ren, X Wang",
+        "venue": "European Conference on Computer Vision, 72-90, 2022",
+        "citations": 62,
+        "openalex": {
+          "id": "https://openalex.org/W4312246184",
+          "doi": "https://doi.org/10.1007/978-3-031-19787-1_5",
+          "publication_date": "2022-01-01",
+          "authors": [
+            "Songhua Liu",
+            "Jingwen Ye",
+            "Sucheng Ren",
+            "Xinchao Wang"
+          ],
+          "venue": "Lecture notes in computer science"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:roLk4NBRz8UC",
+        "title": "A survey of neural trees",
+        "year": "2022",
+        "authors": "H Li, J Song, M Xue, H Zhang, J Ye, L Cheng, M Song",
+        "venue": "arXiv preprint arXiv:2209.03415, 2022",
+        "citations": 20,
+        "openalex": {
+          "id": "https://openalex.org/W4295106973",
+          "doi": "https://doi.org/10.48550/arxiv.2209.03415",
+          "publication_date": "2022-09-07",
+          "authors": [
+            "Haoling Li",
+            "Jie Song",
+            "Mengqi Xue",
+            "Haofei Zhang",
+            "Jingwen Ye",
+            "Lechao Cheng",
+            "Mingli Song"
+          ],
+          "venue": "arXiv (Cornell University)"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:eQOLeE2rZwMC",
+        "title": "Safe distillation box",
+        "year": "2022",
+        "authors": "J Ye, Y Mao, J Song, X Wang, C Jin, M Song",
+        "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 36 (3), 3117-3124, 2022",
+        "citations": 19,
+        "openalex": {
+          "id": "https://openalex.org/W4226404822",
+          "doi": "https://doi.org/10.1609/aaai.v36i3.20219",
+          "publication_date": "2022-06-28",
+          "authors": [
+            "Jingwen Ye",
+            "Yining Mao",
+            "Jie Song",
+            "Xinchao Wang",
+            "Cheng Jin",
+            "Mingli Song"
+          ],
+          "venue": "Proceedings of the AAAI Conference on Artificial Intelligence"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:WF5omc3nYNoC",
+        "title": "Spot-adaptive knowledge distillation",
+        "year": "2022",
+        "authors": "J Song, Y Chen, J Ye, M Song",
+        "venue": "IEEE Transactions on Image Processing 31, 3359-3370, 2022",
+        "citations": 130,
+        "openalex": {
+          "id": "https://openalex.org/W4225385394",
+          "doi": "https://doi.org/10.1109/tip.2022.3170728",
+          "publication_date": "2022-01-01",
+          "authors": [
+            "Jie Song",
+            "Ying Chen",
+            "Jingwen Ye",
+            "Mingli Song"
+          ],
+          "venue": "IEEE Transactions on Image Processing"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:YsMSGLbcyi4C",
+        "title": "Towards End-to-End Embroidery Style Generation: A Paired Dataset and Benchmark",
+        "year": "2021",
+        "authors": "J Ye, Y Ji, J Song, Z Feng, M Song",
+        "venue": "Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 201-213, 2021",
+        "citations": 2,
+        "openalex": {
+          "id": "https://openalex.org/W3211293403",
+          "doi": "https://doi.org/10.1007/978-3-030-88013-2_17",
+          "publication_date": "2021-01-01",
+          "authors": [
+            "Jingwen Ye",
+            "Yixin Ji",
+            "Jie Song",
+            "Zunlei Feng",
+            "Mingli Song"
+          ],
+          "venue": "Lecture notes in computer science"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:W7OEmFMy1HYC",
+        "title": "Online knowledge distillation for efficient pose estimation",
+        "year": "2021",
+        "authors": "Z Li, J Ye, M Song, Y Huang, Z Pan",
+        "venue": "2021 IEEE/CVF International Conference on Computer Vision (ICCV), 11720-11730, 2021",
+        "citations": 181,
+        "openalex": {
+          "id": "https://openalex.org/W3187458216",
+          "doi": "https://doi.org/10.1109/iccv48922.2021.01153",
+          "publication_date": "2021-10-01",
+          "authors": [
+            "Zheng Li",
+            "Jingwen Ye",
+            "Mingli Song",
+            "Ying Huang",
+            "Zhigeng Pan"
+          ],
+          "venue": "IEEE/CVF International Conference on Computer Vision (ICCV)"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:UeHWp8X0CEIC",
+        "title": "Data-free knowledge amalgamation via group-stack dual-gan",
+        "year": "2020",
+        "authors": "J Ye, Y Ji, X Wang, X Gao, M Song",
+        "venue": "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …, 2020",
+        "citations": 76,
+        "openalex": {
+          "id": "https://openalex.org/W3034619766",
+          "doi": "https://doi.org/10.1109/cvpr42600.2020.01253",
+          "publication_date": "2020-06-01",
+          "authors": [
+            "Jingwen Ye",
+            "Yixin Ji",
+            "Xinchao Wang",
+            "Xin Gao",
+            "Mingli Song"
+          ],
+          "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:qjMakFHDy7sC",
+        "title": "Depara: Deep attribution graph for deep knowledge transferability",
+        "year": "2020",
+        "authors": "J Song, Y Chen, J Ye, X Wang, C Shen, F Mao, M Song",
+        "venue": "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …, 2020",
+        "citations": 40,
+        "openalex": {
+          "id": "https://openalex.org/W3034776059",
+          "doi": "https://doi.org/10.1109/cvpr42600.2020.00398",
+          "publication_date": "2020-06-01",
+          "authors": [
+            "Jie Song",
+            "Yixin Chen",
+            "Jingwen Ye",
+            "Xinchao Wang",
+            "Chengchao Shen",
+            "Feng Mao",
+            "Mingli Song"
+          ],
+          "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:2osOgNQ5qMEC",
+        "title": "Edge-sensitive human cutout with hierarchical granularity and loopy matting guidance",
+        "year": "2019",
+        "authors": "J Ye, Y Jing, X Wang, K Ou, D Tao, M Song",
+        "venue": "IEEE Transactions on Image Processing 29, 1177-1191, 2019",
+        "citations": 15,
+        "openalex": {
+          "id": "https://openalex.org/W2972044797",
+          "doi": "https://doi.org/10.1109/tip.2019.2930146",
+          "publication_date": "2019-09-05",
+          "authors": [
+            "Jingwen Ye",
+            "Yongcheng Jing",
+            "Xinchao Wang",
+            "Kairi Ou",
+            "Dacheng Tao",
+            "Mingli Song"
+          ],
+          "venue": "IEEE Transactions on Image Processing"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:u5HHmVD_uO8C",
+        "title": "Student becoming the master: Knowledge amalgamation for joint scene parsing, depth estimation, and more",
+        "year": "2019",
+        "authors": "J Ye, Y Ji, X Wang, K Ou, D Tao, M Song",
+        "venue": "2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …, 2019",
+        "citations": 79,
+        "openalex": {
+          "id": "https://openalex.org/W2963370235",
+          "doi": "https://doi.org/10.1109/cvpr.2019.00294",
+          "publication_date": "2019-06-01",
+          "authors": [
+            "Jingwen Ye",
+            "Yixin Ji",
+            "Xinchao Wang",
+            "Kairi Ou",
+            "Dapeng Tao",
+            "Mingli Song"
+          ],
+          "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:9yKSN-GCB0IC",
+        "title": "Neural style transfer: A review",
+        "year": "2019",
+        "authors": "Y Jing, Y Yang, Z Feng, J Ye, Y Yu, M Song",
+        "venue": "IEEE transactions on visualization and computer graphics 26 (11), 3365-3385, 2019",
+        "citations": 1271,
+        "openalex": {
+          "id": "https://openalex.org/W2962750014",
+          "doi": "https://doi.org/10.1109/tvcg.2019.2921336",
+          "publication_date": "2019-06-06",
+          "authors": [
+            "Yongcheng Jing",
+            "Yezhou Yang",
+            "Zunlei Feng",
+            "Jingwen Ye",
+            "Yizhou Yu",
+            "Mingli Song"
+          ],
+          "venue": "IEEE Transactions on Visualization and Computer Graphics"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:IjCSPb-OGe4C",
+        "title": "Kairi Ou, Dapeng Tao, and Mingli Song. Student becoming the master: Knowledge amalgamation for joint scene parsing, depth estimation, and more",
+        "year": "2019",
+        "authors": "J Ye, Y Ji, X Wang",
+        "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2019",
+        "citations": 34,
+        "openalex": null
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:u-x6o8ySG0sC",
+        "title": "Amalgamating filtered knowledge: Learning task-customized student from multi-task teachers",
+        "year": "2019",
+        "authors": "J Ye, X Wang, Y Ji, K Ou, M Song",
+        "venue": "arXiv preprint arXiv:1905.11569, 2019",
+        "citations": 38,
+        "openalex": {
+          "id": "https://openalex.org/W2947696193",
+          "doi": "https://doi.org/10.24963/ijcai.2019/573",
+          "publication_date": "2019-07-28",
+          "authors": [
+            "Jingwen Ye",
+            "Xinchao Wang",
+            "Yixin Ji",
+            "Kairi Ou",
+            "Mingli Song"
+          ],
+          "venue": "International Joint Conference on Artificial Intelligence"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:d1gkVwhDpl0C",
+        "title": "Finer-net: Cascaded human parsing with hierarchical granularity",
+        "year": "2018",
+        "authors": "J Ye, Z Feng, Y Jing, M Song",
+        "venue": "2018 IEEE International Conference on Multimedia and Expo (ICME), 1-6, 2018",
+        "citations": 15,
+        "openalex": {
+          "id": "https://openalex.org/W2897002586",
+          "doi": "https://doi.org/10.1109/icme.2018.8486505",
+          "publication_date": "2018-07-01",
+          "authors": [
+            "Jingwen Ye",
+            "Zunlei Feng",
+            "Yongcheng Jing",
+            "Mingli Song"
+          ],
+          "venue": "IEEE International Conference on Multimedia and Expo (ICME)"
+        }
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:4DMP91E08xMC",
+        "title": "Teddy: Efficient Large-Scale Dataset Distillation via Taylor-Approximated Matching-Supplementary Materials",
+        "year": "",
+        "authors": "R Yu, S Liu, J Ye, X Wang",
+        "venue": "",
+        "citations": 0,
+        "openalex": null
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:hqOjcs7Dif8C",
+        "title": "Factorizing Knowledge in Neural Networks-Supplementary Materials",
+        "year": "",
+        "authors": "X Yang, J Ye, X Wang",
+        "venue": "",
+        "citations": 0,
+        "openalex": null
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:Se3iqnhoufwC",
+        "title": "Supplementary: Unleashing the Potential of Adaptation Models via Go-getting Domain Labels",
+        "year": "",
+        "authors": "X Jin, T He, X Shen, S Wu, T Liu, J Ye, X Wang, J Huang, Z Chen, XS Hua",
+        "venue": "",
+        "citations": 0,
+        "openalex": null
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:Y0pCki6q_DkC",
+        "title": "Data-Free Knowledge Amalgamation via Group-Stack Dual-GAN–Supplementary Material–",
+        "year": "",
+        "authors": "J Ye, Y Ji, X Wang, X Gao, M Song",
+        "venue": "",
+        "citations": 0,
+        "openalex": null
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:Tyk-4Ss8FVUC",
+        "title": "DEPARA: Deep Attribution Graph for Deep Knowledge Transferability–Supplementary Material–",
+        "year": "",
+        "authors": "J Song, Y Chen, J Ye, X Wang, C Shen, F Mao, M Song",
+        "venue": "",
+        "citations": 0,
+        "openalex": null
+      },
+      {
+        "author_pub_id": "8GQnNP0AAAAJ:zYLM7Y9cAGgC",
+        "title": "Student Becoming the Master: Knowledge Amalgamation for Joint Scene Parsing, Depth Estimation, and More–Supplementary Material–",
+        "year": "",
+        "authors": "J Ye, Y Ji, X Wang, K Ou, D Tao, M Song",
+        "venue": "",
+        "citations": 0,
+        "openalex": null
+      }
+    ],
+    "error": null
+  },
+  "web_of_science": {
+    "status": "skipped",
+    "peer_reviews": 0,
+    "error": null
+  }
+}

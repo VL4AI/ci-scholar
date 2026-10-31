@@ -1,0 +1,18 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:ufrVoPGSRksC",
+  "scholar_title": "A new approach for spot detection in total internal reflection fluorescence microscopy",
+  "fetched_at": "2026-10-19T12:38:11.145732+00:00",
+  "openalex_id": "https://openalex.org/W1980219685",
+  "doi": "https://doi.org/10.1109/isbi.2012.6235684",
+  "title": "A new approach for spot detection in total internal reflection fluorescence microscopy",
+  "publication_date": "2012-05-01",
+  "publication_year": 2012,
+  "authors": [
+    "S. Hamid Rezatofighi",
+    "Richard I. Hartley",
+    "William E. Hughes"
+  ],
+  "venue": "IEEE International Symposium on Biomedical Imaging (ISBI)",
+  "type": "conference-paper"
+}

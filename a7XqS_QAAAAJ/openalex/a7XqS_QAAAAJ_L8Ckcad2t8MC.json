@@ -1,0 +1,18 @@
+{
+  "status": "matched",
+  "author_pub_id": "a7XqS_QAAAAJ:L8Ckcad2t8MC",
+  "scholar_title": "ReinFog: A Deep Reinforcement Learning empowered framework for resource management in edge and cloud computing environments",
+  "fetched_at": "2026-10-19T09:35:07.607813+00:00",
+  "openalex_id": "https://openalex.org/W4411461440",
+  "doi": "https://doi.org/10.1016/j.jnca.2025.104250",
+  "title": "ReinFog: A Deep Reinforcement Learning empowered framework for resource management in edge and cloud computing environments",
+  "publication_date": "2025-06-19",
+  "publication_year": 2025,
+  "authors": [
+    "Zhiyu Wang",
+    "Mohammad Goudarzi",
+    "Rajkumar Buyya"
+  ],
+  "venue": "Journal of Network and Computer Applications",
+  "type": "article"
+}

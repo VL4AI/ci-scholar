@@ -1,0 +1,23 @@
+{
+  "status": "matched",
+  "author_pub_id": "8GQnNP0AAAAJ:mB3voiENLucC",
+  "scholar_title": "VibeWorlding: Can Multimodal Agents Construct 3D Open Worlds End-to-End?",
+  "fetched_at": "2026-10-19T09:35:07.607813+00:00",
+  "openalex_id": "https://openalex.org/W7203665571",
+  "doi": "https://doi.org/10.48550/arxiv.2608.15265",
+  "title": "VibeWorlding: Can Multimodal Agents Construct 3D Open Worlds End-to-End?",
+  "publication_date": "2026-08-15",
+  "publication_year": 2026,
+  "authors": [
+    "Yansong Ning",
+    "Jingwen Ye",
+    "Wu, Zhongkai",
+    "Yang Sun",
+    "Yiqin Zhu",
+    "Xingyi Li",
+    "Weidong Zhang",
+    "Hao Liu"
+  ],
+  "venue": "arXiv (Cornell University)",
+  "type": "preprint"
+}

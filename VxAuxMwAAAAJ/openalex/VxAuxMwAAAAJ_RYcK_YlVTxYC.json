@@ -1,0 +1,21 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:RYcK_YlVTxYC",
+  "scholar_title": "Joint learning of Social Groups, Individuals Action and Sub-group Activities in Videos",
+  "fetched_at": "2026-10-19T12:38:11.145732+00:00",
+  "openalex_id": "https://openalex.org/W3039930990",
+  "doi": "https://doi.org/10.1007/978-3-030-58545-7_11",
+  "title": "Joint Learning of Social Groups, Individuals Action and Sub-group Activities in Videos",
+  "publication_date": "2020-01-01",
+  "publication_year": 2020,
+  "authors": [
+    "Mahsa Ehsanpour",
+    "Alireza Abedin",
+    "Fatemeh Sadat Saleh",
+    "Qinfeng Shi",
+    "Ian D. Reid",
+    "Hamid Rezatofighi"
+  ],
+  "venue": "Lecture notes in computer science",
+  "type": "conference-paper"
+}

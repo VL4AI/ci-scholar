@@ -1,0 +1,18 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:Ehil0879vHcC",
+  "scholar_title": "JRDB-Pose3D: A Multi-person 3D Human Pose and Shape Estimation Dataset for Robotics",
+  "fetched_at": "2026-10-19T09:49:11.178418+00:00",
+  "openalex_id": "https://openalex.org/W7127603244",
+  "doi": "https://doi.org/10.48550/arxiv.2602.03064",
+  "title": "JRDB-Pose3D: A Multi-person 3D Human Pose and Shape Estimation Dataset for Robotics",
+  "publication_date": "2026-02-03",
+  "publication_year": 2026,
+  "authors": [
+    "Sandika Biswas",
+    "Kian Izadpanah",
+    "Hamid Rezatofighi"
+  ],
+  "venue": "arXiv (Cornell University)",
+  "type": "preprint"
+}

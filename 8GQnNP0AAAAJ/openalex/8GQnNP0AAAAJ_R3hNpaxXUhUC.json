@@ -1,0 +1,24 @@
+{
+  "status": "matched",
+  "author_pub_id": "8GQnNP0AAAAJ:R3hNpaxXUhUC",
+  "scholar_title": "CHARM: Control-point-based 3D Anime Hairstyle Auto-Regressive Modeling",
+  "fetched_at": "2026-10-19T09:35:07.607813+00:00",
+  "openalex_id": "https://openalex.org/W7110004641",
+  "doi": "https://doi.org/10.1145/3757377.3763912",
+  "title": "CHARM: Control-point-based 3D Anime Hairstyle Auto-Regressive Modeling",
+  "publication_date": "2025-12-08",
+  "publication_year": 2025,
+  "authors": [
+    "Yuze He",
+    "Yanning Zhou",
+    "Wang Zhao",
+    "Jingwen Ye",
+    "Yushi Bai",
+    "Kaiwen Xiao",
+    "Yong‐Jin Liu",
+    "Zhongqian Sun",
+    "Wei Yang"
+  ],
+  "venue": "SIGGRAPH Asia Conference Papers",
+  "type": "conference-paper"
+}

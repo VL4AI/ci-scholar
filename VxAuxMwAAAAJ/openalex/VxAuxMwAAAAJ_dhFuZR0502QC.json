@@ -1,0 +1,20 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:dhFuZR0502QC",
+  "scholar_title": "Data-driven approximations to NP-hard problems",
+  "fetched_at": "2026-10-19T12:38:11.145732+00:00",
+  "openalex_id": "https://openalex.org/W2604308046",
+  "doi": "https://doi.org/10.1609/aaai.v31i1.10750",
+  "title": "Data-Driven Approximations to NP-Hard Problems",
+  "publication_date": "2017-02-12",
+  "publication_year": 2017,
+  "authors": [
+    "Anton Milan",
+    "S. Hamid Rezatofighi",
+    "Ravi Garg",
+    "Anthony Dick",
+    "Ian D. Reid"
+  ],
+  "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+  "type": "conference-paper"
+}

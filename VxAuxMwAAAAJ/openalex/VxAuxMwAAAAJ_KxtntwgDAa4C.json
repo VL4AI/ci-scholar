@@ -1,0 +1,20 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:KxtntwgDAa4C",
+  "scholar_title": "Multi-objective multi-agent planning for discovering and tracking multiple mobile objects",
+  "fetched_at": "2026-10-19T12:24:47.792796+00:00",
+  "openalex_id": "https://openalex.org/W4400352413",
+  "doi": "https://doi.org/10.1109/tsp.2024.3423755",
+  "title": "Multi-Objective Multi-Agent Planning for Discovering and Tracking Multiple Mobile Objects",
+  "publication_date": "2024-01-01",
+  "publication_year": 2024,
+  "authors": [
+    "Hoa Van Nguyen",
+    "Ba‐Ngu Vo",
+    "Ba-Tuong Vo",
+    "Hamid Rezatofighi",
+    "Damith Chinthana Ranasinghe"
+  ],
+  "venue": "IEEE Transactions on Signal Processing",
+  "type": "article"
+}

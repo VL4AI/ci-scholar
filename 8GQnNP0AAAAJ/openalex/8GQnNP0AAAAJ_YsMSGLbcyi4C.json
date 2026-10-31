@@ -1,0 +1,20 @@
+{
+  "status": "matched",
+  "author_pub_id": "8GQnNP0AAAAJ:YsMSGLbcyi4C",
+  "scholar_title": "Towards End-to-End Embroidery Style Generation: A Paired Dataset and Benchmark",
+  "fetched_at": "2026-10-19T12:11:34.114787+00:00",
+  "openalex_id": "https://openalex.org/W3211293403",
+  "doi": "https://doi.org/10.1007/978-3-030-88013-2_17",
+  "title": "Towards End-to-End Embroidery Style Generation: A Paired Dataset and Benchmark",
+  "publication_date": "2021-01-01",
+  "publication_year": 2021,
+  "authors": [
+    "Jingwen Ye",
+    "Yixin Ji",
+    "Jie Song",
+    "Zunlei Feng",
+    "Mingli Song"
+  ],
+  "venue": "Lecture notes in computer science",
+  "type": "conference-paper"
+}

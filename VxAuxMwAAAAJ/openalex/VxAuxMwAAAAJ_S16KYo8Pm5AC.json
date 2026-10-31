@@ -1,0 +1,19 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:S16KYo8Pm5AC",
+  "scholar_title": "TFS-NeRF: Template-Free NeRF for Semantic 3D Reconstruction of Dynamic Scene",
+  "fetched_at": "2026-10-19T12:11:34.114787+00:00",
+  "openalex_id": "https://openalex.org/W4415795690",
+  "doi": "https://doi.org/10.52202/079017-3635",
+  "title": "TFS-NeRF: Template-Free NeRF for Semantic 3D Reconstruction of Dynamic Scene",
+  "publication_date": "2024-01-01",
+  "publication_year": 2024,
+  "authors": [
+    "Sandika Biswas",
+    "Qianyi Wu",
+    "Biplab Banerjee",
+    "Hamid Rezatofighi"
+  ],
+  "venue": "neural information processing systems",
+  "type": "conference-paper"
+}

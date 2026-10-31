@@ -1,0 +1,21 @@
+{
+  "status": "matched",
+  "author_pub_id": "8GQnNP0AAAAJ:9yKSN-GCB0IC",
+  "scholar_title": "Neural style transfer: A review",
+  "fetched_at": "2026-10-19T12:24:47.792796+00:00",
+  "openalex_id": "https://openalex.org/W2962750014",
+  "doi": "https://doi.org/10.1109/tvcg.2019.2921336",
+  "title": "Neural Style Transfer: A Review",
+  "publication_date": "2019-06-06",
+  "publication_year": 2019,
+  "authors": [
+    "Yongcheng Jing",
+    "Yezhou Yang",
+    "Zunlei Feng",
+    "Jingwen Ye",
+    "Yizhou Yu",
+    "Mingli Song"
+  ],
+  "venue": "IEEE Transactions on Visualization and Computer Graphics",
+  "type": "article"
+}

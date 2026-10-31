@@ -1,0 +1,18 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:uDGL6kOW6j0C",
+  "scholar_title": "dinov3. seg: Open-Vocabulary Semantic Segmentation with DINOv3",
+  "fetched_at": "2026-10-19T09:49:11.178418+00:00",
+  "openalex_id": "https://openalex.org/W7140122354",
+  "doi": "https://doi.org/10.48550/arxiv.2603.19531",
+  "title": "dinov3.seg: Open-Vocabulary Semantic Segmentation with DINOv3",
+  "publication_date": "2026-03-19",
+  "publication_year": 2026,
+  "authors": [
+    "Saikat Dutta",
+    "Biplab Banerjee",
+    "Hamid Rezatofighi"
+  ],
+  "venue": "arXiv (Cornell University)",
+  "type": "preprint"
+}

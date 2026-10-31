@@ -1,0 +1,19 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:08ZZubdj9fEC",
+  "scholar_title": "Somoformer: Multi-person pose forecasting with transformers",
+  "fetched_at": "2026-10-19T12:24:47.792796+00:00",
+  "openalex_id": "https://openalex.org/W4294006621",
+  "doi": "https://doi.org/10.48550/arxiv.2208.14023",
+  "title": "SoMoFormer: Multi-Person Pose Forecasting with Transformers",
+  "publication_date": "2022-08-30",
+  "publication_year": 2022,
+  "authors": [
+    "Edward B. Vendrow",
+    "Satyajit Kumar",
+    "Ehsan Adeli",
+    "Hamid Rezatofighi"
+  ],
+  "venue": "arXiv (Cornell University)",
+  "type": "preprint"
+}

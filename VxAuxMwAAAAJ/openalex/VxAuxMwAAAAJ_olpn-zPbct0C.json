@@ -1,0 +1,19 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:olpn-zPbct0C",
+  "scholar_title": "Accurate and Real-time 3D Pedestrian Detection Using an Efficient Attentive Pillar Network",
+  "fetched_at": "2026-10-19T12:24:47.792796+00:00",
+  "openalex_id": "https://openalex.org/W4313306311",
+  "doi": "https://doi.org/10.1109/lra.2022.3233234",
+  "title": "Accurate and Real-Time 3D Pedestrian Detection Using an Efficient Attentive Pillar Network",
+  "publication_date": "2022-12-30",
+  "publication_year": 2022,
+  "authors": [
+    "Duy Lê",
+    "Hengcan Shi",
+    "Hamid Rezatofighi",
+    "Jianfei Cai"
+  ],
+  "venue": "IEEE Robotics and Automation Letters",
+  "type": "article"
+}
