@@ -1,0 +1,19 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:buQ7SEKw-1sC",
+  "scholar_title": "PING: A Physics-Informed Neuro-Symbolic Generator for Continuous-Time Planning",
+  "fetched_at": "2026-10-19T09:35:07.607813+00:00",
+  "openalex_id": "https://openalex.org/W7163904146",
+  "doi": "https://doi.org/10.1609/icaps.v36i1.42820",
+  "title": "PING: A Physics-Informed Neuro-Symbolic Generator for Continuous-Time Planning",
+  "publication_date": "2026-06-08",
+  "publication_year": 2026,
+  "authors": [
+    "Mahyar Jahani-nasab",
+    "Hamid Rezatofighi",
+    "Mor Vered",
+    "Buser Say"
+  ],
+  "venue": "Proceedings of the International Conference on Automated Planning and Scheduling",
+  "type": "conference-paper"
+}

@@ -1,0 +1,20 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:PVjk1bu6vJQC",
+  "scholar_title": "Aeroseg: Harnessing sam for open-vocabulary segmentation in remote sensing images",
+  "fetched_at": "2026-10-19T12:11:34.114787+00:00",
+  "openalex_id": "https://openalex.org/W4414197163",
+  "doi": "https://doi.org/10.1109/cvprw67362.2025.00212",
+  "title": "AerOSeg: Harnessing SAM for Open-Vocabulary Segmentation in Remote Sensing Images",
+  "publication_date": "2025-06-11",
+  "publication_year": 2025,
+  "authors": [
+    "Saikat Dutta",
+    "Akhil Vasim",
+    "Siddhant Gole",
+    "Hamid Rezatofighi",
+    "Biplab Banerjee"
+  ],
+  "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+  "type": "conference-paper"
+}

@@ -1,0 +1,18 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:UeHWp8X0CEIC",
+  "scholar_title": "Multi-scale approach for retinal vessel segmentation using medialness function",
+  "fetched_at": "2026-10-19T12:38:11.145732+00:00",
+  "openalex_id": "https://openalex.org/W2112112817",
+  "doi": "https://doi.org/10.1109/isbi.2010.5490423",
+  "title": "Multi-scale approach for retinal vessel segmentation using medialness function",
+  "publication_date": "2010-01-01",
+  "publication_year": 2010,
+  "authors": [
+    "Elahe Moghimirad",
+    "S. Hamid Rezatofighi",
+    "Hamid Soltanian-zadeh A"
+  ],
+  "venue": "IEEE International Symposium on Biomedical Imaging: From Nano to Macro (ISBI)",
+  "type": "conference-paper"
+}

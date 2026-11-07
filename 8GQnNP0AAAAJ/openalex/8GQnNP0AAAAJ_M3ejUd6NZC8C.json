@@ -1,0 +1,18 @@
+{
+  "status": "matched",
+  "author_pub_id": "8GQnNP0AAAAJ:M3ejUd6NZC8C",
+  "scholar_title": "Any-to-any style transfer: Making picasso and da vinci collaborate",
+  "fetched_at": "2026-10-19T12:11:34.114787+00:00",
+  "openalex_id": "https://openalex.org/W4366731931",
+  "doi": "https://doi.org/10.48550/arxiv.2304.09728",
+  "title": "Any-to-Any Style Transfer: Making Picasso and Da Vinci Collaborate",
+  "publication_date": "2023-04-19",
+  "publication_year": 2023,
+  "authors": [
+    "Songhua Liu",
+    "Jingwen Ye",
+    "Xinchao Wang"
+  ],
+  "venue": "arXiv (Cornell University)",
+  "type": "preprint"
+}

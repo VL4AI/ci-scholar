@@ -1,0 +1,23 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:RGFaLdJalmkC",
+  "scholar_title": "JRMOT: A Real-Time 3D Multi-Object Tracker and a New Large-Scale Dataset",
+  "fetched_at": "2026-10-19T12:38:11.145732+00:00",
+  "openalex_id": "https://openalex.org/W3007919940",
+  "doi": "https://doi.org/10.1109/iros45743.2020.9341635",
+  "title": "JRMOT: A Real-Time 3D Multi-Object Tracker and a New Large-Scale Dataset",
+  "publication_date": "2020-10-24",
+  "publication_year": 2020,
+  "authors": [
+    "Abhijeet Shenoi",
+    "Mihir Patel",
+    "JunYoung Gwak",
+    "Patrick Goebel",
+    "Amir Sadeghian",
+    "Hamid Rezatofighi",
+    "Roberto Martín-Martín",
+    "Silvio Savarese"
+  ],
+  "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+  "type": "conference-paper"
+}

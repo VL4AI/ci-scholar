@@ -1,0 +1,21 @@
+{
+  "status": "matched",
+  "author_pub_id": "8GQnNP0AAAAJ:2osOgNQ5qMEC",
+  "scholar_title": "Edge-sensitive human cutout with hierarchical granularity and loopy matting guidance",
+  "fetched_at": "2026-10-19T12:11:34.114787+00:00",
+  "openalex_id": "https://openalex.org/W2972044797",
+  "doi": "https://doi.org/10.1109/tip.2019.2930146",
+  "title": "Edge-Sensitive Human Cutout With Hierarchical Granularity and Loopy Matting Guidance",
+  "publication_date": "2019-09-05",
+  "publication_year": 2019,
+  "authors": [
+    "Jingwen Ye",
+    "Yongcheng Jing",
+    "Xinchao Wang",
+    "Kairi Ou",
+    "Dacheng Tao",
+    "Mingli Song"
+  ],
+  "venue": "IEEE Transactions on Image Processing",
+  "type": "article"
+}

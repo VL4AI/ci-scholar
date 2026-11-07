@@ -1,0 +1,19 @@
+{
+  "status": "matched",
+  "author_pub_id": "a7XqS_QAAAAJ:roLk4NBRz8UC",
+  "scholar_title": "Ifogsim2: An extended ifogsim simulator for mobility, clustering, and microservice management in edge and fog computing environments",
+  "fetched_at": "2026-10-19T12:11:34.114787+00:00",
+  "openalex_id": "https://openalex.org/W3199069499",
+  "doi": "https://doi.org/10.1016/j.jss.2022.111351",
+  "title": "iFogSim2: An extended iFogSim simulator for mobility, clustering, and microservice management in edge and fog computing environments",
+  "publication_date": "2022-05-04",
+  "publication_year": 2022,
+  "authors": [
+    "Redowan Mahmud",
+    "Samodha Pallewatta",
+    "Mohammad Goudarzi",
+    "Rajkumar Buyya"
+  ],
+  "venue": "Journal of Systems and Software",
+  "type": "article"
+}

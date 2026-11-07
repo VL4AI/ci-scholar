@@ -1,0 +1,22 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:LI9QrySNdTsC",
+  "scholar_title": "Drvideo: Document retrieval based long video understanding",
+  "fetched_at": "2026-10-19T12:11:34.114787+00:00",
+  "openalex_id": "https://openalex.org/W4413147823",
+  "doi": "https://doi.org/10.1109/cvpr52734.2025.01764",
+  "title": "DrVideo: Document Retrieval Based Long Video Understanding",
+  "publication_date": "2025-06-10",
+  "publication_year": 2025,
+  "authors": [
+    "Ziyu Ma",
+    "Chenhui Gou",
+    "Hengcan Shi",
+    "Bin Sun",
+    "Shutao Li A",
+    "Hamid Rezatofighi",
+    "Jianfei Cai"
+  ],
+  "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings",
+  "type": "conference-paper"
+}

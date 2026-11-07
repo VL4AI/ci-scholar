@@ -1,0 +1,20 @@
+{
+  "status": "matched",
+  "author_pub_id": "8GQnNP0AAAAJ:5nxA0vEk-isC",
+  "scholar_title": "Deep model reassembly",
+  "fetched_at": "2026-10-19T12:11:34.114787+00:00",
+  "openalex_id": "https://openalex.org/W7133245285",
+  "doi": "https://doi.org/10.52202/068431-1866",
+  "title": "Deep Model Reassembly",
+  "publication_date": "2022-01-01",
+  "publication_year": 2022,
+  "authors": [
+    "Xingyi Yang",
+    "Daquan Zhou",
+    "Songhua Liu",
+    "Jingwen Ye",
+    "Xinchao Wang"
+  ],
+  "venue": "neural information processing systems",
+  "type": "conference-paper"
+}

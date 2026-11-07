@@ -1,0 +1,18 @@
+{
+  "status": "matched",
+  "author_pub_id": "a7XqS_QAAAAJ:Se3iqnhoufwC",
+  "scholar_title": "Cloud Computing and Internet of Things: Recent Trends and Directions",
+  "fetched_at": "2026-10-19T12:11:34.114787+00:00",
+  "openalex_id": "https://openalex.org/W4297126781",
+  "doi": "https://doi.org/10.1007/978-3-031-05528-7_1",
+  "title": "Cloud Computing and Internet of Things: Recent Trends and Directions",
+  "publication_date": "2022-01-01",
+  "publication_year": 2022,
+  "authors": [
+    "Mohammad Goudarzi",
+    "Shashikant Ilager",
+    "Rajkumar Buyya"
+  ],
+  "venue": "Internet of things",
+  "type": "book-chapter"
+}

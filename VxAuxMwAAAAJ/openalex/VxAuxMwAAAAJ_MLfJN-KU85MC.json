@@ -1,0 +1,18 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:MLfJN-KU85MC",
+  "scholar_title": "Social-MAE: Social Masked Autoencoder for Multi-person Motion Representation Learning",
+  "fetched_at": "2026-10-19T12:11:34.114787+00:00",
+  "openalex_id": "https://openalex.org/W4413947156",
+  "doi": "https://doi.org/10.1109/icra55743.2025.11128614",
+  "title": "Social-MAE: Social Masked Autoencoder for Multi-Person Motion Representation Learning",
+  "publication_date": "2025-05-19",
+  "publication_year": 2025,
+  "authors": [
+    "Mahsa Ehsanpour",
+    "Ian D. Reid",
+    "Hamid Rezatofighi"
+  ],
+  "venue": "Proceedings - IEEE International Conference on Robotics and Automation/Proceedings",
+  "type": "conference-paper"
+}

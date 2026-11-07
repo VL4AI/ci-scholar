@@ -1,0 +1,17 @@
+{
+  "status": "matched",
+  "author_pub_id": "8GQnNP0AAAAJ:YOwf2qJgpHMC",
+  "scholar_title": "Ungeneralizable examples",
+  "fetched_at": "2026-10-19T09:49:11.178418+00:00",
+  "openalex_id": "https://openalex.org/W4402704620",
+  "doi": "https://doi.org/10.1109/cvpr52733.2024.01135",
+  "title": "Ungeneralizable Examples",
+  "publication_date": "2024-06-16",
+  "publication_year": 2024,
+  "authors": [
+    "Jingwen Ye",
+    "Xinchao Wang"
+  ],
+  "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings",
+  "type": "conference-paper"
+}

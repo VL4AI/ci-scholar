@@ -1,0 +1,20 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:isC4tDSrTZIC",
+  "scholar_title": "Model-free tracker for multiple objects using joint appearance and motion inference.",
+  "fetched_at": "2026-10-19T12:38:11.145732+00:00",
+  "openalex_id": "https://openalex.org/W2963244034",
+  "doi": "https://doi.org/10.1109/tip.2019.2928123",
+  "title": "Model-Free Tracker for Multiple Objects Using Joint Appearance and Motion Inference",
+  "publication_date": "2019-07-17",
+  "publication_year": 2019,
+  "authors": [
+    "Chongyu Liu",
+    "Rui Yao",
+    "S. Hamid Rezatofighi",
+    "Ian D. Reid",
+    "Qinfeng Shi"
+  ],
+  "venue": "IEEE Transactions on Image Processing",
+  "type": "article"
+}

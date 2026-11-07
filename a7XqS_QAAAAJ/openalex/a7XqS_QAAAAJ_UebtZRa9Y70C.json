@@ -1,0 +1,18 @@
+{
+  "status": "matched",
+  "author_pub_id": "a7XqS_QAAAAJ:UebtZRa9Y70C",
+  "scholar_title": "A distributed deep reinforcement learning technique for application placement in edge and fog computing environments",
+  "fetched_at": "2026-10-19T12:11:34.114787+00:00",
+  "openalex_id": "https://openalex.org/W3208229128",
+  "doi": "https://doi.org/10.1109/tmc.2021.3123165",
+  "title": "A Distributed Deep Reinforcement Learning Technique for Application Placement in Edge and Fog Computing Environments",
+  "publication_date": "2021-10-27",
+  "publication_year": 2021,
+  "authors": [
+    "Mohammad Goudarzi",
+    "Marimuthu Swami Palaniswami",
+    "Rajkumar Buyya"
+  ],
+  "venue": "IEEE Transactions on Mobile Computing",
+  "type": "article"
+}

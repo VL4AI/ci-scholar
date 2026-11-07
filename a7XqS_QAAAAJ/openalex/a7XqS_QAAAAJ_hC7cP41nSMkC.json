@@ -1,0 +1,18 @@
+{
+  "status": "matched",
+  "author_pub_id": "a7XqS_QAAAAJ:hC7cP41nSMkC",
+  "scholar_title": "Resilience evaluation of kubernetes in cloud-edge environments via failure injection",
+  "fetched_at": "2026-10-19T09:35:07.607813+00:00",
+  "openalex_id": "https://openalex.org/W4414385418",
+  "doi": "https://doi.org/10.48550/arxiv.2507.16109",
+  "title": "Resilience Evaluation of Kubernetes in Cloud-Edge Environments via Failure Injection",
+  "publication_date": "2025-07-21",
+  "publication_year": 2025,
+  "authors": [
+    "Zihao Chen",
+    "Mohammad Goudarzi",
+    "Adel N. Toosi"
+  ],
+  "venue": "arXiv (Cornell University)",
+  "type": "preprint"
+}

@@ -1,0 +1,19 @@
+{
+  "status": "matched",
+  "author_pub_id": "a7XqS_QAAAAJ:mB3voiENLucC",
+  "scholar_title": "Performance and Security Aware Distributed Service Placement in Fog Computing",
+  "fetched_at": "2026-10-19T09:35:07.607813+00:00",
+  "openalex_id": "https://openalex.org/W7119043245",
+  "doi": "https://doi.org/10.1109/tsc.2026.3725124",
+  "title": "Performance and Security Aware Distributed Service Placement in Fog Computing",
+  "publication_date": "2026-08-18",
+  "publication_year": 2026,
+  "authors": [
+    "Mohammad Goudarzi",
+    "Arash Shaghaghi",
+    "Zhiyu Wang",
+    "Rajkumar Buyya"
+  ],
+  "venue": "IEEE Transactions on Services Computing",
+  "type": "article"
+}

@@ -1,0 +1,20 @@
+{
+  "status": "matched",
+  "author_pub_id": "8GQnNP0AAAAJ:qxL8FJ1GzNcC",
+  "scholar_title": "Heavy labels out! dataset distillation with label space lightening",
+  "fetched_at": "2026-10-19T09:35:07.607813+00:00",
+  "openalex_id": "https://openalex.org/W4406023990",
+  "doi": "https://doi.org/10.1109/iccv51701.2025.00477",
+  "title": "Heavy Labels Out! Dataset Distillation with Label Space Lightening",
+  "publication_date": "2025-10-19",
+  "publication_year": 2025,
+  "authors": [
+    "Ruonan Yu",
+    "Songhua Liu",
+    "Zigeng Chen",
+    "Jingwen Ye",
+    "Xinchao Wang"
+  ],
+  "venue": "IEEE/CVF International Conference on Computer Vision (ICCV)",
+  "type": "conference-paper"
+}

@@ -1,0 +1,22 @@
+{
+  "status": "matched",
+  "author_pub_id": "8GQnNP0AAAAJ:9ZlFYXVOiuMC",
+  "scholar_title": "Model lego: Creating models like disassembling and assembling building blocks",
+  "fetched_at": "2026-10-19T09:49:11.178418+00:00",
+  "openalex_id": "https://openalex.org/W4415795227",
+  "doi": "https://doi.org/10.52202/079017-4055",
+  "title": "Model LEGO: Creating Models Like Disassembling and Assembling Building Blocks",
+  "publication_date": "2024-01-01",
+  "publication_year": 2024,
+  "authors": [
+    "Jiacong Hu",
+    "Jing Gao",
+    "Jingwen Ye",
+    "Yang Gao",
+    "Xingen Wang",
+    "Zunlei Feng",
+    "Mingli Song"
+  ],
+  "venue": "neural information processing systems",
+  "type": "conference-paper"
+}

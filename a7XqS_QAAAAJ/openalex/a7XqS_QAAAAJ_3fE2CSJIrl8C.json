@@ -1,0 +1,21 @@
+{
+  "status": "matched",
+  "author_pub_id": "a7XqS_QAAAAJ:3fE2CSJIrl8C",
+  "scholar_title": "Quality of Service (QoS)-driven edge computing and smart hospitals: a vision, architectural elements, and future directions",
+  "fetched_at": "2026-10-19T09:49:11.178418+00:00",
+  "openalex_id": "https://openalex.org/W4382117990",
+  "doi": "https://doi.org/10.1007/978-981-99-1699-3_1",
+  "title": "Quality of Service (QoS)-Driven Edge Computing and Smart Hospitals: A Vision, Architectural Elements, and Future Directions",
+  "publication_date": "2023-01-01",
+  "publication_year": 2023,
+  "authors": [
+    "Rajkumar Buyya",
+    "Satish Narayana Srirama",
+    "Redowan Mahmud",
+    "Mohammad Goudarzi",
+    "Leila Ismail",
+    "Vassilis Kostakos"
+  ],
+  "venue": "Lecture notes in networks and systems",
+  "type": "conference-paper"
+}

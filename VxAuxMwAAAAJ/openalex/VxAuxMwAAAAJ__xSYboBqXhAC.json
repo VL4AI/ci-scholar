@@ -1,0 +1,18 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:_xSYboBqXhAC",
+  "scholar_title": "Guided-GAN: Adversarial representation learning for activity recognition with wearables",
+  "fetched_at": "2026-10-19T12:24:47.792796+00:00",
+  "openalex_id": "https://openalex.org/W3207856452",
+  "doi": "https://doi.org/10.48550/arxiv.2110.05732",
+  "title": "Guided-GAN: Adversarial Representation Learning for Activity Recognition with Wearables",
+  "publication_date": "2021-10-12",
+  "publication_year": 2021,
+  "authors": [
+    "Alireza Abedin",
+    "Hamid Rezatofighi",
+    "Damith Chinthana Ranasinghe"
+  ],
+  "venue": "arXiv (Cornell University)",
+  "type": "preprint"
+}

@@ -1,0 +1,21 @@
+{
+  "status": "matched",
+  "author_pub_id": "8GQnNP0AAAAJ:eQOLeE2rZwMC",
+  "scholar_title": "Safe distillation box",
+  "fetched_at": "2026-10-19T12:11:34.114787+00:00",
+  "openalex_id": "https://openalex.org/W4226404822",
+  "doi": "https://doi.org/10.1609/aaai.v36i3.20219",
+  "title": "Safe Distillation Box",
+  "publication_date": "2022-06-28",
+  "publication_year": 2022,
+  "authors": [
+    "Jingwen Ye",
+    "Yining Mao",
+    "Jie Song",
+    "Xinchao Wang",
+    "Cheng Jin",
+    "Mingli Song"
+  ],
+  "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+  "type": "conference-paper"
+}

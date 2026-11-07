@@ -1,0 +1,19 @@
+{
+  "status": "matched",
+  "author_pub_id": "8GQnNP0AAAAJ:aqlVkmm33-oC",
+  "scholar_title": "Teddy: Efficient large-scale dataset distillation via taylor-approximated matching",
+  "fetched_at": "2026-10-19T09:49:11.178418+00:00",
+  "openalex_id": "https://openalex.org/W4403003380",
+  "doi": "https://doi.org/10.1007/978-3-031-72952-2_1",
+  "title": "Teddy: Efficient Large-Scale Dataset Distillation via Taylor-Approximated Matching",
+  "publication_date": "2024-09-30",
+  "publication_year": 2024,
+  "authors": [
+    "Ruonan Yu",
+    "Songhua Liu",
+    "Jingwen Ye",
+    "Xinchao Wang"
+  ],
+  "venue": "Lecture notes in computer science",
+  "type": "conference-paper"
+}

@@ -1,0 +1,19 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:bEWYMUwI8FkC",
+  "scholar_title": "SparseSense: Human Activity Recognition from Highly Sparse Sensor Data-streams Using Set-based Neural Networks",
+  "fetched_at": "2026-10-19T12:38:11.145732+00:00",
+  "openalex_id": "https://openalex.org/W2948329686",
+  "doi": "https://doi.org/10.24963/ijcai.2019/801",
+  "title": "SparseSense: Human Activity Recognition from Highly Sparse Sensor Data-streams Using Set-based Neural Networks",
+  "publication_date": "2019-07-28",
+  "publication_year": 2019,
+  "authors": [
+    "Alireza Abedin",
+    "S. Hamid Rezatofighi",
+    "Qinfeng Shi",
+    "Damith Chinthana Ranasinghe"
+  ],
+  "venue": "International Joint Conference on Artificial Intelligence",
+  "type": "conference-paper"
+}

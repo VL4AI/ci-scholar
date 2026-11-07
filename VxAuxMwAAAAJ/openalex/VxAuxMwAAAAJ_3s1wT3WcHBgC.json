@@ -1,0 +1,22 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:3s1wT3WcHBgC",
+  "scholar_title": "Looking Beyond Two Frames: End-to-End Multi-Object Tracking Using Spatial and Temporal Transformers",
+  "fetched_at": "2026-10-19T12:24:47.792796+00:00",
+  "openalex_id": "https://openalex.org/W4304479854",
+  "doi": "https://doi.org/10.1109/tpami.2022.3213073",
+  "title": "Looking Beyond Two Frames: End-to-End Multi-Object Tracking Using Spatial and Temporal Transformers",
+  "publication_date": "2022-10-10",
+  "publication_year": 2022,
+  "authors": [
+    "Tianyu Zhu",
+    "Markus Hiller",
+    "Mahsa Ehsanpour",
+    "Rongkai Ma",
+    "Tom W. Drummond",
+    "Ian D. Reid",
+    "Hamid Rezatofighi"
+  ],
+  "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+  "type": "article"
+}

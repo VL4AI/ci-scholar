@@ -1,0 +1,24 @@
+{
+  "status": "matched",
+  "author_pub_id": "8GQnNP0AAAAJ:TQgYirikUcIC",
+  "scholar_title": "Editverse3d: High-quality 3d object editing with region-aware learning",
+  "fetched_at": "2026-10-19T09:35:07.607813+00:00",
+  "openalex_id": "https://openalex.org/W7167810487",
+  "doi": "https://doi.org/10.1007/978-3-032-36839-3_27",
+  "title": "EditVerse3D: High-Quality 3D Object Editing with Region-Aware Learning",
+  "publication_date": "2026-01-01",
+  "publication_year": 2026,
+  "authors": [
+    "Youtan Yin",
+    "Yanning Zhou",
+    "Jiacheng Wei",
+    "Xiaofeng Yang",
+    "Jun Zhang",
+    "Jiayang Bai",
+    "J P Ye",
+    "Weidong Zhang",
+    "Guosheng Lin"
+  ],
+  "venue": "Lecture notes in computer science",
+  "type": "conference-paper"
+}

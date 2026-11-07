@@ -1,0 +1,20 @@
+{
+  "status": "matched",
+  "author_pub_id": "a7XqS_QAAAAJ:fPk4N6BV_jEC",
+  "scholar_title": "Zero-Shot Forecasting of In-Situ Soil Moisture and Temperature with a Time-Series Foundation Model",
+  "fetched_at": "2026-10-30T03:10:21.896214+00:00",
+  "openalex_id": "https://openalex.org/W7223358552",
+  "doi": "https://doi.org/10.48550/arxiv.2610.30971",
+  "title": "Zero-Shot Forecasting of In-Situ Soil Moisture and Temperature with a Time-Series Foundation Model",
+  "publication_date": "2026-10-22",
+  "publication_year": 2026,
+  "authors": [
+    "Mohammad Talaei",
+    "Mohammad Goudarzi",
+    "Maille Todd",
+    "Vanessa N. L. Wong",
+    "Iadine Chadès"
+  ],
+  "venue": "arXiv (Cornell University)",
+  "type": "preprint"
+}

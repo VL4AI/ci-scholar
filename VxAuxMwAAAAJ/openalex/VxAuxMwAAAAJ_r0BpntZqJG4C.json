@@ -1,0 +1,21 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:r0BpntZqJG4C",
+  "scholar_title": "Learning pairwise relationship for multi-object detection in crowded scenes",
+  "fetched_at": "2026-10-19T12:38:11.145732+00:00",
+  "openalex_id": "https://openalex.org/W2910565448",
+  "doi": "https://doi.org/10.48550/arxiv.1901.03796",
+  "title": "Learning Pairwise Relationship for Multi-object Detection in Crowded Scenes",
+  "publication_date": "2019-01-12",
+  "publication_year": 2019,
+  "authors": [
+    "Yu Liu",
+    "Lingqiao Liu",
+    "Hamid Rezatofighi",
+    "Thanh-Toan Do",
+    "Qinfeng Shi",
+    "Ian D. Reid"
+  ],
+  "venue": "arXiv (Cornell University)",
+  "type": "preprint"
+}

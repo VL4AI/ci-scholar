@@ -1,0 +1,19 @@
+{
+  "status": "matched",
+  "author_pub_id": "a7XqS_QAAAAJ:0EnyYjriUFMC",
+  "scholar_title": "Container orchestration in edge and fog computing environments for real-time iot applications",
+  "fetched_at": "2026-10-19T12:11:34.114787+00:00",
+  "openalex_id": "https://openalex.org/W4221144348",
+  "doi": "https://doi.org/10.1007/978-981-19-3391-2_1",
+  "title": "Container Orchestration in Edge and Fog Computing Environments for Real-Time IoT Applications",
+  "publication_date": "2022-09-01",
+  "publication_year": 2022,
+  "authors": [
+    "Zhiyu Wang",
+    "Mohammad Goudarzi",
+    "Jagannath Aryal",
+    "Rajkumar Buyya"
+  ],
+  "venue": "Lecture notes on data engineering and communications technologies",
+  "type": "conference-paper"
+}

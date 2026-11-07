@@ -1,0 +1,20 @@
+{
+  "status": "matched",
+  "author_pub_id": "8GQnNP0AAAAJ:7PzlFSSx8tAC",
+  "scholar_title": "Semantic surgery: Zero-shot concept erasure in diffusion models",
+  "fetched_at": "2026-10-19T09:35:07.607813+00:00",
+  "openalex_id": "https://openalex.org/W7196978514",
+  "doi": "https://doi.org/10.52202/085713-4892",
+  "title": "Semantic Surgery: Zero-Shot Concept Erasure in Diffusion Models",
+  "publication_date": "2025-01-01",
+  "publication_year": 2025,
+  "authors": [
+    "Lexiang Xiong",
+    "Liu Chengyu",
+    "Jingwen Ye",
+    "YAN LIU",
+    "Yuecong Xu"
+  ],
+  "venue": "neural information processing systems",
+  "type": "conference-paper"
+}

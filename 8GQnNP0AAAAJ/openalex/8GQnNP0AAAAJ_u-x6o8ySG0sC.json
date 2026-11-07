@@ -1,0 +1,20 @@
+{
+  "status": "matched",
+  "author_pub_id": "8GQnNP0AAAAJ:u-x6o8ySG0sC",
+  "scholar_title": "Amalgamating filtered knowledge: Learning task-customized student from multi-task teachers",
+  "fetched_at": "2026-10-19T12:24:47.792796+00:00",
+  "openalex_id": "https://openalex.org/W2947696193",
+  "doi": "https://doi.org/10.24963/ijcai.2019/573",
+  "title": "Amalgamating Filtered Knowledge: Learning Task-customized Student from Multi-task Teachers",
+  "publication_date": "2019-07-28",
+  "publication_year": 2019,
+  "authors": [
+    "Jingwen Ye",
+    "Xinchao Wang",
+    "Yixin Ji",
+    "Kairi Ou",
+    "Mingli Song"
+  ],
+  "venue": "International Joint Conference on Artificial Intelligence",
+  "type": "conference-paper"
+}

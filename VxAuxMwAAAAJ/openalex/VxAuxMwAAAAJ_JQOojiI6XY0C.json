@@ -1,0 +1,20 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:JQOojiI6XY0C",
+  "scholar_title": "ProtoCon: Pseudo-label Refinement via Online Clustering and Prototypical Consistency for Efficient Semi-supervised Learning",
+  "fetched_at": "2026-10-19T12:24:47.792796+00:00",
+  "openalex_id": "https://openalex.org/W4386075626",
+  "doi": "https://doi.org/10.1109/cvpr52729.2023.01120",
+  "title": "Protocon: Pseudo-Label Refinement via Online Clustering and Prototypical Consistency for Efficient Semi-Supervised Learning",
+  "publication_date": "2023-06-01",
+  "publication_year": 2023,
+  "authors": [
+    "Islam Nassar",
+    "Munawar Hayat",
+    "Ehsan Abbasnejad",
+    "Hamid Rezatofighi",
+    "Gholamreza Haffari"
+  ],
+  "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings",
+  "type": "conference-paper"
+}
