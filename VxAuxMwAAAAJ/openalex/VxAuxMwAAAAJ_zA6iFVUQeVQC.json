@@ -1,0 +1,22 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:zA6iFVUQeVQC",
+  "scholar_title": "TRiPOD: Human Trajectory and Pose Dynamics Forecasting in the Wild",
+  "fetched_at": "2026-10-19T12:24:47.792796+00:00",
+  "openalex_id": "https://openalex.org/W3156980132",
+  "doi": "https://doi.org/10.1109/iccv48922.2021.01314",
+  "title": "TRiPOD: Human Trajectory and Pose Dynamics Forecasting in the Wild",
+  "publication_date": "2021-10-01",
+  "publication_year": 2021,
+  "authors": [
+    "Vida Adeli",
+    "Mahsa Ehsanpour",
+    "Ian D. Reid",
+    "Juan Carlos Niebles",
+    "Silvio Savarese",
+    "Ehsan Adeli",
+    "Hamid Rezatofighi"
+  ],
+  "venue": "IEEE/CVF International Conference on Computer Vision (ICCV)",
+  "type": "conference-paper"
+}

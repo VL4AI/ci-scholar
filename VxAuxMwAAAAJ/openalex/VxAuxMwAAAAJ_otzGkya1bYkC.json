@@ -1,0 +1,19 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:otzGkya1bYkC",
+  "scholar_title": "A Simple State Space Model Excels at Multivariate Time Series Classification",
+  "fetched_at": "2026-10-19T09:49:11.178418+00:00",
+  "openalex_id": "https://openalex.org/W7162692116",
+  "doi": "https://doi.org/10.48550/arxiv.2605.27406",
+  "title": "A Simple State Space Model Excels at Multivariate Time Series Classification",
+  "publication_date": "2026-05-07",
+  "publication_year": 2026,
+  "authors": [
+    "Hassan Saadatmand",
+    "Geoffrey I. Webb",
+    "Hamid Rezatofighi",
+    "Mahsa Salehi"
+  ],
+  "venue": "arXiv (Cornell University)",
+  "type": "preprint"
+}

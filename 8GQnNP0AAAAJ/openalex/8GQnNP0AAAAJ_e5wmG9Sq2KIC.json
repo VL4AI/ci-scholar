@@ -1,0 +1,20 @@
+{
+  "status": "matched",
+  "author_pub_id": "8GQnNP0AAAAJ:e5wmG9Sq2KIC",
+  "scholar_title": "HRBench: Benchmarking and Understanding Thinking-Mode Switch Strategies in Hybrid-Reasoning LLMs",
+  "fetched_at": "2026-10-19T09:35:07.607813+00:00",
+  "openalex_id": "https://openalex.org/W7162651305",
+  "doi": "https://doi.org/10.48550/arxiv.2605.28398",
+  "title": "HRBench: Benchmarking and Understanding Thinking-Mode Switch Strategies in Hybrid-Reasoning LLMs",
+  "publication_date": "2026-05-27",
+  "publication_year": 2026,
+  "authors": [
+    "Yansong Ning",
+    "Mengna Liu",
+    "Jingwen Ye",
+    "Weidong Zhang",
+    "Hao Liu"
+  ],
+  "venue": "arXiv (Cornell University)",
+  "type": "preprint"
+}

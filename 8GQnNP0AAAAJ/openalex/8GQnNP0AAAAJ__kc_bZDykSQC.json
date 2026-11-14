@@ -1,0 +1,20 @@
+{
+  "status": "matched",
+  "author_pub_id": "8GQnNP0AAAAJ:_kc_bZDykSQC",
+  "scholar_title": "Stydesty: Min-max stylization and destylization for single domain generalization",
+  "fetched_at": "2026-10-19T09:49:11.178418+00:00",
+  "openalex_id": "https://openalex.org/W4399394911",
+  "doi": "https://doi.org/10.48550/arxiv.2406.00275",
+  "title": "StyDeSty: Min-Max Stylization and Destylization for Single Domain Generalization",
+  "publication_date": "2024-06-01",
+  "publication_year": 2024,
+  "authors": [
+    "Songhua Liu",
+    "Xin Jin",
+    "Xingyi Yang",
+    "Jingwen Ye",
+    "Xinchao Wang"
+  ],
+  "venue": "arXiv (Cornell University)",
+  "type": "preprint"
+}

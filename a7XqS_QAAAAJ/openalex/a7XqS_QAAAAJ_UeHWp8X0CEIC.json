@@ -1,0 +1,18 @@
+{
+  "status": "matched",
+  "author_pub_id": "a7XqS_QAAAAJ:UeHWp8X0CEIC",
+  "scholar_title": "Mobile cloud computing: a multisite computation offloading",
+  "fetched_at": "2026-10-19T12:11:34.114787+00:00",
+  "openalex_id": "https://openalex.org/W2598562469",
+  "doi": "https://doi.org/10.1109/istel.2016.7881904",
+  "title": "Mobile Cloud Computing: A multisite computation offloading",
+  "publication_date": "2016-09-01",
+  "publication_year": 2016,
+  "authors": [
+    "Mohammad Goudarzi",
+    "Zeinab Movahedi",
+    "Masoud Nazari"
+  ],
+  "venue": "International Symposium on Telecommunications",
+  "type": "conference-paper"
+}

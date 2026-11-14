@@ -1,0 +1,22 @@
+{
+  "status": "matched",
+  "author_pub_id": "8GQnNP0AAAAJ:roLk4NBRz8UC",
+  "scholar_title": "A survey of neural trees",
+  "fetched_at": "2026-10-19T12:11:34.114787+00:00",
+  "openalex_id": "https://openalex.org/W4295106973",
+  "doi": "https://doi.org/10.48550/arxiv.2209.03415",
+  "title": "A Survey of Neural Trees",
+  "publication_date": "2022-09-07",
+  "publication_year": 2022,
+  "authors": [
+    "Haoling Li",
+    "Jie Song",
+    "Mengqi Xue",
+    "Haofei Zhang",
+    "Jingwen Ye",
+    "Lechao Cheng",
+    "Mingli Song"
+  ],
+  "venue": "arXiv (Cornell University)",
+  "type": "preprint"
+}

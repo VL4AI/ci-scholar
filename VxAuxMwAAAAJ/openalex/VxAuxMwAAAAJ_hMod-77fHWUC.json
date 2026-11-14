@@ -1,0 +1,20 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:hMod-77fHWUC",
+  "scholar_title": "Approximating the Permanent by Sampling from Adaptive Partitions",
+  "fetched_at": "2026-10-19T12:38:11.145732+00:00",
+  "openalex_id": "https://openalex.org/W2970600147",
+  "doi": "https://doi.org/10.48550/arxiv.1911.11856",
+  "title": "Approximating the Permanent by Sampling from Adaptive Partitions",
+  "publication_date": "2019-11-26",
+  "publication_year": 2019,
+  "authors": [
+    "Jonathan Kuck",
+    "Tri Dao",
+    "Hamid Rezatofighi",
+    "Ashish Sabharwal",
+    "Stefano Ermon"
+  ],
+  "venue": "arXiv (Cornell University)",
+  "type": "preprint"
+}

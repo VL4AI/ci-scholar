@@ -1,0 +1,22 @@
+{
+  "status": "matched",
+  "author_pub_id": "8GQnNP0AAAAJ:QIV2ME_5wuYC",
+  "scholar_title": "Reinforced model merging",
+  "fetched_at": "2026-10-19T09:49:11.178418+00:00",
+  "openalex_id": "https://openalex.org/W4415708847",
+  "doi": "https://doi.org/10.1109/icme59968.2025.11210035",
+  "title": "Reinforced Model Merging",
+  "publication_date": "2025-06-30",
+  "publication_year": 2025,
+  "authors": [
+    "Jiaqi Han",
+    "Jingwen Ye",
+    "Shunyu Liu",
+    "Haofei Zhang",
+    "Jie Song",
+    "Zunlei Feng",
+    "Mingli Song"
+  ],
+  "venue": "IEEE International Conference on Multimedia and Expo (ICME)",
+  "type": "conference-paper"
+}

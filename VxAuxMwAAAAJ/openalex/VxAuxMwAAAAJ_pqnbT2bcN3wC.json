@@ -1,0 +1,19 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:pqnbT2bcN3wC",
+  "scholar_title": "Distributed Multi-object Tracking under Limited Field of View Sensors",
+  "fetched_at": "2026-10-19T12:24:47.792796+00:00",
+  "openalex_id": "https://openalex.org/W3117447933",
+  "doi": "https://doi.org/10.1109/tsp.2021.3103125",
+  "title": "Distributed Multi-Object Tracking Under Limited Field of View Sensors",
+  "publication_date": "2021-01-01",
+  "publication_year": 2021,
+  "authors": [
+    "Hoa Van Nguyen",
+    "Hamid Rezatofighi",
+    "Ba‐Ngu Vo",
+    "Damith Chinthana Ranasinghe"
+  ],
+  "venue": "IEEE Transactions on Signal Processing",
+  "type": "article"
+}

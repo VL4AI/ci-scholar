@@ -1,0 +1,18 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:Y0pCki6q_DkC",
+  "scholar_title": "Using PCA and LVQ neural network for automatic recognition of five types of white blood cells",
+  "fetched_at": "2026-10-19T12:38:11.145732+00:00",
+  "openalex_id": "https://openalex.org/W2043424639",
+  "doi": "https://doi.org/10.1109/iembs.2010.5626788",
+  "title": "Using PCA and LVQ neural network for automatic recognition of five types of white blood cells",
+  "publication_date": "2010-08-01",
+  "publication_year": 2010,
+  "authors": [
+    "Pooneh Roshani Tabrizi",
+    "S. Hamid Rezatofighi",
+    "Mohammad Javad Yazdanpanah"
+  ],
+  "venue": "Proceedings of the Annual International Conference of the IEEE Engineering in Medicine and Biology Society",
+  "type": "conference-paper"
+}

@@ -1,0 +1,22 @@
+{
+  "status": "matched",
+  "author_pub_id": "8GQnNP0AAAAJ:hC7cP41nSMkC",
+  "scholar_title": "Morphology semantics-guided vision language alignment for cervical cell image classification",
+  "fetched_at": "2026-10-19T09:35:07.607813+00:00",
+  "openalex_id": "https://openalex.org/W7202092426",
+  "doi": "https://doi.org/10.1016/j.patcog.2026.114606",
+  "title": "Morphology semantics-guided vision language alignment for cervical cell image classification",
+  "publication_date": "2026-08-10",
+  "publication_year": 2026,
+  "authors": [
+    "Jiaxin Lei",
+    "Zunlei Feng",
+    "Xiaoyan Sun",
+    "Jingwen Ye",
+    "Zhenming Yuan",
+    "Jun Yu",
+    "Jian Zhang"
+  ],
+  "venue": "Pattern Recognition",
+  "type": "article"
+}

@@ -1,0 +1,26 @@
+{
+  "status": "matched",
+  "author_pub_id": "8GQnNP0AAAAJ:KlAtU1dfN6UC",
+  "scholar_title": "Improving expressivity of gnns with subgraph-specific factor embedded normalization",
+  "fetched_at": "2026-10-19T09:49:11.178418+00:00",
+  "openalex_id": "https://openalex.org/W4385567890",
+  "doi": "https://doi.org/10.1145/3580305.3599388",
+  "title": "Improving Expressivity of GNNs with Subgraph-specific Factor Embedded Normalization",
+  "publication_date": "2023-08-04",
+  "publication_year": 2023,
+  "authors": [
+    "Kaixuan Chen",
+    "Shunyu Liu",
+    "Tongtian Zhu",
+    "Qiao Ji",
+    "Yun Su",
+    "Yingjie Tian",
+    "Tongya Zheng",
+    "Haofei Zhang",
+    "Zunlei Feng",
+    "Jingwen Ye",
+    "Mingli Song"
+  ],
+  "venue": "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)",
+  "type": "conference-paper"
+}

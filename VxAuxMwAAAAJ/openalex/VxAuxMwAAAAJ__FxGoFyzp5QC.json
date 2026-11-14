@@ -1,0 +1,22 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:_FxGoFyzp5QC",
+  "scholar_title": "A Framework for Generating Realistic Synthetic Sequences of Total Internal Reflection Fluorescence Microscopy Images",
+  "fetched_at": "2026-10-19T12:38:11.145732+00:00",
+  "openalex_id": "https://openalex.org/W1969032534",
+  "doi": "https://doi.org/10.1109/isbi.2013.6556436",
+  "title": "A framework for generating realistic synthetic sequences of total internal reflection fluorescence microscopy images",
+  "publication_date": "2013-04-01",
+  "publication_year": 2013,
+  "authors": [
+    "S. Hamid Rezatofighi",
+    "William T. E. Pitkeathly",
+    "Stephen Jay Gould",
+    "Richard I. Hartley",
+    "Katarina Mele",
+    "William E. Hughes",
+    "James G. Burchfield"
+  ],
+  "venue": "IEEE International Symposium on Biomedical Imaging (ISBI)",
+  "type": "conference-paper"
+}

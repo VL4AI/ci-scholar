@@ -1,0 +1,20 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:eQOLeE2rZwMC",
+  "scholar_title": "Context-dependent segmentation of retinal blood vessels using Hidden Markov Models",
+  "fetched_at": "2026-10-19T12:51:23.675136+00:00",
+  "openalex_id": "https://openalex.org/W1667836359",
+  "doi": "https://doi.org/10.1007/978-3-540-89985-3_43",
+  "title": "Context-Dependent Segmentation of Retinal Blood Vessels Using Hidden Markov Models",
+  "publication_date": "2008-01-01",
+  "publication_year": 2008,
+  "authors": [
+    "Amir Pourmorteza",
+    "S. Hamid Rezatofighi",
+    "Alireza Roodaki",
+    "Ashkan Yazdani",
+    "Hamid Soltanian-zadeh A"
+  ],
+  "venue": "Communications in computer and information science",
+  "type": "conference-paper"
+}

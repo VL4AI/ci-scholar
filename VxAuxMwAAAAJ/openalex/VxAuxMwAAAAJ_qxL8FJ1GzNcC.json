@@ -1,0 +1,21 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:qxL8FJ1GzNcC",
+  "scholar_title": "Joint probabilistic matching using m-best solutions",
+  "fetched_at": "2026-10-19T12:38:11.145732+00:00",
+  "openalex_id": "https://openalex.org/W2471056492",
+  "doi": "https://doi.org/10.1109/cvpr.2016.22",
+  "title": "Joint Probabilistic Matching Using m-Best Solutions",
+  "publication_date": "2016-06-01",
+  "publication_year": 2016,
+  "authors": [
+    "S. Hamid Rezatofighi",
+    "Anton Milani",
+    "Zhen Zhang",
+    "Qinfeng Shi",
+    "Anthony Dick",
+    "Ian D. Reid"
+  ],
+  "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings",
+  "type": "conference-paper"
+}

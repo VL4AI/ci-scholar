@@ -1,0 +1,21 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:JV2RwH3_ST0C",
+  "scholar_title": "Meta Learning with Differentiable Closed-form Solver for Fast Video Object Segmentation",
+  "fetched_at": "2026-10-19T12:38:11.145732+00:00",
+  "openalex_id": "https://openalex.org/W3129365350",
+  "doi": "https://doi.org/10.1109/iros45743.2020.9341282",
+  "title": "Meta Learning with Differentiable Closed-form Solver for Fast Video Object Segmentation",
+  "publication_date": "2020-10-24",
+  "publication_year": 2020,
+  "authors": [
+    "Yu Liu",
+    "Lingqiao Liu",
+    "Haokui Zhang",
+    "Hamid Rezatofighi",
+    "Qingsen Yan",
+    "Ian D. Reid"
+  ],
+  "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+  "type": "conference-paper"
+}

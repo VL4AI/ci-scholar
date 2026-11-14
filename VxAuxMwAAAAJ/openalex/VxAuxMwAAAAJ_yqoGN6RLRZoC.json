@@ -1,0 +1,20 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:yqoGN6RLRZoC",
+  "scholar_title": "ASAP-Textured Gaussians: Enhancing Textured Gaussians with Adaptive Sampling and Anisotropic Parameterization",
+  "fetched_at": "2026-10-19T09:49:11.178418+00:00",
+  "openalex_id": "https://openalex.org/W4417466214",
+  "doi": "https://doi.org/10.48550/arxiv.2512.14039",
+  "title": "ASAP-Textured Gaussians: Enhancing Textured Gaussians with Adaptive Sampling and Anisotropic Parameterization",
+  "publication_date": "2025-12-16",
+  "publication_year": 2025,
+  "authors": [
+    "Wei, Meng",
+    "Cheng Zhang",
+    "Jianmin Zheng",
+    "Hamid Rezatofighi",
+    "Cai, Jianfei"
+  ],
+  "venue": "arXiv (Cornell University)",
+  "type": "preprint"
+}

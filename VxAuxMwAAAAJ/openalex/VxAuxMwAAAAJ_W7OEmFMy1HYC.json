@@ -1,0 +1,19 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:W7OEmFMy1HYC",
+  "scholar_title": "Segmentation of nucleus and cytoplasm of white blood cells using Gram-Schmidt orthogonalization and deformable models",
+  "fetched_at": "2026-10-19T12:38:11.145732+00:00",
+  "openalex_id": "https://openalex.org/W2107806474",
+  "doi": "https://doi.org/10.1109/icosp.2008.4697250",
+  "title": "Segmentation of nucleus and cytoplasm of white blood cells using Gram-Schmidt orthogonalization and deformable models",
+  "publication_date": "2008-10-01",
+  "publication_year": 2008,
+  "authors": [
+    "S. Hamid Rezatofighi",
+    "Reza A. Zoroofi",
+    "Roxana Sharifian",
+    "Hamid Soltanian-zadeh A"
+  ],
+  "venue": null,
+  "type": "conference-paper"
+}

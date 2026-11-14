@@ -1,0 +1,19 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:M3ejUd6NZC8C",
+  "scholar_title": "Efficient point process inference for large-scale object detection",
+  "fetched_at": "2026-10-19T12:38:11.145732+00:00",
+  "openalex_id": "https://openalex.org/W2468758459",
+  "doi": "https://doi.org/10.1109/cvpr.2016.310",
+  "title": "Efficient Point Process Inference for Large-Scale Object Detection",
+  "publication_date": "2016-06-01",
+  "publication_year": 2016,
+  "authors": [
+    "Trung Thanh Pham",
+    "S. Hamid Rezatofighi",
+    "Ian D. Reid",
+    "Tat-Jun Chin"
+  ],
+  "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings",
+  "type": "conference-paper"
+}

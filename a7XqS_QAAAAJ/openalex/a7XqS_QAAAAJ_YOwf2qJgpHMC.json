@@ -1,0 +1,19 @@
+{
+  "status": "matched",
+  "author_pub_id": "a7XqS_QAAAAJ:YOwf2qJgpHMC",
+  "scholar_title": "Deep reinforcement learning-based scheduling for optimizing system load and response time in edge and fog computing environments",
+  "fetched_at": "2026-10-19T09:49:11.178418+00:00",
+  "openalex_id": "https://openalex.org/W4387967604",
+  "doi": "https://doi.org/10.1016/j.future.2023.10.012",
+  "title": "Deep Reinforcement Learning-based scheduling for optimizing system load and response time in edge and fog computing environments",
+  "publication_date": "2023-10-27",
+  "publication_year": 2023,
+  "authors": [
+    "Zhiyu Wang",
+    "Mohammad Goudarzi",
+    "Mingming Gong",
+    "Rajkumar Buyya"
+  ],
+  "venue": "Future Generation Computer Systems",
+  "type": "article"
+}

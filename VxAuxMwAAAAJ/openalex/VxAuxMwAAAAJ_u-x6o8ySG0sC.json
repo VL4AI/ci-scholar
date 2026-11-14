@@ -1,0 +1,20 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:u-x6o8ySG0sC",
+  "scholar_title": "Fisher linear discriminant based person identification using visual evoked potentials",
+  "fetched_at": "2026-10-19T12:51:23.675136+00:00",
+  "openalex_id": "https://openalex.org/W2120635976",
+  "doi": "https://doi.org/10.1109/icosp.2008.4697459",
+  "title": "Fisher linear discriminant based person identification using visual evoked potentials",
+  "publication_date": "2008-10-01",
+  "publication_year": 2008,
+  "authors": [
+    "A. Yazdani",
+    "Alireza Roodaki",
+    "S. Hamid Rezatofighi",
+    "Khashayar Misaghian",
+    "Seyed Kamaledin Setarehdan"
+  ],
+  "venue": null,
+  "type": "conference-paper"
+}

@@ -1,0 +1,28 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:IRz6iEL74y4C",
+  "scholar_title": "VQ-VA World: Towards High-Quality Visual Question-Visual Answering",
+  "fetched_at": "2026-10-19T09:35:07.607813+00:00",
+  "openalex_id": "https://openalex.org/W7106857169",
+  "doi": "https://doi.org/10.48550/arxiv.2511.20573",
+  "title": "VQ-VA World: Towards High-Quality Visual Question-Visual Answering",
+  "publication_date": "2025-11-25",
+  "publication_year": 2025,
+  "authors": [
+    "Gou, Chenhui",
+    "Chen, Zilong",
+    "Wang, Zeyu",
+    "Feng Li",
+    "Zhu, Deyao",
+    "Duan, Zicheng",
+    "Li, Kunchang",
+    "Deng, Chaorui",
+    "Yuan, Hongyi",
+    "Fan, Haoqi",
+    "Xie, Cihang",
+    "Cai, Jianfei",
+    "Rezatofighi, Hamid"
+  ],
+  "venue": "arXiv (Cornell University)",
+  "type": "preprint"
+}

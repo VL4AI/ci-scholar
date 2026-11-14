@@ -1,0 +1,24 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:ns9cj8rnVeAC",
+  "scholar_title": "Learn to Predict Sets Using Feed-Forward Neural Networks",
+  "fetched_at": "2026-10-19T12:24:47.792796+00:00",
+  "openalex_id": "https://openalex.org/W3004234262",
+  "doi": "https://doi.org/10.1109/tpami.2021.3122970",
+  "title": "Learn to Predict Sets Using Feed-Forward Neural Networks",
+  "publication_date": "2021-10-27",
+  "publication_year": 2021,
+  "authors": [
+    "Hamid Rezatofighi",
+    "Tianyu Zhu",
+    "Roman Kaskman",
+    "Farbod Motlagh",
+    "Javen Qinfeng Shi",
+    "Anton Milan",
+    "Daniel Cremers",
+    "Laura Leal-Taixé",
+    "Ian D. Reid"
+  ],
+  "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+  "type": "article"
+}

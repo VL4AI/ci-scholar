@@ -1,0 +1,18 @@
+{
+  "status": "matched",
+  "author_pub_id": "a7XqS_QAAAAJ:tKAzc9rXhukC",
+  "scholar_title": "GeoTrain: Energy-Aware Automatic Parallelism for Foundation Model Training on Heterogeneous Geo-Distributed Resources",
+  "fetched_at": "2026-10-30T03:10:21.896214+00:00",
+  "openalex_id": "https://openalex.org/W7223018088",
+  "doi": "https://doi.org/10.48550/arxiv.2610.26178",
+  "title": "GeoTrain: Energy-Aware Automatic Parallelism for Foundation Model Training on Heterogeneous Geo-Distributed Resources",
+  "publication_date": "2026-10-19",
+  "publication_year": 2026,
+  "authors": [
+    "Bui-Khanh Hoang",
+    "TianZhang He",
+    "Mohammad Goudarzi"
+  ],
+  "venue": "arXiv (Cornell University)",
+  "type": "preprint"
+}

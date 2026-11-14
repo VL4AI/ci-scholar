@@ -1,0 +1,20 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:aqlVkmm33-oC",
+  "scholar_title": "Online multi-target tracking using recurrent neural networks",
+  "fetched_at": "2026-10-19T12:38:11.145732+00:00",
+  "openalex_id": "https://openalex.org/W2339473870",
+  "doi": "https://doi.org/10.1609/aaai.v31i1.11194",
+  "title": "Online Multi-Target Tracking Using Recurrent Neural Networks",
+  "publication_date": "2017-02-12",
+  "publication_year": 2017,
+  "authors": [
+    "Anton Milan",
+    "S. Hamid Rezatofighi",
+    "Anthony Dick",
+    "Ian D. Reid",
+    "Konrad Schindler"
+  ],
+  "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+  "type": "conference-paper"
+}

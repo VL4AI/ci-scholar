@@ -1,0 +1,19 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:URolC5Kub84C",
+  "scholar_title": "Improving Visual Perception of a Social Robot for Controlled and In-the-wild Human-robot Interaction",
+  "fetched_at": "2026-10-19T12:24:47.792796+00:00",
+  "openalex_id": "https://openalex.org/W4392488355",
+  "doi": "https://doi.org/10.1145/3610978.3640648",
+  "title": "Improving Visual Perception of a Social Robot for Controlled and In-the-wild Human-robot Interaction",
+  "publication_date": "2024-03-10",
+  "publication_year": 2024,
+  "authors": [
+    "Wencheng Zhong",
+    "Leimin Tian",
+    "Duy Lê",
+    "Hamid Rezatofighi"
+  ],
+  "venue": "ACM/IEEE International Conference on Human-Robot Interaction (HRI)",
+  "type": "conference-paper"
+}

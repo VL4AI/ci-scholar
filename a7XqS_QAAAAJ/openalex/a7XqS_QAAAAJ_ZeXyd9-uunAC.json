@@ -1,0 +1,20 @@
+{
+  "status": "matched",
+  "author_pub_id": "a7XqS_QAAAAJ:ZeXyd9-uunAC",
+  "scholar_title": "A secure framework for containerized IoT applications in integrated edge–cloud computing environments",
+  "fetched_at": "2026-10-19T09:35:07.607813+00:00",
+  "openalex_id": "https://openalex.org/W4412455392",
+  "doi": "https://doi.org/10.1016/j.future.2025.108010",
+  "title": "A secure framework for containerized IoT applications in integrated edge–cloud computing environments",
+  "publication_date": "2025-07-15",
+  "publication_year": 2025,
+  "authors": [
+    "Qifan Deng",
+    "Mohammad Goudarzi",
+    "Arash Shaghaghi",
+    "Majid Sarvi",
+    "Rajkumar Buyya"
+  ],
+  "venue": "Future Generation Computer Systems",
+  "type": "article"
+}

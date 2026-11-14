@@ -1,0 +1,21 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:0EnyYjriUFMC",
+  "scholar_title": "Multi-Target Tracking with Time-Varying Clutter Rate and Detection Profile: Application to Time-lapse Cell Microscopy Sequences",
+  "fetched_at": "2026-10-19T12:38:11.145732+00:00",
+  "openalex_id": "https://openalex.org/W1979348982",
+  "doi": "https://doi.org/10.1109/tmi.2015.2390647",
+  "title": "Multi-Target Tracking With Time-Varying Clutter Rate and Detection Profile: Application to Time-Lapse Cell Microscopy Sequences",
+  "publication_date": "2015-01-12",
+  "publication_year": 2015,
+  "authors": [
+    "S. Hamid Rezatofighi",
+    "Stephen Jay Gould",
+    "Ba-Tuong Vo",
+    "Ba‐Ngu Vo",
+    "Katarina Mele",
+    "Richard I. Hartley"
+  ],
+  "venue": "IEEE Transactions on Medical Imaging",
+  "type": "article"
+}

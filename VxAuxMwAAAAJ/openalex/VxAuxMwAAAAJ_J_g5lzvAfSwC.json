@@ -1,0 +1,24 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:J_g5lzvAfSwC",
+  "scholar_title": "Mot20: A benchmark for multi object tracking in crowded scenes",
+  "fetched_at": "2026-10-19T12:38:11.145732+00:00",
+  "openalex_id": "https://openalex.org/W3012922853",
+  "doi": "https://doi.org/10.48550/arxiv.2003.09003",
+  "title": "MOT20: A benchmark for multi object tracking in crowded scenes",
+  "publication_date": "2020-03-19",
+  "publication_year": 2020,
+  "authors": [
+    "Patrick Dendorfer",
+    "Hamid Rezatofighi",
+    "Anton Milan",
+    "Qinfeng Shi",
+    "Daniel Cremers",
+    "Ian D. Reid",
+    "Stefan Roth",
+    "Konrad Schindler",
+    "Laura Leal-Taixé"
+  ],
+  "venue": "arXiv (Cornell University)",
+  "type": "preprint"
+}

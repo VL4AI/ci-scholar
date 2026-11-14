@@ -1,0 +1,18 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:i2xiXl-TujoC",
+  "scholar_title": "GyroCopter: Differential Bearing Measuring Trajectory Planner for Tracking and Localizing Radio Frequency Sources",
+  "fetched_at": "2026-10-19T12:11:34.114787+00:00",
+  "openalex_id": "https://openalex.org/W4405179633",
+  "doi": "https://doi.org/10.1109/lra.2024.3512999",
+  "title": "GyroCopter: Differential Bearing Measuring Trajectory Planner for Tracking and Localizing Radio Frequency Sources",
+  "publication_date": "2024-12-09",
+  "publication_year": 2024,
+  "authors": [
+    "Fei Chen",
+    "Hamid Rezatofighi",
+    "Damith Chinthana Ranasinghe"
+  ],
+  "venue": "IEEE Robotics and Automation Letters",
+  "type": "article"
+}

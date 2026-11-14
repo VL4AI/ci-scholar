@@ -1,0 +1,19 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:QD3KBmkZPeQC",
+  "scholar_title": "ARIS: Agentic and Relationship Intelligence System for Social Robots",
+  "fetched_at": "2026-10-19T09:35:07.607813+00:00",
+  "openalex_id": "https://openalex.org/W7160249988",
+  "doi": "https://doi.org/10.48550/arxiv.2605.00943",
+  "title": "ARIS: Agentic and Relationship Intelligence System for Social Robots",
+  "publication_date": "2026-05-01",
+  "publication_year": 2026,
+  "authors": [
+    "Stavya Datta",
+    "Fucai Ke",
+    "Leimin Tian",
+    "Hamid Rezatofighi"
+  ],
+  "venue": "arXiv (Cornell University)",
+  "type": "preprint"
+}

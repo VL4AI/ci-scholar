@@ -1,0 +1,18 @@
+{
+  "status": "matched",
+  "author_pub_id": "a7XqS_QAAAAJ:qUcmZB5y_30C",
+  "scholar_title": "Efficient routing of inference requests across llm instances in cloud-edge computing",
+  "fetched_at": "2026-10-19T09:35:07.607813+00:00",
+  "openalex_id": "https://openalex.org/W4417493428",
+  "doi": "https://doi.org/10.48550/arxiv.2507.15553",
+  "title": "Efficient Routing of Inference Requests across LLM Instances in Cloud-Edge Computing",
+  "publication_date": "2025-07-21",
+  "publication_year": 2025,
+  "authors": [
+    "Shibo Yu",
+    "Mohammad Goudarzi",
+    "Adel N. Toosi"
+  ],
+  "venue": "arXiv (Cornell University)",
+  "type": "preprint"
+}

@@ -1,0 +1,20 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:LhH-TYMQEocC",
+  "scholar_title": "Neurosymbolic Active Goal Recognition in Partially Observable Environments",
+  "fetched_at": "2026-10-19T09:49:11.178418+00:00",
+  "openalex_id": "https://openalex.org/W7162260523",
+  "doi": "https://doi.org/10.65109/ncct4251",
+  "title": "Neurosymbolic Active Goal Recognition in Partially Observable Environments",
+  "publication_date": "2026-05-24",
+  "publication_year": 2026,
+  "authors": [
+    "Chenyuan Zhang",
+    "Sukai Huang",
+    "Hamid Rezatofighi",
+    "Mor Vered",
+    "Buser Say"
+  ],
+  "venue": null,
+  "type": "conference-paper"
+}

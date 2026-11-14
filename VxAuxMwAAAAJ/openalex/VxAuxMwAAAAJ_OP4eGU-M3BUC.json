@@ -1,0 +1,19 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:OP4eGU-M3BUC",
+  "scholar_title": "Aeroseg++: Scale-aware and texture-guided open-vocabulary segmentation with sam features for remote sensing images",
+  "fetched_at": "2026-10-19T09:49:11.178418+00:00",
+  "openalex_id": "https://openalex.org/W7125918494",
+  "doi": "https://doi.org/10.1145/3787522",
+  "title": "AerOSeg++: Scale-Aware and Texture-Guided Open-Vocabulary Segmentation with SAM Features for Remote Sensing Images",
+  "publication_date": "2026-01-28",
+  "publication_year": 2026,
+  "authors": [
+    "Saikat Dutta",
+    "Akhil Vasim",
+    "Hamid Rezatofighi",
+    "Biplab Banerjee"
+  ],
+  "venue": "ACM Transactions on Multimedia Computing Communications and Applications",
+  "type": "article"
+}

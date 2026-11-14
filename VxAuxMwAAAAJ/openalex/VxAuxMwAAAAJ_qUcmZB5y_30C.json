@@ -1,0 +1,20 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:qUcmZB5y_30C",
+  "scholar_title": "Joint Learning of Set Cardinality and State Distribution",
+  "fetched_at": "2026-10-19T12:38:11.145732+00:00",
+  "openalex_id": "https://openalex.org/W2755393088",
+  "doi": "https://doi.org/10.1609/aaai.v32i1.11639",
+  "title": "Joint Learning of Set Cardinality and State Distribution",
+  "publication_date": "2018-04-29",
+  "publication_year": 2018,
+  "authors": [
+    "S. Hamid Rezatofighi",
+    "Anton Milan",
+    "Qinfeng Shi",
+    "Anthony Dick",
+    "Ian D. Reid"
+  ],
+  "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+  "type": "conference-paper"
+}

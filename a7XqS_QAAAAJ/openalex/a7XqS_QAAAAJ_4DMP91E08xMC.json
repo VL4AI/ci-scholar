@@ -1,0 +1,19 @@
+{
+  "status": "matched",
+  "author_pub_id": "a7XqS_QAAAAJ:4DMP91E08xMC",
+  "scholar_title": "Lack of Systematic Approach to Security of IoT Context Sharing Platforms",
+  "fetched_at": "2026-10-19T09:49:11.178418+00:00",
+  "openalex_id": "https://openalex.org/W4405441319",
+  "doi": "https://doi.org/10.1109/pst62714.2024.10788050",
+  "title": "Lack of Systematic Approach to Security of IoT Context Sharing Platforms",
+  "publication_date": "2024-08-28",
+  "publication_year": 2024,
+  "authors": [
+    "Mohammad Goudarzi",
+    "Arash Shaghaghi",
+    "Simon Finn",
+    "Sanjay Kumar Jha"
+  ],
+  "venue": "International Conference on Privacy, Security and Trust (PST)",
+  "type": "conference-paper"
+}

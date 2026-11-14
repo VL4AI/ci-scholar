@@ -1,0 +1,23 @@
+{
+  "status": "matched",
+  "author_pub_id": "8GQnNP0AAAAJ:LkGwnXOMwfcC",
+  "scholar_title": "Learning with recoverable forgetting",
+  "fetched_at": "2026-10-19T12:11:34.114787+00:00",
+  "openalex_id": "https://openalex.org/W4312874698",
+  "doi": "https://doi.org/10.1007/978-3-031-20083-0_6",
+  "title": "Learning with Recoverable Forgetting",
+  "publication_date": "2022-01-01",
+  "publication_year": 2022,
+  "authors": [
+    "Jingwen Ye",
+    "Yifang Fu",
+    "Jie Song",
+    "Xingyi Yang",
+    "Songhua Liu",
+    "Xin Jin",
+    "Mingli Song",
+    "Xinchao Wang"
+  ],
+  "venue": "Lecture notes in computer science",
+  "type": "conference-paper"
+}

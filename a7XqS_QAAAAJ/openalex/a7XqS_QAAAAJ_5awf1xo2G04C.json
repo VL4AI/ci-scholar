@@ -1,0 +1,18 @@
+{
+  "status": "matched",
+  "author_pub_id": "a7XqS_QAAAAJ:5awf1xo2G04C",
+  "scholar_title": "An Empirical Evaluation of Kubernetes Resilience in Cloud–Edge Deployments Using Failure Injection Techniques",
+  "fetched_at": "2026-10-30T03:10:21.896214+00:00",
+  "openalex_id": "https://openalex.org/W7167224963",
+  "doi": "https://doi.org/10.1145/3793811.3793823",
+  "title": "An Empirical Evaluation of Kubernetes Resilience in Cloud–Edge Deployments Using Failure Injection Techniques",
+  "publication_date": "2026-02-09",
+  "publication_year": 2026,
+  "authors": [
+    "Zihao Chen",
+    "Mohammad Goudarzi",
+    "Adel N. Toosi"
+  ],
+  "venue": "Australasian Computer Science Week Multiconference (ACSW)",
+  "type": "conference-paper"
+}

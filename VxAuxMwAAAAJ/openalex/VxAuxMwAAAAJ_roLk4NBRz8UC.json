@@ -1,0 +1,21 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:roLk4NBRz8UC",
+  "scholar_title": "A Multiple Model Probability Hypothesis Density Tracker for Time-Lapse Cell Microscopy Sequences",
+  "fetched_at": "2026-10-19T12:38:11.145732+00:00",
+  "openalex_id": "https://openalex.org/W81229128",
+  "doi": "https://doi.org/10.1007/978-3-642-38868-2_10",
+  "title": "A Multiple Model Probability Hypothesis Density Tracker for Time-Lapse Cell Microscopy Sequences",
+  "publication_date": "2013-01-01",
+  "publication_year": 2013,
+  "authors": [
+    "S. Hamid Rezatofighi",
+    "Stephen Jay Gould",
+    "Ba‐Ngu Vo",
+    "Katarina Mele",
+    "William E. Hughes",
+    "Richard I. Hartley"
+  ],
+  "venue": "Lecture notes in computer science",
+  "type": "conference-paper"
+}

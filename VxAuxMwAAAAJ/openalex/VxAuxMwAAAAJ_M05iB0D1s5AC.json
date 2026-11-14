@@ -1,0 +1,20 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:M05iB0D1s5AC",
+  "scholar_title": "Probabilistic Tracklet Scoring and Inpainting for Multiple Object Tracking",
+  "fetched_at": "2026-10-19T12:24:47.792796+00:00",
+  "openalex_id": "https://openalex.org/W3111581832",
+  "doi": "https://doi.org/10.1109/cvpr46437.2021.01410",
+  "title": "Probabilistic Tracklet Scoring and Inpainting for Multiple Object Tracking",
+  "publication_date": "2021-06-01",
+  "publication_year": 2021,
+  "authors": [
+    "Fatemeh Sadat Saleh",
+    "Sadegh Aliakbarian",
+    "Hamid Rezatofighi",
+    "Mathieu Salzmann",
+    "Stephen Jay Gould"
+  ],
+  "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings",
+  "type": "conference-paper"
+}

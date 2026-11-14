@@ -1,0 +1,19 @@
+{
+  "status": "matched",
+  "author_pub_id": "a7XqS_QAAAAJ:_Qo2XoVZTnwC",
+  "scholar_title": "LLM-Driven Intent-Based Privacy-Aware Orchestration Across the Cloud--Edge Continuum",
+  "fetched_at": "2026-10-19T09:35:07.607813+00:00",
+  "openalex_id": "https://openalex.org/W7130583799",
+  "doi": "https://doi.org/10.1145/3793811.3793824",
+  "title": "LLM-Driven Intent-Based Privacy-Aware Orchestration Across the Cloud--Edge Continuum",
+  "publication_date": "2026-02-09",
+  "publication_year": 2026,
+  "authors": [
+    "Zijie Su",
+    "Muhammed Tawfiqul Islam",
+    "Mohammad Goudarzi",
+    "Adel N. Toosi"
+  ],
+  "venue": "Australasian Computer Science Week (ACSW)",
+  "type": "conference-paper"
+}

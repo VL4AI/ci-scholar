@@ -1,0 +1,20 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:YFjsv_pBGBYC",
+  "scholar_title": "Application of the IMM-JPDA filter to multiple target tracking in total internal reflection fluorescence microscopy images",
+  "fetched_at": "2026-10-19T12:38:11.145732+00:00",
+  "openalex_id": "https://openalex.org/W2131586328",
+  "doi": "https://doi.org/10.1007/978-3-642-33415-3_44",
+  "title": "Application of the IMM-JPDA Filter to Multiple Target Tracking in Total Internal Reflection Fluorescence Microscopy Images",
+  "publication_date": "2012-01-01",
+  "publication_year": 2012,
+  "authors": [
+    "S. Hamid Rezatofighi",
+    "Stephen Jay Gould",
+    "Richard I. Hartley",
+    "Katarina Mele",
+    "William E. Hughes"
+  ],
+  "venue": "Lecture notes in computer science",
+  "type": "conference-paper"
+}

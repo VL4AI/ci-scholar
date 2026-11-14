@@ -1,0 +1,17 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:IjCSPb-OGe4C",
+  "scholar_title": "Automatic recognition of five types of white blood cells in peripheral blood",
+  "fetched_at": "2026-10-19T12:38:11.145732+00:00",
+  "openalex_id": "https://openalex.org/W1980276039",
+  "doi": "https://doi.org/10.1016/j.compmedimag.2011.01.003",
+  "title": "Automatic recognition of five types of white blood cells in peripheral blood",
+  "publication_date": "2011-02-07",
+  "publication_year": 2011,
+  "authors": [
+    "S. Hamid Rezatofighi",
+    "Hamid Soltanian-zadeh A"
+  ],
+  "venue": "Computerized Medical Imaging and Graphics",
+  "type": "article"
+}

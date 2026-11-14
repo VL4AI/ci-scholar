@@ -1,0 +1,19 @@
+{
+  "status": "matched",
+  "author_pub_id": "8GQnNP0AAAAJ:d1gkVwhDpl0C",
+  "scholar_title": "Finer-net: Cascaded human parsing with hierarchical granularity",
+  "fetched_at": "2026-10-19T12:24:47.792796+00:00",
+  "openalex_id": "https://openalex.org/W2897002586",
+  "doi": "https://doi.org/10.1109/icme.2018.8486505",
+  "title": "Finer-Net: Cascaded Human Parsing with Hierarchical Granularity",
+  "publication_date": "2018-07-01",
+  "publication_year": 2018,
+  "authors": [
+    "Jingwen Ye",
+    "Zunlei Feng",
+    "Yongcheng Jing",
+    "Mingli Song"
+  ],
+  "venue": "IEEE International Conference on Multimedia and Expo (ICME)",
+  "type": "conference-paper"
+}

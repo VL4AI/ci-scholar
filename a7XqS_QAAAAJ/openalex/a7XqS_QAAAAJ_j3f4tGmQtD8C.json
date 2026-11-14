@@ -1,0 +1,20 @@
+{
+  "status": "matched",
+  "author_pub_id": "a7XqS_QAAAAJ:j3f4tGmQtD8C",
+  "scholar_title": "GraphFlash: Enabling Fast and Elastic Graph Processing on Serverless Infrastructure",
+  "fetched_at": "2026-10-19T09:35:07.607813+00:00",
+  "openalex_id": "https://openalex.org/W7172471085",
+  "doi": "https://doi.org/10.1109/2575-8411.2026.00066",
+  "title": "GraphFlash: Enabling Fast and Elastic Graph Processing on Serverless Infrastructure",
+  "publication_date": "2026-06-01",
+  "publication_year": 2026,
+  "authors": [
+    "Chen Zhao",
+    "Parsa Poorsistani",
+    "Mohammad Goudarzi",
+    "Tawfiq Islam",
+    "Adel N. Toosi"
+  ],
+  "venue": "IEEE International Conference on Distributed Computing Systems (ICDCS)",
+  "type": "conference-paper"
+}

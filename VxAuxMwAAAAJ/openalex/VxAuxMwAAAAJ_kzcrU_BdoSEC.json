@@ -1,0 +1,18 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:kzcrU_BdoSEC",
+  "scholar_title": "Real-time Trajectory-based Social Group Detection",
+  "fetched_at": "2026-10-19T12:24:47.792796+00:00",
+  "openalex_id": "https://openalex.org/W4389667324",
+  "doi": "https://doi.org/10.1109/iros55552.2023.10342121",
+  "title": "Real-Time Trajectory-Based Social Group Detection",
+  "publication_date": "2023-10-01",
+  "publication_year": 2023,
+  "authors": [
+    "Simindokht Jahangard",
+    "Munawar Hayat",
+    "Hamid Rezatofighi"
+  ],
+  "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+  "type": "conference-paper"
+}

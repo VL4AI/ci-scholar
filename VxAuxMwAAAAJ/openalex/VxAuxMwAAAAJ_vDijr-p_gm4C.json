@@ -1,0 +1,20 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:vDijr-p_gm4C",
+  "scholar_title": "Series2Vec: Similarity-based Self-supervised Representation Learning for Time Series Classification",
+  "fetched_at": "2026-10-19T12:24:47.792796+00:00",
+  "openalex_id": "https://openalex.org/W4399865033",
+  "doi": "https://doi.org/10.1007/s10618-024-01043-w",
+  "title": "Series2vec: similarity-based self-supervised representation learning for time series classification",
+  "publication_date": "2024-06-20",
+  "publication_year": 2024,
+  "authors": [
+    "Navid Mohammadi Foumani",
+    "Chang Wei Tan",
+    "Geoffrey I. Webb",
+    "Hamid Rezatofighi",
+    "Mahsa Salehi"
+  ],
+  "venue": "Data Mining and Knowledge Discovery",
+  "type": "article"
+}

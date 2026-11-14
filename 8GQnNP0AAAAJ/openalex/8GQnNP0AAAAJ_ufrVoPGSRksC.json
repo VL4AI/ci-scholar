@@ -1,0 +1,18 @@
+{
+  "status": "matched",
+  "author_pub_id": "8GQnNP0AAAAJ:ufrVoPGSRksC",
+  "scholar_title": "Factorizing knowledge in neural networks",
+  "fetched_at": "2026-10-19T12:11:34.114787+00:00",
+  "openalex_id": "https://openalex.org/W4312599584",
+  "doi": "https://doi.org/10.1007/978-3-031-19830-4_5",
+  "title": "Factorizing Knowledge in Neural Networks",
+  "publication_date": "2022-01-01",
+  "publication_year": 2022,
+  "authors": [
+    "Xingyi Yang",
+    "Jingwen Ye",
+    "Xinchao Wang"
+  ],
+  "venue": "Lecture notes in computer science",
+  "type": "conference-paper"
+}
