@@ -1,0 +1,19 @@
+{
+  "status": "matched",
+  "author_pub_id": "a7XqS_QAAAAJ:R3hNpaxXUhUC",
+  "scholar_title": "DeFRiS: Silo-Cooperative IoT Applications Scheduling via Decentralized Federated Reinforcement Learning",
+  "fetched_at": "2026-11-18T14:32:41.731486+00:00",
+  "openalex_id": "https://openalex.org/W7138248549",
+  "doi": "https://doi.org/10.1109/tpds.2026.3752125",
+  "title": "DeFRiS: Silo-Cooperative IoT Applications Scheduling via Decentralized Federated Reinforcement Learning",
+  "publication_date": "2026-01-01",
+  "publication_year": 2026,
+  "authors": [
+    "Zhiyu Wang",
+    "Mohammad Goudarzi",
+    "Mingming Gong",
+    "Rajkumar Buyya"
+  ],
+  "venue": "IEEE Transactions on Parallel and Distributed Systems",
+  "type": "article"
+}

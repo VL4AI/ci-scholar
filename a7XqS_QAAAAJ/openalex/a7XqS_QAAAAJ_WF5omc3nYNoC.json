@@ -1,0 +1,18 @@
+{
+  "status": "matched",
+  "author_pub_id": "a7XqS_QAAAAJ:WF5omc3nYNoC",
+  "scholar_title": "FogBus2: a lightweight and distributed container-based framework for integration of IoT-enabled systems with edge and cloud computing",
+  "fetched_at": "2026-11-16T20:41:03.930944+00:00",
+  "openalex_id": "https://openalex.org/W3165626933",
+  "doi": "https://doi.org/10.1145/3460866.3461768",
+  "title": "FogBus2: a lightweight and distributed container-based framework for integration of IoT-enabled systems with edge and cloud computing",
+  "publication_date": "2021-05-20",
+  "publication_year": 2021,
+  "authors": [
+    "Qifan Deng",
+    "Mohammad Goudarzi",
+    "Rajkumar Buyya"
+  ],
+  "venue": "International Workshop on Big Data in Emergent Distributed Environments (BiDEDE)",
+  "type": "conference-paper"
+}

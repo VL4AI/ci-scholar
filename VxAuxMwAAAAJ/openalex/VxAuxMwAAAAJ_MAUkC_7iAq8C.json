@@ -1,0 +1,23 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:MAUkC_7iAq8C",
+  "scholar_title": "JARVIS: From Visual Manuals to Autonomous Robotic Assembly",
+  "fetched_at": "2026-10-24T17:51:30.850397+00:00",
+  "openalex_id": "https://openalex.org/W7223090202",
+  "doi": "https://doi.org/10.48550/arxiv.2610.27618",
+  "title": "JARVIS: From Visual Manuals to Autonomous Robotic Assembly",
+  "publication_date": "2026-10-20",
+  "publication_year": 2026,
+  "authors": [
+    "Fan Ding",
+    "Fucai Ke",
+    "Kevin Ma",
+    "Xuewen Luo",
+    "Wenyu Liang",
+    "Vishnu Monn Baskaran",
+    "Hamid Rezatofighi",
+    "Yan Wu"
+  ],
+  "venue": "arXiv (Cornell University)",
+  "type": "preprint"
+}

@@ -1,0 +1,20 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:lSLTfruPkqcC",
+  "scholar_title": "Attend And Discriminate: Beyond the State-of-the-Art for Human Activity Recognition using Wearable Sensors",
+  "fetched_at": "2026-11-18T14:32:41.731486+00:00",
+  "openalex_id": "https://openalex.org/W3144294392",
+  "doi": "https://doi.org/10.1145/3448083",
+  "title": "Attend and Discriminate: Beyond the State-of-the-Art for Human Activity Recognition Using Wearable Sensors",
+  "publication_date": "2021-03-19",
+  "publication_year": 2021,
+  "authors": [
+    "Alireza Abedin",
+    "Mahsa Ehsanpour",
+    "Qinfeng Shi",
+    "Hamid Rezatofighi",
+    "Damith Chinthana Ranasinghe"
+  ],
+  "venue": "Proceedings of the ACM on Interactive Mobile Wearable and Ubiquitous Technologies",
+  "type": "article"
+}

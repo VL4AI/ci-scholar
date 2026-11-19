@@ -1,0 +1,18 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:9yKSN-GCB0IC",
+  "scholar_title": "An enhanced segmentation of blood vessels in retinal images using contourlet",
+  "fetched_at": "2026-11-18T14:32:41.731486+00:00",
+  "openalex_id": "https://openalex.org/W2105393075",
+  "doi": "https://doi.org/10.1109/iembs.2008.4649967",
+  "title": "An enhanced segmentation of blood vessels in retinal images using contourlet",
+  "publication_date": "2008-08-01",
+  "publication_year": 2008,
+  "authors": [
+    "S. Hamid Rezatofighi",
+    "Alireza Roodaki",
+    "Hossein Ahmadi Noubari"
+  ],
+  "venue": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)",
+  "type": "conference-paper"
+}

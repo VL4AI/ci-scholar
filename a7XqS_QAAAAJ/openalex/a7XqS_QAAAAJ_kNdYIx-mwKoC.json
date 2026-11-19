@@ -1,0 +1,18 @@
+{
+  "status": "matched",
+  "author_pub_id": "a7XqS_QAAAAJ:kNdYIx-mwKoC",
+  "scholar_title": "Efficient multisite computation offloading for mobile cloud computing",
+  "fetched_at": "2026-11-18T14:32:41.731486+00:00",
+  "openalex_id": "https://openalex.org/W2573351246",
+  "doi": "https://doi.org/10.1109/uic-atc-scalcom-cbdcom-iop-smartworld.2016.0174",
+  "title": "Efficient Multisite Computation Offloading for Mobile Cloud Computing",
+  "publication_date": "2016-07-01",
+  "publication_year": 2016,
+  "authors": [
+    "Mohammad Goudarzi",
+    "Zeinab Movahedi",
+    "Masoud Nazari"
+  ],
+  "venue": "IEEE Smart World Congress and International Conferences on Ubiquitous Intelligence & Computing, Advanced and Trusted Computing, Scalable Computing and Communications, Cloud and Big Data Computing, Internet of People (SmartWorld/UIC/ATC/ScalCom/CBDCom/IoP)",
+  "type": "conference-paper"
+}
