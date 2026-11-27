@@ -1,0 +1,19 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:zYLM7Y9cAGgC",
+  "scholar_title": "Boundary delineation for hepatic hemangioma in ultrasound images",
+  "fetched_at": "2026-11-18T14:32:41.731486+00:00",
+  "openalex_id": "https://openalex.org/W2112963334",
+  "doi": "https://doi.org/10.1109/iembs.2011.6091970",
+  "title": "Boundary delineation for hepatic hemangioma in ultrasound images",
+  "publication_date": "2011-08-01",
+  "publication_year": 2011,
+  "authors": [
+    "N. Bahrami",
+    "S. Hamid Rezatofighi",
+    "A. M. Adeli",
+    "Seyed Kamaledin Setarehdan"
+  ],
+  "venue": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)",
+  "type": "conference-paper"
+}

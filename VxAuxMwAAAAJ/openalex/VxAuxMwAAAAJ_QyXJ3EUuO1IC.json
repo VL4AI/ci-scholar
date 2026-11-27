@@ -1,0 +1,27 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:QyXJ3EUuO1IC",
+  "scholar_title": "Rethinking in Spikes: Mitigating Hallucinations in MDLMs with Step-Aware Decoding",
+  "fetched_at": "2026-11-25T05:40:28.961352+00:00",
+  "openalex_id": "https://openalex.org/W7225790962",
+  "doi": "https://doi.org/10.48550/arxiv.2611.12901",
+  "title": "Rethinking in Spikes: Mitigating Hallucinations in MDLMs with Step-Aware Decoding",
+  "publication_date": "2026-10-14",
+  "publication_year": 2026,
+  "authors": [
+    "Zhongxing Xu",
+    "Zhonghua Wang",
+    "Zhe Qian",
+    "Shiyan Su",
+    "Ming Hu",
+    "Xiaocheng Zou",
+    "Wei Feng",
+    "Mingquan Lin",
+    "Yuyin Zhou",
+    "Yifan Peng",
+    "Hamid Rezatofighi",
+    "Zongyuan Ge"
+  ],
+  "venue": "arXiv",
+  "type": "preprint"
+}

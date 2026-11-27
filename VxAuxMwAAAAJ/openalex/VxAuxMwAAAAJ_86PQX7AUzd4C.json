@@ -1,0 +1,19 @@
+{
+  "status": "matched",
+  "author_pub_id": "VxAuxMwAAAAJ:86PQX7AUzd4C",
+  "scholar_title": "Marginalized Generalized IoU (MGIoU): A Unified Objective Function for Optimizing Any Convex Parametric Shapes",
+  "fetched_at": "2026-11-18T14:32:41.731486+00:00",
+  "openalex_id": "https://openalex.org/W7138383206",
+  "doi": "https://doi.org/10.1609/aaai.v40i7.37505",
+  "title": "Marginalized Generalized IoU (MGIoU): A Unified Objective Function for Optimizing Convex Parametric Shapes",
+  "publication_date": "2026-03-14",
+  "publication_year": 2026,
+  "authors": [
+    "Duy-Tho Le",
+    "Trung Hieu Pham",
+    "Jianfei Cai",
+    "Hamid Rezatofighi"
+  ],
+  "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+  "type": "conference-paper"
+}

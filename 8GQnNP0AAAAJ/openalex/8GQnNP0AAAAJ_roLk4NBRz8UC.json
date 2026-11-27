@@ -1,0 +1,20 @@
+{
+  "status": "matched",
+  "author_pub_id": "8GQnNP0AAAAJ:roLk4NBRz8UC",
+  "scholar_title": "A survey of neural trees",
+  "fetched_at": "2026-11-18T14:32:41.731486+00:00",
+  "openalex_id": "https://openalex.org/W4403182938",
+  "doi": "https://doi.org/10.1109/tnnls.2024.3446891",
+  "title": "A Survey of Neural Trees: Co-Evolving Neural Networks and Decision Trees",
+  "publication_date": "2024-10-07",
+  "publication_year": 2024,
+  "authors": [
+    "Haoling Li",
+    "Jie Song",
+    "Mengqi Xue",
+    "Haofei Zhang",
+    "Mingli Song"
+  ],
+  "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+  "type": "review"
+}
